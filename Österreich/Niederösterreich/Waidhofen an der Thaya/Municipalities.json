@@ -1,0 +1,257 @@
+[
+  {
+    "code": "32202",
+    "district": {
+      "code": "322",
+      "name": "Waidhofen an der Thaya",
+      "key": "322"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3813",
+    "name": "Dietmanns",
+    "multiplePostalCodes": false,
+    "key": "32202",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32203",
+    "district": {
+      "code": "322",
+      "name": "Waidhofen an der Thaya",
+      "key": "322"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3843",
+    "name": "Dobersberg",
+    "multiplePostalCodes": true,
+    "key": "32203",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32206",
+    "district": {
+      "code": "322",
+      "name": "Waidhofen an der Thaya",
+      "key": "322"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3852",
+    "name": "Gastern",
+    "multiplePostalCodes": true,
+    "key": "32206",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32207",
+    "district": {
+      "code": "322",
+      "name": "Waidhofen an der Thaya",
+      "key": "322"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3812",
+    "name": "Groß-Siegharts",
+    "multiplePostalCodes": false,
+    "key": "32207",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "32209",
+    "district": {
+      "code": "322",
+      "name": "Waidhofen an der Thaya",
+      "key": "322"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3822",
+    "name": "Karlstein an der Thaya",
+    "multiplePostalCodes": false,
+    "key": "32209",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32210",
+    "district": {
+      "code": "322",
+      "name": "Waidhofen an der Thaya",
+      "key": "322"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3851",
+    "name": "Kautzen",
+    "multiplePostalCodes": true,
+    "key": "32210",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32212",
+    "district": {
+      "code": "322",
+      "name": "Waidhofen an der Thaya",
+      "key": "322"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3762",
+    "name": "Ludweis-Aigen",
+    "multiplePostalCodes": true,
+    "key": "32212",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32214",
+    "district": {
+      "code": "322",
+      "name": "Waidhofen an der Thaya",
+      "key": "322"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3834",
+    "name": "Pfaffenschlag bei Waidhofen a.d.Thaya",
+    "multiplePostalCodes": false,
+    "key": "32214",
+    "status": "None"
+  },
+  {
+    "code": "32216",
+    "district": {
+      "code": "322",
+      "name": "Waidhofen an der Thaya",
+      "key": "322"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3820",
+    "name": "Raabs an der Thaya",
+    "multiplePostalCodes": true,
+    "key": "32216",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "32217",
+    "district": {
+      "code": "322",
+      "name": "Waidhofen an der Thaya",
+      "key": "322"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3842",
+    "name": "Thaya",
+    "multiplePostalCodes": true,
+    "key": "32217",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32219",
+    "district": {
+      "code": "322",
+      "name": "Waidhofen an der Thaya",
+      "key": "322"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3902",
+    "name": "Vitis",
+    "multiplePostalCodes": true,
+    "key": "32219",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32220",
+    "district": {
+      "code": "322",
+      "name": "Waidhofen an der Thaya",
+      "key": "322"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3830",
+    "name": "Waidhofen an der Thaya",
+    "multiplePostalCodes": false,
+    "key": "32220",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "32221",
+    "district": {
+      "code": "322",
+      "name": "Waidhofen an der Thaya",
+      "key": "322"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3830",
+    "name": "Waidhofen an der Thaya-Land",
+    "multiplePostalCodes": true,
+    "key": "32221",
+    "status": "None"
+  },
+  {
+    "code": "32222",
+    "district": {
+      "code": "322",
+      "name": "Waidhofen an der Thaya",
+      "key": "322"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3844",
+    "name": "Waldkirchen an der Thaya",
+    "multiplePostalCodes": false,
+    "key": "32222",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32223",
+    "district": {
+      "code": "322",
+      "name": "Waidhofen an der Thaya",
+      "key": "322"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3841",
+    "name": "Windigsteig",
+    "multiplePostalCodes": true,
+    "key": "32223",
+    "status": "MarketTown"
+  }
+]

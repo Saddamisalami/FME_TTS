@@ -1,0 +1,44 @@
+[
+  {
+    "district": {
+      "name": "Bezirk Höfe",
+      "key": "503"
+    },
+    "name": "Feusisberg",
+    "canton": {
+      "code": "SZ",
+      "name": "Schwyz",
+      "key": "5"
+    },
+    "shortName": "Feusisberg",
+    "key": "1321"
+  },
+  {
+    "district": {
+      "name": "Bezirk Höfe",
+      "key": "503"
+    },
+    "name": "Freienbach",
+    "canton": {
+      "code": "SZ",
+      "name": "Schwyz",
+      "key": "5"
+    },
+    "shortName": "Freienbach",
+    "key": "1322"
+  },
+  {
+    "district": {
+      "name": "Bezirk Höfe",
+      "key": "503"
+    },
+    "name": "Wollerau",
+    "canton": {
+      "code": "SZ",
+      "name": "Schwyz",
+      "key": "5"
+    },
+    "shortName": "Wollerau",
+    "key": "1323"
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "code": "41801",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4671",
+    "name": "Aichkirchen",
+    "multiplePostalCodes": false,
+    "key": "41801",
+    "status": "None"
+  },
+  {
+    "code": "41802",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4672",
+    "name": "Bachmanning",
+    "multiplePostalCodes": false,
+    "key": "41802",
+    "status": "None"
+  },
+  {
+    "code": "41803",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4654",
+    "name": "Bad Wimsbach-Neydharting",
+    "multiplePostalCodes": false,
+    "key": "41803",
+    "status": "MarketTown"
+  },
+  {
+    "code": "41804",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4611",
+    "name": "Buchkirchen",
+    "multiplePostalCodes": true,
+    "key": "41804",
+    "status": "MarketTown"
+  },
+  {
+    "code": "41805",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4653",
+    "name": "Eberstalzell",
+    "multiplePostalCodes": false,
+    "key": "41805",
+    "status": "None"
+  },
+  {
+    "code": "41806",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4650",
+    "name": "Edt bei Lambach",
+    "multiplePostalCodes": false,
+    "key": "41806",
+    "status": "None"
+  },
+  {
+    "code": "41807",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4652",
+    "name": "Fischlham",
+    "multiplePostalCodes": true,
+    "key": "41807",
+    "status": "None"
+  },
+  {
+    "code": "41808",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4623",
+    "name": "Gunskirchen",
+    "multiplePostalCodes": true,
+    "key": "41808",
+    "status": "MarketTown"
+  },
+  {
+    "code": "41809",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4615",
+    "name": "Holzhausen",
+    "multiplePostalCodes": false,
+    "key": "41809",
+    "status": "None"
+  },
+  {
+    "code": "41810",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4631",
+    "name": "Krenglbach",
+    "multiplePostalCodes": true,
+    "key": "41810",
+    "status": "None"
+  },
+  {
+    "code": "41811",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4650",
+    "name": "Lambach",
+    "multiplePostalCodes": false,
+    "key": "41811",
+    "status": "MarketTown"
+  },
+  {
+    "code": "41812",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4614",
+    "name": "Marchtrenk",
+    "multiplePostalCodes": false,
+    "key": "41812",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "41813",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4671",
+    "name": "Neukirchen bei Lambach",
+    "multiplePostalCodes": false,
+    "key": "41813",
+    "status": "None"
+  },
+  {
+    "code": "41814",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4625",
+    "name": "Offenhausen",
+    "multiplePostalCodes": true,
+    "key": "41814",
+    "status": "MarketTown"
+  },
+  {
+    "code": "41815",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4624",
+    "name": "Pennewang",
+    "multiplePostalCodes": true,
+    "key": "41815",
+    "status": "None"
+  },
+  {
+    "code": "41816",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4632",
+    "name": "Pichl bei Wels",
+    "multiplePostalCodes": true,
+    "key": "41816",
+    "status": "MarketTown"
+  },
+  {
+    "code": "41817",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4642",
+    "name": "Sattledt",
+    "multiplePostalCodes": false,
+    "key": "41817",
+    "status": "MarketTown"
+  },
+  {
+    "code": "41818",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4600",
+    "name": "Schleißheim",
+    "multiplePostalCodes": false,
+    "key": "41818",
+    "status": "None"
+  },
+  {
+    "code": "41819",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4621",
+    "name": "Sipbachzell",
+    "multiplePostalCodes": false,
+    "key": "41819",
+    "status": "None"
+  },
+  {
+    "code": "41820",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4651",
+    "name": "Stadl-Paura",
+    "multiplePostalCodes": false,
+    "key": "41820",
+    "status": "MarketTown"
+  },
+  {
+    "code": "41821",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4652",
+    "name": "Steinerkirchen an der Traun",
+    "multiplePostalCodes": true,
+    "key": "41821",
+    "status": "MarketTown"
+  },
+  {
+    "code": "41822",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4641",
+    "name": "Steinhaus",
+    "multiplePostalCodes": false,
+    "key": "41822",
+    "status": "None"
+  },
+  {
+    "code": "41823",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4600",
+    "name": "Thalheim bei Wels",
+    "multiplePostalCodes": false,
+    "key": "41823",
+    "status": "MarketTown"
+  },
+  {
+    "code": "41824",
+    "district": {
+      "code": "418",
+      "name": "Wels-Land",
+      "key": "418"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4616",
+    "name": "Weißkirchen an der Traun",
+    "multiplePostalCodes": false,
+    "key": "41824",
+    "status": "None"
+  }
+]

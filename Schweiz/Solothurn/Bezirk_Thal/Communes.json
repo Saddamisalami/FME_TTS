@@ -1,0 +1,114 @@
+[
+  {
+    "district": {
+      "name": "Bezirk Thal",
+      "key": "1102"
+    },
+    "name": "Aedermannsdorf",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Aedermannsdorf",
+    "key": "2421"
+  },
+  {
+    "district": {
+      "name": "Bezirk Thal",
+      "key": "1102"
+    },
+    "name": "Balsthal",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Balsthal",
+    "key": "2422"
+  },
+  {
+    "district": {
+      "name": "Bezirk Thal",
+      "key": "1102"
+    },
+    "name": "Herbetswil",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Herbetswil",
+    "key": "2424"
+  },
+  {
+    "district": {
+      "name": "Bezirk Thal",
+      "key": "1102"
+    },
+    "name": "Holderbank (SO)",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Holderbank (SO)",
+    "key": "2425"
+  },
+  {
+    "district": {
+      "name": "Bezirk Thal",
+      "key": "1102"
+    },
+    "name": "Laupersdorf",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Laupersdorf",
+    "key": "2426"
+  },
+  {
+    "district": {
+      "name": "Bezirk Thal",
+      "key": "1102"
+    },
+    "name": "Matzendorf",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Matzendorf",
+    "key": "2427"
+  },
+  {
+    "district": {
+      "name": "Bezirk Thal",
+      "key": "1102"
+    },
+    "name": "Mümliswil-Ramiswil",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Mümliswil-Ramiswil",
+    "key": "2428"
+  },
+  {
+    "district": {
+      "name": "Bezirk Thal",
+      "key": "1102"
+    },
+    "name": "Welschenrohr-Gänsbrunnen",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Welschenrohr-Gänsbrunnen",
+    "key": "2430"
+  }
+]

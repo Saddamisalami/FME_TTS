@@ -1,0 +1,58 @@
+[
+  {
+    "district": {
+      "name": "Bezirk Unterklettgau",
+      "key": "1406"
+    },
+    "name": "Hallau",
+    "canton": {
+      "code": "SH",
+      "name": "Schaffhausen",
+      "key": "14"
+    },
+    "shortName": "Hallau",
+    "key": "2971"
+  },
+  {
+    "district": {
+      "name": "Bezirk Unterklettgau",
+      "key": "1406"
+    },
+    "name": "Oberhallau",
+    "canton": {
+      "code": "SH",
+      "name": "Schaffhausen",
+      "key": "14"
+    },
+    "shortName": "Oberhallau",
+    "key": "2972"
+  },
+  {
+    "district": {
+      "name": "Bezirk Unterklettgau",
+      "key": "1406"
+    },
+    "name": "Trasadingen",
+    "canton": {
+      "code": "SH",
+      "name": "Schaffhausen",
+      "key": "14"
+    },
+    "shortName": "Trasadingen",
+    "key": "2973"
+  },
+  {
+    "district": {
+      "name": "Bezirk Unterklettgau",
+      "key": "1406"
+    },
+    "name": "Wilchingen",
+    "canton": {
+      "code": "SH",
+      "name": "Schaffhausen",
+      "key": "14"
+    },
+    "shortName": "Wilchingen",
+    "key": "2974"
+  }
+]

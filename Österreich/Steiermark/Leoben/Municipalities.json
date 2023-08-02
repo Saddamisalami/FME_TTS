@@ -1,0 +1,274 @@
+[
+  {
+    "code": "61101",
+    "district": {
+      "code": "611",
+      "name": "Leoben",
+      "key": "611"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8790",
+    "name": "Eisenerz",
+    "multiplePostalCodes": false,
+    "key": "61101",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "61105",
+    "district": {
+      "code": "611",
+      "name": "Leoben",
+      "key": "611"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8775",
+    "name": "Kalwang",
+    "multiplePostalCodes": false,
+    "key": "61105",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61106",
+    "district": {
+      "code": "611",
+      "name": "Leoben",
+      "key": "611"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8773",
+    "name": "Kammern im Liesingtal",
+    "multiplePostalCodes": true,
+    "key": "61106",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61107",
+    "district": {
+      "code": "611",
+      "name": "Leoben",
+      "key": "611"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8714",
+    "name": "Kraubath an der Mur",
+    "multiplePostalCodes": false,
+    "key": "61107",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61108",
+    "district": {
+      "code": "611",
+      "name": "Leoben",
+      "key": "611"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8700",
+    "name": "Leoben",
+    "multiplePostalCodes": true,
+    "key": "61108",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "61109",
+    "district": {
+      "code": "611",
+      "name": "Leoben",
+      "key": "611"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8774",
+    "name": "Mautern in Steiermark",
+    "multiplePostalCodes": false,
+    "key": "61109",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61110",
+    "district": {
+      "code": "611",
+      "name": "Leoben",
+      "key": "611"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8712",
+    "name": "Niklasdorf",
+    "multiplePostalCodes": false,
+    "key": "61110",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61111",
+    "district": {
+      "code": "611",
+      "name": "Leoben",
+      "key": "611"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8712",
+    "name": "Proleb",
+    "multiplePostalCodes": false,
+    "key": "61111",
+    "status": "None"
+  },
+  {
+    "code": "61112",
+    "district": {
+      "code": "611",
+      "name": "Leoben",
+      "key": "611"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8795",
+    "name": "Radmer",
+    "multiplePostalCodes": false,
+    "key": "61112",
+    "status": "None"
+  },
+  {
+    "code": "61113",
+    "district": {
+      "code": "611",
+      "name": "Leoben",
+      "key": "611"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8770",
+    "name": "Sankt Michael in Obersteiermark",
+    "multiplePostalCodes": true,
+    "key": "61113",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61114",
+    "district": {
+      "code": "611",
+      "name": "Leoben",
+      "key": "611"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8792",
+    "name": "Sankt Peter-Freienstein",
+    "multiplePostalCodes": false,
+    "key": "61114",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61115",
+    "district": {
+      "code": "611",
+      "name": "Leoben",
+      "key": "611"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8713",
+    "name": "Sankt Stefan ob Leoben",
+    "multiplePostalCodes": true,
+    "key": "61115",
+    "status": "None"
+  },
+  {
+    "code": "61116",
+    "district": {
+      "code": "611",
+      "name": "Leoben",
+      "key": "611"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8772",
+    "name": "Traboch",
+    "multiplePostalCodes": true,
+    "key": "61116",
+    "status": "None"
+  },
+  {
+    "code": "61118",
+    "district": {
+      "code": "611",
+      "name": "Leoben",
+      "key": "611"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8794",
+    "name": "Vordernberg",
+    "multiplePostalCodes": false,
+    "key": "61118",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61119",
+    "district": {
+      "code": "611",
+      "name": "Leoben",
+      "key": "611"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8781",
+    "name": "Wald am Schoberpaß",
+    "multiplePostalCodes": false,
+    "key": "61119",
+    "status": "None"
+  },
+  {
+    "code": "61120",
+    "district": {
+      "code": "611",
+      "name": "Leoben",
+      "key": "611"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8793",
+    "name": "Trofaiach",
+    "multiplePostalCodes": true,
+    "key": "61120",
+    "status": "UrbanMunicipality"
+  }
+]

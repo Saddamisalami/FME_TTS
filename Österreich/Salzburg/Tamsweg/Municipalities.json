@@ -1,0 +1,257 @@
+[
+  {
+    "code": "50501",
+    "district": {
+      "code": "505",
+      "name": "Tamsweg",
+      "key": "505"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5574",
+    "name": "Göriach",
+    "multiplePostalCodes": false,
+    "key": "50501",
+    "status": "None"
+  },
+  {
+    "code": "50502",
+    "district": {
+      "code": "505",
+      "name": "Tamsweg",
+      "key": "505"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5575",
+    "name": "Lessach",
+    "multiplePostalCodes": false,
+    "key": "50502",
+    "status": "None"
+  },
+  {
+    "code": "50503",
+    "district": {
+      "code": "505",
+      "name": "Tamsweg",
+      "key": "505"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5571",
+    "name": "Mariapfarr",
+    "multiplePostalCodes": false,
+    "key": "50503",
+    "status": "None"
+  },
+  {
+    "code": "50504",
+    "district": {
+      "code": "505",
+      "name": "Tamsweg",
+      "key": "505"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5570",
+    "name": "Mauterndorf",
+    "multiplePostalCodes": false,
+    "key": "50504",
+    "status": "MarketTown"
+  },
+  {
+    "code": "50505",
+    "district": {
+      "code": "505",
+      "name": "Tamsweg",
+      "key": "505"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5583",
+    "name": "Muhr",
+    "multiplePostalCodes": false,
+    "key": "50505",
+    "status": "None"
+  },
+  {
+    "code": "50506",
+    "district": {
+      "code": "505",
+      "name": "Tamsweg",
+      "key": "505"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5591",
+    "name": "Ramingstein",
+    "multiplePostalCodes": true,
+    "key": "50506",
+    "status": "None"
+  },
+  {
+    "code": "50507",
+    "district": {
+      "code": "505",
+      "name": "Tamsweg",
+      "key": "505"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5572",
+    "name": "Sankt Andrä im Lungau",
+    "multiplePostalCodes": false,
+    "key": "50507",
+    "status": "None"
+  },
+  {
+    "code": "50508",
+    "district": {
+      "code": "505",
+      "name": "Tamsweg",
+      "key": "505"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5581",
+    "name": "Sankt Margarethen im Lungau",
+    "multiplePostalCodes": false,
+    "key": "50508",
+    "status": "None"
+  },
+  {
+    "code": "50509",
+    "district": {
+      "code": "505",
+      "name": "Tamsweg",
+      "key": "505"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5582",
+    "name": "Sankt Michael im Lungau",
+    "multiplePostalCodes": false,
+    "key": "50509",
+    "status": "MarketTown"
+  },
+  {
+    "code": "50510",
+    "district": {
+      "code": "505",
+      "name": "Tamsweg",
+      "key": "505"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5580",
+    "name": "Tamsweg",
+    "multiplePostalCodes": false,
+    "key": "50510",
+    "status": "MarketTown"
+  },
+  {
+    "code": "50511",
+    "district": {
+      "code": "505",
+      "name": "Tamsweg",
+      "key": "505"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5592",
+    "name": "Thomatal",
+    "multiplePostalCodes": false,
+    "key": "50511",
+    "status": "None"
+  },
+  {
+    "code": "50512",
+    "district": {
+      "code": "505",
+      "name": "Tamsweg",
+      "key": "505"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5563",
+    "name": "Tweng",
+    "multiplePostalCodes": true,
+    "key": "50512",
+    "status": "None"
+  },
+  {
+    "code": "50513",
+    "district": {
+      "code": "505",
+      "name": "Tamsweg",
+      "key": "505"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5585",
+    "name": "Unternberg",
+    "multiplePostalCodes": false,
+    "key": "50513",
+    "status": "None"
+  },
+  {
+    "code": "50514",
+    "district": {
+      "code": "505",
+      "name": "Tamsweg",
+      "key": "505"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5573",
+    "name": "Weißpriach",
+    "multiplePostalCodes": false,
+    "key": "50514",
+    "status": "None"
+  },
+  {
+    "code": "50515",
+    "district": {
+      "code": "505",
+      "name": "Tamsweg",
+      "key": "505"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5584",
+    "name": "Zederhaus",
+    "multiplePostalCodes": false,
+    "key": "50515",
+    "status": "None"
+  }
+]

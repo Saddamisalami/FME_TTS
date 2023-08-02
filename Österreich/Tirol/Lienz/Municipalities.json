@@ -1,0 +1,563 @@
+[
+  {
+    "code": "70701",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9913",
+    "name": "Abfaltersbach",
+    "multiplePostalCodes": false,
+    "key": "70701",
+    "status": "None"
+  },
+  {
+    "code": "70702",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9951",
+    "name": "Ainet",
+    "multiplePostalCodes": false,
+    "key": "70702",
+    "status": "None"
+  },
+  {
+    "code": "70703",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9908",
+    "name": "Amlach",
+    "multiplePostalCodes": false,
+    "key": "70703",
+    "status": "None"
+  },
+  {
+    "code": "70704",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9912",
+    "name": "Anras",
+    "multiplePostalCodes": false,
+    "key": "70704",
+    "status": "None"
+  },
+  {
+    "code": "70705",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9911",
+    "name": "Assling",
+    "multiplePostalCodes": false,
+    "key": "70705",
+    "status": "None"
+  },
+  {
+    "code": "70706",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9931",
+    "name": "Außervillgraten",
+    "multiplePostalCodes": false,
+    "key": "70706",
+    "status": "None"
+  },
+  {
+    "code": "70707",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9991",
+    "name": "Dölsach",
+    "multiplePostalCodes": false,
+    "key": "70707",
+    "status": "None"
+  },
+  {
+    "code": "70708",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9905",
+    "name": "Gaimberg",
+    "multiplePostalCodes": false,
+    "key": "70708",
+    "status": "None"
+  },
+  {
+    "code": "70709",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9961",
+    "name": "Hopfgarten in Defereggen",
+    "multiplePostalCodes": false,
+    "key": "70709",
+    "status": "None"
+  },
+  {
+    "code": "70710",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9932",
+    "name": "Innervillgraten",
+    "multiplePostalCodes": false,
+    "key": "70710",
+    "status": "None"
+  },
+  {
+    "code": "70711",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9992",
+    "name": "Iselsberg-Stronach",
+    "multiplePostalCodes": false,
+    "key": "70711",
+    "status": "None"
+  },
+  {
+    "code": "70712",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9981",
+    "name": "Kals am Großglockner",
+    "multiplePostalCodes": false,
+    "key": "70712",
+    "status": "None"
+  },
+  {
+    "code": "70713",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9941",
+    "name": "Kartitsch",
+    "multiplePostalCodes": false,
+    "key": "70713",
+    "status": "None"
+  },
+  {
+    "code": "70714",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9906",
+    "name": "Lavant",
+    "multiplePostalCodes": false,
+    "key": "70714",
+    "status": "None"
+  },
+  {
+    "code": "70715",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9909",
+    "name": "Leisach",
+    "multiplePostalCodes": false,
+    "key": "70715",
+    "status": "None"
+  },
+  {
+    "code": "70716",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9900",
+    "name": "Lienz",
+    "multiplePostalCodes": false,
+    "key": "70716",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "70717",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9971",
+    "name": "Matrei in Osttirol",
+    "multiplePostalCodes": false,
+    "key": "70717",
+    "status": "MarketTown"
+  },
+  {
+    "code": "70718",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9782",
+    "name": "Nikolsdorf",
+    "multiplePostalCodes": false,
+    "key": "70718",
+    "status": "None"
+  },
+  {
+    "code": "70719",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9990",
+    "name": "Nußdorf-Debant",
+    "multiplePostalCodes": false,
+    "key": "70719",
+    "status": "MarketTown"
+  },
+  {
+    "code": "70720",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9903",
+    "name": "Oberlienz",
+    "multiplePostalCodes": false,
+    "key": "70720",
+    "status": "None"
+  },
+  {
+    "code": "70721",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9942",
+    "name": "Obertilliach",
+    "multiplePostalCodes": false,
+    "key": "70721",
+    "status": "None"
+  },
+  {
+    "code": "70723",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9974",
+    "name": "Prägraten am Großvenediger",
+    "multiplePostalCodes": false,
+    "key": "70723",
+    "status": "None"
+  },
+  {
+    "code": "70724",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9963",
+    "name": "St. Jakob in Defereggen",
+    "multiplePostalCodes": false,
+    "key": "70724",
+    "status": "None"
+  },
+  {
+    "code": "70725",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9952",
+    "name": "St. Johann im Walde",
+    "multiplePostalCodes": false,
+    "key": "70725",
+    "status": "None"
+  },
+  {
+    "code": "70726",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9962",
+    "name": "St. Veit in Defereggen",
+    "multiplePostalCodes": false,
+    "key": "70726",
+    "status": "None"
+  },
+  {
+    "code": "70727",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9954",
+    "name": "Schlaiten",
+    "multiplePostalCodes": false,
+    "key": "70727",
+    "status": "None"
+  },
+  {
+    "code": "70728",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9920",
+    "name": "Sillian",
+    "multiplePostalCodes": false,
+    "key": "70728",
+    "status": "MarketTown"
+  },
+  {
+    "code": "70729",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9918",
+    "name": "Strassen",
+    "multiplePostalCodes": false,
+    "key": "70729",
+    "status": "None"
+  },
+  {
+    "code": "70731",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9904",
+    "name": "Thurn",
+    "multiplePostalCodes": false,
+    "key": "70731",
+    "status": "None"
+  },
+  {
+    "code": "70732",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9907",
+    "name": "Tristach",
+    "multiplePostalCodes": false,
+    "key": "70732",
+    "status": "None"
+  },
+  {
+    "code": "70733",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9943",
+    "name": "Untertilliach",
+    "multiplePostalCodes": false,
+    "key": "70733",
+    "status": "None"
+  },
+  {
+    "code": "70734",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9972",
+    "name": "Virgen",
+    "multiplePostalCodes": false,
+    "key": "70734",
+    "status": "None"
+  },
+  {
+    "code": "70735",
+    "district": {
+      "code": "707",
+      "name": "Lienz",
+      "key": "707"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "9919",
+    "name": "Heinfels",
+    "multiplePostalCodes": false,
+    "key": "70735",
+    "status": "None"
+  }
+]

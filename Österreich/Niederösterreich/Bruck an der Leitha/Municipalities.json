@@ -1,0 +1,563 @@
+[
+  {
+    "code": "30701",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2451",
+    "name": "Au am Leithaberge",
+    "multiplePostalCodes": false,
+    "key": "30701",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30702",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2405",
+    "name": "Bad Deutsch-Altenburg",
+    "multiplePostalCodes": false,
+    "key": "30702",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30703",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2413",
+    "name": "Berg",
+    "multiplePostalCodes": false,
+    "key": "30703",
+    "status": "None"
+  },
+  {
+    "code": "30704",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2460",
+    "name": "Bruck an der Leitha",
+    "multiplePostalCodes": true,
+    "key": "30704",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "30706",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2431",
+    "name": "Enzersdorf an der Fischa",
+    "multiplePostalCodes": true,
+    "key": "30706",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30708",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2464",
+    "name": "Göttlesbrunn-Arbesthal",
+    "multiplePostalCodes": false,
+    "key": "30708",
+    "status": "None"
+  },
+  {
+    "code": "30709",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2434",
+    "name": "Götzendorf an der Leitha",
+    "multiplePostalCodes": true,
+    "key": "30709",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30710",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2410",
+    "name": "Hainburg a.d. Donau",
+    "multiplePostalCodes": false,
+    "key": "30710",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "30711",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2402",
+    "name": "Haslau-Maria Ellend",
+    "multiplePostalCodes": false,
+    "key": "30711",
+    "status": "None"
+  },
+  {
+    "code": "30712",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2465",
+    "name": "Höflein",
+    "multiplePostalCodes": false,
+    "key": "30712",
+    "status": "None"
+  },
+  {
+    "code": "30713",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2451",
+    "name": "Hof am Leithaberge",
+    "multiplePostalCodes": false,
+    "key": "30713",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30715",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2405",
+    "name": "Hundsheim",
+    "multiplePostalCodes": false,
+    "key": "30715",
+    "status": "None"
+  },
+  {
+    "code": "30716",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2452",
+    "name": "Mannersdorf am Leithagebirge",
+    "multiplePostalCodes": true,
+    "key": "30716",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "30718",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2404",
+    "name": "Petronell-Carnuntum",
+    "multiplePostalCodes": false,
+    "key": "30718",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30719",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2472",
+    "name": "Prellenkirchen",
+    "multiplePostalCodes": true,
+    "key": "30719",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30721",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2471",
+    "name": "Rohrau",
+    "multiplePostalCodes": false,
+    "key": "30721",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30722",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2403",
+    "name": "Scharndorf",
+    "multiplePostalCodes": false,
+    "key": "30722",
+    "status": "None"
+  },
+  {
+    "code": "30724",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2453",
+    "name": "Sommerein",
+    "multiplePostalCodes": true,
+    "key": "30724",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30726",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2454",
+    "name": "Trautmannsdorf an der Leitha",
+    "multiplePostalCodes": true,
+    "key": "30726",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30728",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2412",
+    "name": "Wolfsthal",
+    "multiplePostalCodes": false,
+    "key": "30728",
+    "status": "None"
+  },
+  {
+    "code": "30729",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2435",
+    "name": "Ebergassing",
+    "multiplePostalCodes": false,
+    "key": "30729",
+    "status": "None"
+  },
+  {
+    "code": "30730",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2401",
+    "name": "Fischamend",
+    "multiplePostalCodes": false,
+    "key": "30730",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "30731",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2440",
+    "name": "Gramatneusiedl",
+    "multiplePostalCodes": true,
+    "key": "30731",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30732",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2325",
+    "name": "Himberg",
+    "multiplePostalCodes": false,
+    "key": "30732",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30733",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2431",
+    "name": "Klein-Neusiedl",
+    "multiplePostalCodes": false,
+    "key": "30733",
+    "status": "None"
+  },
+  {
+    "code": "30734",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2326",
+    "name": "Lanzendorf",
+    "multiplePostalCodes": false,
+    "key": "30734",
+    "status": "None"
+  },
+  {
+    "code": "30735",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2333",
+    "name": "Leopoldsdorf",
+    "multiplePostalCodes": false,
+    "key": "30735",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30736",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2326",
+    "name": "Maria-Lanzendorf",
+    "multiplePostalCodes": false,
+    "key": "30736",
+    "status": "None"
+  },
+  {
+    "code": "30737",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2440",
+    "name": "Moosbrunn",
+    "multiplePostalCodes": true,
+    "key": "30737",
+    "status": "None"
+  },
+  {
+    "code": "30738",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2320",
+    "name": "Rauchenwarth",
+    "multiplePostalCodes": false,
+    "key": "30738",
+    "status": "None"
+  },
+  {
+    "code": "30739",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2432",
+    "name": "Schwadorf",
+    "multiplePostalCodes": false,
+    "key": "30739",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30740",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2320",
+    "name": "Schwechat",
+    "multiplePostalCodes": true,
+    "key": "30740",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "30741",
+    "district": {
+      "code": "307",
+      "name": "Bruck an der Leitha",
+      "key": "307"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2322",
+    "name": "Zwölfaxing",
+    "multiplePostalCodes": false,
+    "key": "30741",
+    "status": "None"
+  }
+]

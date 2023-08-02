@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Bezirk Affoltern",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "key": "101"
+  },
+  {
+    "name": "Bezirk Andelfingen",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "key": "102"
+  },
+  {
+    "name": "Bezirk Bülach",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "key": "103"
+  },
+  {
+    "name": "Bezirk Dielsdorf",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "key": "104"
+  },
+  {
+    "name": "Bezirk Hinwil",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "key": "105"
+  },
+  {
+    "name": "Bezirk Horgen",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "key": "106"
+  },
+  {
+    "name": "Bezirk Meilen",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "key": "107"
+  },
+  {
+    "name": "Bezirk Pfäffikon",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "key": "108"
+  },
+  {
+    "name": "Bezirk Uster",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "key": "109"
+  },
+  {
+    "name": "Bezirk Winterthur",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "key": "110"
+  },
+  {
+    "name": "Bezirk Dietikon",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "key": "111"
+  },
+  {
+    "name": "Bezirk Zürich",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "key": "112"
+  }
+]

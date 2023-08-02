@@ -1,0 +1,38 @@
+[
+  {
+    "code": "801",
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "name": "Bludenz",
+    "key": "801"
+  },
+  {
+    "code": "802",
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "name": "Bregenz",
+    "key": "802"
+  },
+  {
+    "code": "803",
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "name": "Dornbirn",
+    "key": "803"
+  },
+  {
+    "code": "804",
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "name": "Feldkirch",
+    "key": "804"
+  }
+]

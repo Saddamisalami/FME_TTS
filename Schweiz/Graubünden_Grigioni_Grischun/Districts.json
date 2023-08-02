@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Region Albula",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "key": "1841"
+  },
+  {
+    "name": "Region Bernina",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "key": "1842"
+  },
+  {
+    "name": "Region Engiadina Bassa / Val Müstair",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "key": "1843"
+  },
+  {
+    "name": "Region Imboden",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "key": "1844"
+  },
+  {
+    "name": "Region Landquart",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "key": "1845"
+  },
+  {
+    "name": "Region Maloja",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "key": "1846"
+  },
+  {
+    "name": "Region Moesa",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "key": "1847"
+  },
+  {
+    "name": "Region Plessur",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "key": "1848"
+  },
+  {
+    "name": "Region Prättigau / Davos",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "key": "1849"
+  },
+  {
+    "name": "Region Surselva",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "key": "1850"
+  },
+  {
+    "name": "Region Viamala",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "key": "1851"
+  }
+]

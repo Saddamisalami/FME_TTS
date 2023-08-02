@@ -1,0 +1,17 @@
+[{
+  "code": "60101",
+  "district": {
+    "code": "601",
+    "name": "Graz ( Stadt)",
+    "key": "601"
+  },
+  "federalProvince": {
+    "name": "Steiermark",
+    "key": "6"
+  },
+  "postalCode": "8010",
+  "name": "Graz",
+  "multiplePostalCodes": true,
+  "key": "60101",
+  "status": "TownWithCharter"
+}]

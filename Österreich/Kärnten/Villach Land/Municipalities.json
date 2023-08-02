@@ -1,0 +1,325 @@
+[
+  {
+    "code": "20701",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9542",
+    "name": "Afritz am See",
+    "multiplePostalCodes": false,
+    "key": "20701",
+    "status": "None"
+  },
+  {
+    "code": "20702",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9601",
+    "name": "Arnoldstein",
+    "multiplePostalCodes": true,
+    "key": "20702",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20703",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9543",
+    "name": "Arriach",
+    "multiplePostalCodes": false,
+    "key": "20703",
+    "status": "None"
+  },
+  {
+    "code": "20705",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9530",
+    "name": "Bad Bleiberg",
+    "multiplePostalCodes": false,
+    "key": "20705",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20707",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9613",
+    "name": "Feistritz an der Gail",
+    "multiplePostalCodes": false,
+    "key": "20707",
+    "status": "None"
+  },
+  {
+    "code": "20708",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9544",
+    "name": "Feld am See",
+    "multiplePostalCodes": false,
+    "key": "20708",
+    "status": "None"
+  },
+  {
+    "code": "20710",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9702",
+    "name": "Ferndorf",
+    "multiplePostalCodes": true,
+    "key": "20710",
+    "status": "None"
+  },
+  {
+    "code": "20711",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9584",
+    "name": "Finkenstein am Faaker See",
+    "multiplePostalCodes": true,
+    "key": "20711",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20712",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9712",
+    "name": "Fresach",
+    "multiplePostalCodes": true,
+    "key": "20712",
+    "status": "None"
+  },
+  {
+    "code": "20713",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9613",
+    "name": "Hohenthurn",
+    "multiplePostalCodes": true,
+    "key": "20713",
+    "status": "None"
+  },
+  {
+    "code": "20719",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9611",
+    "name": "Nötsch im Gailtal",
+    "multiplePostalCodes": true,
+    "key": "20719",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20720",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9711",
+    "name": "Paternion",
+    "multiplePostalCodes": true,
+    "key": "20720",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20721",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9232",
+    "name": "Rosegg",
+    "multiplePostalCodes": true,
+    "key": "20721",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20722",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9184",
+    "name": "St. Jakob im Rosental",
+    "multiplePostalCodes": true,
+    "key": "20722",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20723",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9713",
+    "name": "Stockenboi",
+    "multiplePostalCodes": true,
+    "key": "20723",
+    "status": "None"
+  },
+  {
+    "code": "20724",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9521",
+    "name": "Treffen am Ossiacher See",
+    "multiplePostalCodes": true,
+    "key": "20724",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20725",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9220",
+    "name": "Velden am Wörther See",
+    "multiplePostalCodes": true,
+    "key": "20725",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20726",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9721",
+    "name": "Weißenstein",
+    "multiplePostalCodes": true,
+    "key": "20726",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20727",
+    "district": {
+      "code": "207",
+      "name": "Villach Land",
+      "key": "207"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9241",
+    "name": "Wernberg",
+    "multiplePostalCodes": true,
+    "key": "20727",
+    "status": "None"
+  }
+]

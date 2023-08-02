@@ -1,0 +1,44 @@
+[
+  {
+    "district": {
+      "name": "Distretto di Blenio",
+      "key": "2102"
+    },
+    "name": "Acquarossa",
+    "canton": {
+      "code": "TI",
+      "name": "Ticino",
+      "key": "21"
+    },
+    "shortName": "Acquarossa",
+    "key": "5048"
+  },
+  {
+    "district": {
+      "name": "Distretto di Blenio",
+      "key": "2102"
+    },
+    "name": "Blenio",
+    "canton": {
+      "code": "TI",
+      "name": "Ticino",
+      "key": "21"
+    },
+    "shortName": "Blenio",
+    "key": "5049"
+  },
+  {
+    "district": {
+      "name": "Distretto di Blenio",
+      "key": "2102"
+    },
+    "name": "Serravalle",
+    "canton": {
+      "code": "TI",
+      "name": "Ticino",
+      "key": "21"
+    },
+    "shortName": "Serravalle",
+    "key": "5050"
+  }
+]

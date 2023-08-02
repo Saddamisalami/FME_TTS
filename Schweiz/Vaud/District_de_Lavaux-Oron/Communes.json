@@ -1,0 +1,226 @@
+[
+  {
+    "district": {
+      "name": "District de Lavaux-Oron",
+      "key": "2226"
+    },
+    "name": "Belmont-sur-Lausanne",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Belmont-sur-Lausanne",
+    "key": "5581"
+  },
+  {
+    "district": {
+      "name": "District de Lavaux-Oron",
+      "key": "2226"
+    },
+    "name": "Paudex",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Paudex",
+    "key": "5588"
+  },
+  {
+    "district": {
+      "name": "District de Lavaux-Oron",
+      "key": "2226"
+    },
+    "name": "Pully",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Pully",
+    "key": "5590"
+  },
+  {
+    "district": {
+      "name": "District de Lavaux-Oron",
+      "key": "2226"
+    },
+    "name": "Chexbres",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Chexbres",
+    "key": "5601"
+  },
+  {
+    "district": {
+      "name": "District de Lavaux-Oron",
+      "key": "2226"
+    },
+    "name": "Forel (Lavaux)",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Forel (Lavaux)",
+    "key": "5604"
+  },
+  {
+    "district": {
+      "name": "District de Lavaux-Oron",
+      "key": "2226"
+    },
+    "name": "Lutry",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Lutry",
+    "key": "5606"
+  },
+  {
+    "district": {
+      "name": "District de Lavaux-Oron",
+      "key": "2226"
+    },
+    "name": "Puidoux",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Puidoux",
+    "key": "5607"
+  },
+  {
+    "district": {
+      "name": "District de Lavaux-Oron",
+      "key": "2226"
+    },
+    "name": "Rivaz",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Rivaz",
+    "key": "5609"
+  },
+  {
+    "district": {
+      "name": "District de Lavaux-Oron",
+      "key": "2226"
+    },
+    "name": "Saint-Saphorin (Lavaux)",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Saint-Saphorin (Lavaux)",
+    "key": "5610"
+  },
+  {
+    "district": {
+      "name": "District de Lavaux-Oron",
+      "key": "2226"
+    },
+    "name": "Savigny",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Savigny",
+    "key": "5611"
+  },
+  {
+    "district": {
+      "name": "District de Lavaux-Oron",
+      "key": "2226"
+    },
+    "name": "Bourg-en-Lavaux",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Bourg-en-Lavaux",
+    "key": "5613"
+  },
+  {
+    "district": {
+      "name": "District de Lavaux-Oron",
+      "key": "2226"
+    },
+    "name": "Maracon",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Maracon",
+    "key": "5790"
+  },
+  {
+    "district": {
+      "name": "District de Lavaux-Oron",
+      "key": "2226"
+    },
+    "name": "Montpreveyres",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Montpreveyres",
+    "key": "5792"
+  },
+  {
+    "district": {
+      "name": "District de Lavaux-Oron",
+      "key": "2226"
+    },
+    "name": "Servion",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Servion",
+    "key": "5799"
+  },
+  {
+    "district": {
+      "name": "District de Lavaux-Oron",
+      "key": "2226"
+    },
+    "name": "Oron",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Oron",
+    "key": "5805"
+  },
+  {
+    "district": {
+      "name": "District de Lavaux-Oron",
+      "key": "2226"
+    },
+    "name": "Jorat-Mézières",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Jorat-Mézières",
+    "key": "5806"
+  }
+]

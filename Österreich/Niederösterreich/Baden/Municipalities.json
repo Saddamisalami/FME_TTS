@@ -1,0 +1,512 @@
+[
+  {
+    "code": "30601",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2534",
+    "name": "Alland",
+    "multiplePostalCodes": true,
+    "key": "30601",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30602",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2571",
+    "name": "Altenmarkt an der Triesting",
+    "multiplePostalCodes": true,
+    "key": "30602",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30603",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2540",
+    "name": "Bad Vöslau",
+    "multiplePostalCodes": false,
+    "key": "30603",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "30604",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2500",
+    "name": "Baden",
+    "multiplePostalCodes": false,
+    "key": "30604",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "30605",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2560",
+    "name": "Berndorf",
+    "multiplePostalCodes": false,
+    "key": "30605",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "30607",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2483",
+    "name": "Ebreichsdorf",
+    "multiplePostalCodes": true,
+    "key": "30607",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "30608",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2551",
+    "name": "Enzesfeld-Lindabrunn",
+    "multiplePostalCodes": true,
+    "key": "30608",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30609",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2564",
+    "name": "Furth an der Triesting",
+    "multiplePostalCodes": false,
+    "key": "30609",
+    "status": "None"
+  },
+  {
+    "code": "30612",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2525",
+    "name": "Günselsdorf",
+    "multiplePostalCodes": false,
+    "key": "30612",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30613",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2532",
+    "name": "Heiligenkreuz",
+    "multiplePostalCodes": true,
+    "key": "30613",
+    "status": "None"
+  },
+  {
+    "code": "30614",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2560",
+    "name": "Hernstein",
+    "multiplePostalCodes": true,
+    "key": "30614",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30615",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2552",
+    "name": "Hirtenberg",
+    "multiplePostalCodes": false,
+    "key": "30615",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30616",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2533",
+    "name": "Klausen-Leopoldsdorf",
+    "multiplePostalCodes": true,
+    "key": "30616",
+    "status": "None"
+  },
+  {
+    "code": "30618",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2542",
+    "name": "Kottingbrunn",
+    "multiplePostalCodes": false,
+    "key": "30618",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30620",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2544",
+    "name": "Leobersdorf",
+    "multiplePostalCodes": true,
+    "key": "30620",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30621",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2441",
+    "name": "Mitterndorf an der Fischa",
+    "multiplePostalCodes": true,
+    "key": "30621",
+    "status": "None"
+  },
+  {
+    "code": "30623",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2522",
+    "name": "Oberwaltersdorf",
+    "multiplePostalCodes": false,
+    "key": "30623",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30625",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2511",
+    "name": "Pfaffstätten",
+    "multiplePostalCodes": false,
+    "key": "30625",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30626",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2486",
+    "name": "Pottendorf",
+    "multiplePostalCodes": true,
+    "key": "30626",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30627",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2563",
+    "name": "Pottenstein",
+    "multiplePostalCodes": true,
+    "key": "30627",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30629",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2440",
+    "name": "Reisenberg",
+    "multiplePostalCodes": true,
+    "key": "30629",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30631",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2525",
+    "name": "Schönau an der Triesting",
+    "multiplePostalCodes": true,
+    "key": "30631",
+    "status": "None"
+  },
+  {
+    "code": "30633",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2443",
+    "name": "Seibersdorf",
+    "multiplePostalCodes": true,
+    "key": "30633",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30635",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2504",
+    "name": "Sooß",
+    "multiplePostalCodes": false,
+    "key": "30635",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30636",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2523",
+    "name": "Tattendorf",
+    "multiplePostalCodes": false,
+    "key": "30636",
+    "status": "None"
+  },
+  {
+    "code": "30637",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2524",
+    "name": "Teesdorf",
+    "multiplePostalCodes": false,
+    "key": "30637",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30639",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2514",
+    "name": "Traiskirchen",
+    "multiplePostalCodes": true,
+    "key": "30639",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "30641",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2521",
+    "name": "Trumau",
+    "multiplePostalCodes": false,
+    "key": "30641",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30645",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2564",
+    "name": "Weissenbach an der Triesting",
+    "multiplePostalCodes": true,
+    "key": "30645",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30646",
+    "district": {
+      "code": "306",
+      "name": "Baden",
+      "key": "306"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2602",
+    "name": "Blumau-Neurißhof",
+    "multiplePostalCodes": false,
+    "key": "30646",
+    "status": "None"
+  }
+]

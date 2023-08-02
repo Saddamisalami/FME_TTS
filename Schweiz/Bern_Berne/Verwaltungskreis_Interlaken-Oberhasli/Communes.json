@@ -1,0 +1,394 @@
+[
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Beatenberg",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Beatenberg",
+    "key": "571"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Bönigen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Bönigen",
+    "key": "572"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Brienz (BE)",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Brienz (BE)",
+    "key": "573"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Brienzwiler",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Brienzwiler",
+    "key": "574"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Därligen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Därligen",
+    "key": "575"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Grindelwald",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Grindelwald",
+    "key": "576"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Gsteigwiler",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Gsteigwiler",
+    "key": "577"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Gündlischwand",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Gündlischwand",
+    "key": "578"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Habkern",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Habkern",
+    "key": "579"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Hofstetten bei Brienz",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Hofstetten bei Brienz",
+    "key": "580"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Interlaken",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Interlaken",
+    "key": "581"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Iseltwald",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Iseltwald",
+    "key": "582"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Lauterbrunnen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Lauterbrunnen",
+    "key": "584"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Leissigen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Leissigen",
+    "key": "585"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Lütschental",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Lütschental",
+    "key": "586"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Matten bei Interlaken",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Matten bei Interlaken",
+    "key": "587"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Niederried bei Interlaken",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Niederried b. Interlaken",
+    "key": "588"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Oberried am Brienzersee",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Oberried am Brienzersee",
+    "key": "589"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Ringgenberg (BE)",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Ringgenberg (BE)",
+    "key": "590"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Saxeten",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Saxeten",
+    "key": "591"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Schwanden bei Brienz",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Schwanden bei Brienz",
+    "key": "592"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Unterseen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Unterseen",
+    "key": "593"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Wilderswil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Wilderswil",
+    "key": "594"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Guttannen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Guttannen",
+    "key": "782"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Hasliberg",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Hasliberg",
+    "key": "783"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Innertkirchen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Innertkirchen",
+    "key": "784"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Meiringen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Meiringen",
+    "key": "785"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Interlaken-Oberhasli",
+      "key": "250"
+    },
+    "name": "Schattenhalb",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Schattenhalb",
+    "key": "786"
+  }
+]

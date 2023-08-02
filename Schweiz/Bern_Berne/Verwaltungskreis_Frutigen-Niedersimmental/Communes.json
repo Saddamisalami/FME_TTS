@@ -1,0 +1,184 @@
+[
+  {
+    "district": {
+      "name": "Verwaltungskreis Frutigen-Niedersimmental",
+      "key": "249"
+    },
+    "name": "Adelboden",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Adelboden",
+    "key": "561"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Frutigen-Niedersimmental",
+      "key": "249"
+    },
+    "name": "Aeschi bei Spiez",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Aeschi bei Spiez",
+    "key": "562"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Frutigen-Niedersimmental",
+      "key": "249"
+    },
+    "name": "Frutigen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Frutigen",
+    "key": "563"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Frutigen-Niedersimmental",
+      "key": "249"
+    },
+    "name": "Kandergrund",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Kandergrund",
+    "key": "564"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Frutigen-Niedersimmental",
+      "key": "249"
+    },
+    "name": "Kandersteg",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Kandersteg",
+    "key": "565"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Frutigen-Niedersimmental",
+      "key": "249"
+    },
+    "name": "Krattigen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Krattigen",
+    "key": "566"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Frutigen-Niedersimmental",
+      "key": "249"
+    },
+    "name": "Reichenbach im Kandertal",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Reichenbach im Kandertal",
+    "key": "567"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Frutigen-Niedersimmental",
+      "key": "249"
+    },
+    "name": "Därstetten",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Därstetten",
+    "key": "761"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Frutigen-Niedersimmental",
+      "key": "249"
+    },
+    "name": "Diemtigen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Diemtigen",
+    "key": "762"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Frutigen-Niedersimmental",
+      "key": "249"
+    },
+    "name": "Erlenbach im Simmental",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Erlenbach im Simmental",
+    "key": "763"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Frutigen-Niedersimmental",
+      "key": "249"
+    },
+    "name": "Oberwil im Simmental",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Oberwil im Simmental",
+    "key": "766"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Frutigen-Niedersimmental",
+      "key": "249"
+    },
+    "name": "Spiez",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Spiez",
+    "key": "768"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Frutigen-Niedersimmental",
+      "key": "249"
+    },
+    "name": "Wimmis",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Wimmis",
+    "key": "769"
+  }
+]

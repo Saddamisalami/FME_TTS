@@ -1,0 +1,366 @@
+[
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Baden",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Baden",
+    "key": "4021"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Bellikon",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Bellikon",
+    "key": "4022"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Bergdietikon",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Bergdietikon",
+    "key": "4023"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Birmenstorf (AG)",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Birmenstorf (AG)",
+    "key": "4024"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Ennetbaden",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Ennetbaden",
+    "key": "4026"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Fislisbach",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Fislisbach",
+    "key": "4027"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Freienwil",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Freienwil",
+    "key": "4028"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Gebenstorf",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Gebenstorf",
+    "key": "4029"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Killwangen",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Killwangen",
+    "key": "4030"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Künten",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Künten",
+    "key": "4031"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Mägenwil",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Mägenwil",
+    "key": "4032"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Mellingen",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Mellingen",
+    "key": "4033"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Neuenhof",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Neuenhof",
+    "key": "4034"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Niederrohrdorf",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Niederrohrdorf",
+    "key": "4035"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Oberrohrdorf",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Oberrohrdorf",
+    "key": "4037"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Obersiggenthal",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Obersiggenthal",
+    "key": "4038"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Remetschwil",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Remetschwil",
+    "key": "4039"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Spreitenbach",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Spreitenbach",
+    "key": "4040"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Stetten (AG)",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Stetten (AG)",
+    "key": "4041"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Turgi",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Turgi",
+    "key": "4042"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Untersiggenthal",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Untersiggenthal",
+    "key": "4044"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Wettingen",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Wettingen",
+    "key": "4045"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Wohlenschwil",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Wohlenschwil",
+    "key": "4046"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Würenlingen",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Würenlingen",
+    "key": "4047"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Würenlos",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Würenlos",
+    "key": "4048"
+  },
+  {
+    "district": {
+      "name": "Bezirk Baden",
+      "key": "1902"
+    },
+    "name": "Ehrendingen",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Ehrendingen",
+    "key": "4049"
+  }
+]

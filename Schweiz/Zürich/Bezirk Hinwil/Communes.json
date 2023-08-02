@@ -1,0 +1,156 @@
+[
+  {
+    "district": {
+      "name": "Bezirk Hinwil",
+      "key": "105"
+    },
+    "name": "Bäretswil",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Bäretswil",
+    "key": "111"
+  },
+  {
+    "district": {
+      "name": "Bezirk Hinwil",
+      "key": "105"
+    },
+    "name": "Bubikon",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Bubikon",
+    "key": "112"
+  },
+  {
+    "district": {
+      "name": "Bezirk Hinwil",
+      "key": "105"
+    },
+    "name": "Dürnten",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Dürnten",
+    "key": "113"
+  },
+  {
+    "district": {
+      "name": "Bezirk Hinwil",
+      "key": "105"
+    },
+    "name": "Fischenthal",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Fischenthal",
+    "key": "114"
+  },
+  {
+    "district": {
+      "name": "Bezirk Hinwil",
+      "key": "105"
+    },
+    "name": "Gossau (ZH)",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Gossau (ZH)",
+    "key": "115"
+  },
+  {
+    "district": {
+      "name": "Bezirk Hinwil",
+      "key": "105"
+    },
+    "name": "Grüningen",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Grüningen",
+    "key": "116"
+  },
+  {
+    "district": {
+      "name": "Bezirk Hinwil",
+      "key": "105"
+    },
+    "name": "Hinwil",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Hinwil",
+    "key": "117"
+  },
+  {
+    "district": {
+      "name": "Bezirk Hinwil",
+      "key": "105"
+    },
+    "name": "Rüti (ZH)",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Rüti (ZH)",
+    "key": "118"
+  },
+  {
+    "district": {
+      "name": "Bezirk Hinwil",
+      "key": "105"
+    },
+    "name": "Seegräben",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Seegräben",
+    "key": "119"
+  },
+  {
+    "district": {
+      "name": "Bezirk Hinwil",
+      "key": "105"
+    },
+    "name": "Wald (ZH)",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Wald (ZH)",
+    "key": "120"
+  },
+  {
+    "district": {
+      "name": "Bezirk Hinwil",
+      "key": "105"
+    },
+    "name": "Wetzikon (ZH)",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Wetzikon (ZH)",
+    "key": "121"
+  }
+]

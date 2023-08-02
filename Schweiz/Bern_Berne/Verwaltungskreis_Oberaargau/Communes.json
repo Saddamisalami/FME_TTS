@@ -1,0 +1,618 @@
+[
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Aarwangen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Aarwangen",
+    "key": "321"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Auswil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Auswil",
+    "key": "322"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Bannwil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Bannwil",
+    "key": "323"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Bleienbach",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Bleienbach",
+    "key": "324"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Busswil bei Melchnau",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Busswil bei Melchnau",
+    "key": "325"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Gondiswil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Gondiswil",
+    "key": "326"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Langenthal",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Langenthal",
+    "key": "329"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Lotzwil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Lotzwil",
+    "key": "331"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Madiswil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Madiswil",
+    "key": "332"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Melchnau",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Melchnau",
+    "key": "333"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Oeschenbach",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Oeschenbach",
+    "key": "335"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Reisiswil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Reisiswil",
+    "key": "336"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Roggwil (BE)",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Roggwil (BE)",
+    "key": "337"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Rohrbach",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Rohrbach",
+    "key": "338"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Rohrbachgraben",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Rohrbachgraben",
+    "key": "339"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Rütschelen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Rütschelen",
+    "key": "340"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Schwarzhäusern",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Schwarzhäusern",
+    "key": "341"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Thunstetten",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Thunstetten",
+    "key": "342"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Ursenbach",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Ursenbach",
+    "key": "344"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Wynau",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Wynau",
+    "key": "345"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Eriswil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Eriswil",
+    "key": "953"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Huttwil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Huttwil",
+    "key": "954"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Walterswil (BE)",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Walterswil (BE)",
+    "key": "959"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Wyssachen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Wyssachen",
+    "key": "960"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Attiswil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Attiswil",
+    "key": "971"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Berken",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Berken",
+    "key": "972"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Bettenhausen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Bettenhausen",
+    "key": "973"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Farnern",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Farnern",
+    "key": "975"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Graben",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Graben",
+    "key": "976"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Heimenhausen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Heimenhausen",
+    "key": "977"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Herzogenbuchsee",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Herzogenbuchsee",
+    "key": "979"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Inkwil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Inkwil",
+    "key": "980"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Niederbipp",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Niederbipp",
+    "key": "981"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Niederönz",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Niederönz",
+    "key": "982"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Oberbipp",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Oberbipp",
+    "key": "983"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Ochlenberg",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Ochlenberg",
+    "key": "985"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Rumisberg",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Rumisberg",
+    "key": "987"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Seeberg",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Seeberg",
+    "key": "988"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Thörigen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Thörigen",
+    "key": "989"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Walliswil bei Niederbipp",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Walliswil bei Niederbipp",
+    "key": "990"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Walliswil bei Wangen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Walliswil bei Wangen",
+    "key": "991"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Wangen an der Aare",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Wangen an der Aare",
+    "key": "992"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Wangenried",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Wangenried",
+    "key": "993"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Oberaargau",
+      "key": "244"
+    },
+    "name": "Wiedlisbach",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Wiedlisbach",
+    "key": "995"
+  }
+]

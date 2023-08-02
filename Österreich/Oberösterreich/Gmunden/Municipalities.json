@@ -1,0 +1,342 @@
+[
+  {
+    "code": "40701",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4813",
+    "name": "Altmünster",
+    "multiplePostalCodes": true,
+    "key": "40701",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40702",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4822",
+    "name": "Bad Goisern am Hallstättersee",
+    "multiplePostalCodes": false,
+    "key": "40702",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40703",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4820",
+    "name": "Bad Ischl",
+    "multiplePostalCodes": true,
+    "key": "40703",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "40704",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4802",
+    "name": "Ebensee am Traunsee",
+    "multiplePostalCodes": false,
+    "key": "40704",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40705",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4810",
+    "name": "Gmunden",
+    "multiplePostalCodes": false,
+    "key": "40705",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "40706",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4824",
+    "name": "Gosau",
+    "multiplePostalCodes": true,
+    "key": "40706",
+    "status": "None"
+  },
+  {
+    "code": "40707",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4645",
+    "name": "Grünau im Almtal",
+    "multiplePostalCodes": true,
+    "key": "40707",
+    "status": "None"
+  },
+  {
+    "code": "40708",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4816",
+    "name": "Gschwandt",
+    "multiplePostalCodes": true,
+    "key": "40708",
+    "status": "None"
+  },
+  {
+    "code": "40709",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4830",
+    "name": "Hallstatt",
+    "multiplePostalCodes": true,
+    "key": "40709",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40710",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4656",
+    "name": "Kirchham",
+    "multiplePostalCodes": true,
+    "key": "40710",
+    "status": "None"
+  },
+  {
+    "code": "40711",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4663",
+    "name": "Laakirchen",
+    "multiplePostalCodes": true,
+    "key": "40711",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "40712",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4831",
+    "name": "Obertraun",
+    "multiplePostalCodes": false,
+    "key": "40712",
+    "status": "None"
+  },
+  {
+    "code": "40713",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4694",
+    "name": "Ohlsdorf",
+    "multiplePostalCodes": false,
+    "key": "40713",
+    "status": "None"
+  },
+  {
+    "code": "40714",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4812",
+    "name": "Pinsdorf",
+    "multiplePostalCodes": true,
+    "key": "40714",
+    "status": "None"
+  },
+  {
+    "code": "40715",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4661",
+    "name": "Roitham am Traunfall",
+    "multiplePostalCodes": true,
+    "key": "40715",
+    "status": "None"
+  },
+  {
+    "code": "40716",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4817",
+    "name": "St. Konrad",
+    "multiplePostalCodes": true,
+    "key": "40716",
+    "status": "None"
+  },
+  {
+    "code": "40717",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5360",
+    "name": "St. Wolfgang im Salzkammergut",
+    "multiplePostalCodes": false,
+    "key": "40717",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40718",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4801",
+    "name": "Traunkirchen",
+    "multiplePostalCodes": false,
+    "key": "40718",
+    "status": "None"
+  },
+  {
+    "code": "40719",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4644",
+    "name": "Scharnstein",
+    "multiplePostalCodes": true,
+    "key": "40719",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40720",
+    "district": {
+      "code": "407",
+      "name": "Gmunden",
+      "key": "407"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4655",
+    "name": "Vorchdorf",
+    "multiplePostalCodes": false,
+    "key": "40720",
+    "status": "MarketTown"
+  }
+]

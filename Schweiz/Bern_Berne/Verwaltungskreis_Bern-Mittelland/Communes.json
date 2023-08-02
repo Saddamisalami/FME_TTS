@@ -1,0 +1,1038 @@
+[
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Meikirch",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Meikirch",
+    "key": "307"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Bern",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Bern",
+    "key": "351"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Bolligen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Bolligen",
+    "key": "352"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Bremgarten bei Bern",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Bremgarten bei Bern",
+    "key": "353"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Kirchlindach",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Kirchlindach",
+    "key": "354"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Köniz",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Köniz",
+    "key": "355"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Muri bei Bern",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Muri bei Bern",
+    "key": "356"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Oberbalm",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Oberbalm",
+    "key": "357"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Stettlen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Stettlen",
+    "key": "358"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Vechigen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Vechigen",
+    "key": "359"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Wohlen bei Bern",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Wohlen bei Bern",
+    "key": "360"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Zollikofen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Zollikofen",
+    "key": "361"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Ittigen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Ittigen",
+    "key": "362"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Ostermundigen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Ostermundigen",
+    "key": "363"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Bäriswil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Bäriswil",
+    "key": "403"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Deisswil bei Münchenbuchsee",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Deisswil b. Münchenbuch.",
+    "key": "535"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Fraubrunnen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Fraubrunnen",
+    "key": "538"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Jegenstorf",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Jegenstorf",
+    "key": "540"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Iffwil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Iffwil",
+    "key": "541"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Mattstetten",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Mattstetten",
+    "key": "543"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Moosseedorf",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Moosseedorf",
+    "key": "544"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Münchenbuchsee",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Münchenbuchsee",
+    "key": "546"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Urtenen-Schönbühl",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Urtenen-Schönbühl",
+    "key": "551"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Wiggiswil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Wiggiswil",
+    "key": "553"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Zuzwil (BE)",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Zuzwil (BE)",
+    "key": "557"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Arni (BE)",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Arni (BE)",
+    "key": "602"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Biglen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Biglen",
+    "key": "603"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Bowil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Bowil",
+    "key": "605"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Brenzikofen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Brenzikofen",
+    "key": "606"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Freimettigen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Freimettigen",
+    "key": "607"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Grosshöchstetten",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Grosshöchstetten",
+    "key": "608"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Häutligen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Häutligen",
+    "key": "609"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Herbligen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Herbligen",
+    "key": "610"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Kiesen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Kiesen",
+    "key": "611"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Konolfingen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Konolfingen",
+    "key": "612"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Landiswil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Landiswil",
+    "key": "613"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Linden",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Linden",
+    "key": "614"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Mirchel",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Mirchel",
+    "key": "615"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Münsingen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Münsingen",
+    "key": "616"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Niederhünigen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Niederhünigen",
+    "key": "617"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Oberdiessbach",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Oberdiessbach",
+    "key": "619"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Oberthal",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Oberthal",
+    "key": "620"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Oppligen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Oppligen",
+    "key": "622"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Rubigen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Rubigen",
+    "key": "623"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Walkringen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Walkringen",
+    "key": "626"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Worb",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Worb",
+    "key": "627"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Zäziwil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Zäziwil",
+    "key": "628"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Oberhünigen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Oberhünigen",
+    "key": "629"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Allmendingen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Allmendingen",
+    "key": "630"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Wichtrach",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Wichtrach",
+    "key": "632"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Ferenbalm",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Ferenbalm",
+    "key": "662"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Frauenkappelen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Frauenkappelen",
+    "key": "663"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Gurbrü",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Gurbrü",
+    "key": "665"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Kriechenwil",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Kriechenwil",
+    "key": "666"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Laupen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Laupen",
+    "key": "667"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Mühleberg",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Mühleberg",
+    "key": "668"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Münchenwiler",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Münchenwiler",
+    "key": "669"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Neuenegg",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Neuenegg",
+    "key": "670"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Wileroltigen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Wileroltigen",
+    "key": "671"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Guggisberg",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Guggisberg",
+    "key": "852"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Rüschegg",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Rüschegg",
+    "key": "853"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Schwarzenburg",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Schwarzenburg",
+    "key": "855"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Belp",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Belp",
+    "key": "861"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Gerzensee",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Gerzensee",
+    "key": "866"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Jaberg",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Jaberg",
+    "key": "868"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Kaufdorf",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Kaufdorf",
+    "key": "869"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Kehrsatz",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Kehrsatz",
+    "key": "870"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Kirchdorf (BE)",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Kirchdorf (BE)",
+    "key": "872"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Niedermuhlern",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Niedermuhlern",
+    "key": "877"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Riggisberg",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Riggisberg",
+    "key": "879"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Rüeggisberg",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Rüeggisberg",
+    "key": "880"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Toffen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Toffen",
+    "key": "884"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Wald (BE)",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Wald (BE)",
+    "key": "888"
+  },
+  {
+    "district": {
+      "name": "Verwaltungskreis Bern-Mittelland",
+      "key": "246"
+    },
+    "name": "Thurnen",
+    "canton": {
+      "code": "BE",
+      "name": "Bern / Berne",
+      "key": "2"
+    },
+    "shortName": "Thurnen",
+    "key": "889"
+  }
+]

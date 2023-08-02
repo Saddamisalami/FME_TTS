@@ -1,0 +1,17 @@
+[{
+  "code": "30301",
+  "district": {
+    "code": "303",
+    "name": "Waidhofen an der Ybbs ( Stadt)",
+    "key": "303"
+  },
+  "federalProvince": {
+    "name": "Niederösterreich",
+    "key": "3"
+  },
+  "postalCode": "3340",
+  "name": "Waidhofen an der Ybbs",
+  "multiplePostalCodes": true,
+  "key": "30301",
+  "status": "TownWithCharter"
+}]

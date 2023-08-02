@@ -1,0 +1,254 @@
+[
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Auboranges",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Auboranges",
+    "key": "2061"
+  },
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Billens-Hennens",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Billens-Hennens",
+    "key": "2063"
+  },
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Chapelle (Glâne)",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Chapelle (Glâne)",
+    "key": "2066"
+  },
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Le Châtelard",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Le Châtelard",
+    "key": "2067"
+  },
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Châtonnaye",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Châtonnaye",
+    "key": "2068"
+  },
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Ecublens (FR)",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Ecublens (FR)",
+    "key": "2072"
+  },
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Grangettes",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Grangettes",
+    "key": "2079"
+  },
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Massonnens",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Massonnens",
+    "key": "2086"
+  },
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Mézières (FR)",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Mézières (FR)",
+    "key": "2087"
+  },
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Montet (Glâne)",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Montet (Glâne)",
+    "key": "2089"
+  },
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Romont (FR)",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Romont (FR)",
+    "key": "2096"
+  },
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Rue",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Rue",
+    "key": "2097"
+  },
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Siviriez",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Siviriez",
+    "key": "2099"
+  },
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Ursy",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Ursy",
+    "key": "2102"
+  },
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Vuisternens-devant-Romont",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Vuisternens-dev-Romont",
+    "key": "2113"
+  },
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Villorsonnens",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Villorsonnens",
+    "key": "2114"
+  },
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Torny",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Torny",
+    "key": "2115"
+  },
+  {
+    "district": {
+      "name": "District de la Glâne",
+      "key": "1002"
+    },
+    "name": "Villaz",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Villaz",
+    "key": "2117"
+  }
+]

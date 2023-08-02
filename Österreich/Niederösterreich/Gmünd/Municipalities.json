@@ -1,0 +1,359 @@
+[
+  {
+    "code": "30902",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3872",
+    "name": "Amaliendorf-Aalfang",
+    "multiplePostalCodes": true,
+    "key": "30902",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30903",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3871",
+    "name": "Brand-Nagelberg",
+    "multiplePostalCodes": true,
+    "key": "30903",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30904",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3861",
+    "name": "Eggern",
+    "multiplePostalCodes": true,
+    "key": "30904",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30906",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3862",
+    "name": "Eisgarn",
+    "multiplePostalCodes": false,
+    "key": "30906",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30908",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3950",
+    "name": "Gmünd",
+    "multiplePostalCodes": true,
+    "key": "30908",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "30909",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3950",
+    "name": "Großdietmanns",
+    "multiplePostalCodes": true,
+    "key": "30909",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30910",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3972",
+    "name": "Bad Großpertholz",
+    "multiplePostalCodes": true,
+    "key": "30910",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30912",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3922",
+    "name": "Großschönau",
+    "multiplePostalCodes": true,
+    "key": "30912",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30913",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3970",
+    "name": "Moorbad Harbach",
+    "multiplePostalCodes": true,
+    "key": "30913",
+    "status": "None"
+  },
+  {
+    "code": "30915",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3874",
+    "name": "Haugschlag",
+    "multiplePostalCodes": false,
+    "key": "30915",
+    "status": "None"
+  },
+  {
+    "code": "30916",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3860",
+    "name": "Heidenreichstein",
+    "multiplePostalCodes": true,
+    "key": "30916",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "30917",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3942",
+    "name": "Hirschbach",
+    "multiplePostalCodes": false,
+    "key": "30917",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30920",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3945",
+    "name": "Hoheneich",
+    "multiplePostalCodes": false,
+    "key": "30920",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30921",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3932",
+    "name": "Kirchberg am Walde",
+    "multiplePostalCodes": false,
+    "key": "30921",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30925",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3874",
+    "name": "Litschau",
+    "multiplePostalCodes": true,
+    "key": "30925",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "30929",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3863",
+    "name": "Reingers",
+    "multiplePostalCodes": false,
+    "key": "30929",
+    "status": "None"
+  },
+  {
+    "code": "30932",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3971",
+    "name": "St. Martin",
+    "multiplePostalCodes": true,
+    "key": "30932",
+    "status": "MarketTown"
+  },
+  {
+    "code": "30935",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3943",
+    "name": "Schrems",
+    "multiplePostalCodes": true,
+    "key": "30935",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "30939",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3970",
+    "name": "Unserfrau-Altweitra",
+    "multiplePostalCodes": true,
+    "key": "30939",
+    "status": "None"
+  },
+  {
+    "code": "30940",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3961",
+    "name": "Waldenstein",
+    "multiplePostalCodes": true,
+    "key": "30940",
+    "status": "None"
+  },
+  {
+    "code": "30942",
+    "district": {
+      "code": "309",
+      "name": "Gmünd",
+      "key": "309"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3970",
+    "name": "Weitra",
+    "multiplePostalCodes": false,
+    "key": "30942",
+    "status": "UrbanMunicipality"
+  }
+]

@@ -1,0 +1,376 @@
+[
+  {
+    "code": "41001",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4511",
+    "name": "Allhaming",
+    "multiplePostalCodes": true,
+    "key": "41001",
+    "status": "None"
+  },
+  {
+    "code": "41002",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4053",
+    "name": "Ansfelden",
+    "multiplePostalCodes": true,
+    "key": "41002",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "41003",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4481",
+    "name": "Asten",
+    "multiplePostalCodes": false,
+    "key": "41003",
+    "status": "MarketTown"
+  },
+  {
+    "code": "41004",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4622",
+    "name": "Eggendorf im Traunkreis",
+    "multiplePostalCodes": true,
+    "key": "41004",
+    "status": "None"
+  },
+  {
+    "code": "41005",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4470",
+    "name": "Enns",
+    "multiplePostalCodes": false,
+    "key": "41005",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "41006",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4483",
+    "name": "Hargelsberg",
+    "multiplePostalCodes": false,
+    "key": "41006",
+    "status": "None"
+  },
+  {
+    "code": "41007",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4063",
+    "name": "Hörsching",
+    "multiplePostalCodes": false,
+    "key": "41007",
+    "status": "MarketTown"
+  },
+  {
+    "code": "41008",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4492",
+    "name": "Hofkirchen im Traunkreis",
+    "multiplePostalCodes": true,
+    "key": "41008",
+    "status": "None"
+  },
+  {
+    "code": "41009",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4531",
+    "name": "Kematen an der Krems",
+    "multiplePostalCodes": true,
+    "key": "41009",
+    "status": "None"
+  },
+  {
+    "code": "41010",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4062",
+    "name": "Kirchberg-Thening",
+    "multiplePostalCodes": false,
+    "key": "41010",
+    "status": "None"
+  },
+  {
+    "code": "41011",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4484",
+    "name": "Kronstorf",
+    "multiplePostalCodes": true,
+    "key": "41011",
+    "status": "MarketTown"
+  },
+  {
+    "code": "41012",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4060",
+    "name": "Leonding",
+    "multiplePostalCodes": true,
+    "key": "41012",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "41013",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4490",
+    "name": "St. Florian",
+    "multiplePostalCodes": false,
+    "key": "41013",
+    "status": "MarketTown"
+  },
+  {
+    "code": "41014",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4501",
+    "name": "Neuhofen an der Krems",
+    "multiplePostalCodes": true,
+    "key": "41014",
+    "status": "MarketTown"
+  },
+  {
+    "code": "41015",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4491",
+    "name": "Niederneukirchen",
+    "multiplePostalCodes": false,
+    "key": "41015",
+    "status": "None"
+  },
+  {
+    "code": "41016",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4064",
+    "name": "Oftering",
+    "multiplePostalCodes": false,
+    "key": "41016",
+    "status": "None"
+  },
+  {
+    "code": "41017",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4061",
+    "name": "Pasching",
+    "multiplePostalCodes": false,
+    "key": "41017",
+    "status": "None"
+  },
+  {
+    "code": "41018",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4533",
+    "name": "Piberbach",
+    "multiplePostalCodes": false,
+    "key": "41018",
+    "status": "None"
+  },
+  {
+    "code": "41019",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4055",
+    "name": "Pucking",
+    "multiplePostalCodes": false,
+    "key": "41019",
+    "status": "MarketTown"
+  },
+  {
+    "code": "41020",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4502",
+    "name": "St. Marien",
+    "multiplePostalCodes": true,
+    "key": "41020",
+    "status": "None"
+  },
+  {
+    "code": "41021",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4050",
+    "name": "Traun",
+    "multiplePostalCodes": true,
+    "key": "41021",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "41022",
+    "district": {
+      "code": "410",
+      "name": "Linz-Land",
+      "key": "410"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4073",
+    "name": "Wilhering",
+    "multiplePostalCodes": true,
+    "key": "41022",
+    "status": "MarketTown"
+  }
+]

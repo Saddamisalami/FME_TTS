@@ -1,0 +1,17 @@
+[{
+  "code": "40101",
+  "district": {
+    "code": "401",
+    "name": "Stadt Linz",
+    "key": "401"
+  },
+  "federalProvince": {
+    "name": "Oberösterreich",
+    "key": "4"
+  },
+  "postalCode": "4020",
+  "name": "Linz",
+  "multiplePostalCodes": true,
+  "key": "40101",
+  "status": "TownWithCharter"
+}]

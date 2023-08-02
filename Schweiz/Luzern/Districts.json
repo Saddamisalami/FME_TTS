@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Wahlkreis Luzern-Stadt",
+    "canton": {
+      "code": "LU",
+      "name": "Luzern",
+      "key": "3"
+    },
+    "key": "311"
+  },
+  {
+    "name": "Wahlkreis Luzern-Land",
+    "canton": {
+      "code": "LU",
+      "name": "Luzern",
+      "key": "3"
+    },
+    "key": "312"
+  },
+  {
+    "name": "Wahlkreis Hochdorf",
+    "canton": {
+      "code": "LU",
+      "name": "Luzern",
+      "key": "3"
+    },
+    "key": "313"
+  },
+  {
+    "name": "Wahlkreis Sursee",
+    "canton": {
+      "code": "LU",
+      "name": "Luzern",
+      "key": "3"
+    },
+    "key": "314"
+  },
+  {
+    "name": "Wahlkreis Willisau",
+    "canton": {
+      "code": "LU",
+      "name": "Luzern",
+      "key": "3"
+    },
+    "key": "315"
+  },
+  {
+    "name": "Wahlkreis Entlebuch",
+    "canton": {
+      "code": "LU",
+      "name": "Luzern",
+      "key": "3"
+    },
+    "key": "316"
+  }
+]

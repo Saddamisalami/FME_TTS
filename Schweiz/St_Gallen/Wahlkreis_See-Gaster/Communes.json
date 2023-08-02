@@ -1,0 +1,142 @@
+[
+  {
+    "district": {
+      "name": "Wahlkreis See-Gaster",
+      "key": "1726"
+    },
+    "name": "Amden",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Amden",
+    "key": "3311"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis See-Gaster",
+      "key": "1726"
+    },
+    "name": "Benken (SG)",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Benken (SG)",
+    "key": "3312"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis See-Gaster",
+      "key": "1726"
+    },
+    "name": "Kaltbrunn",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Kaltbrunn",
+    "key": "3313"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis See-Gaster",
+      "key": "1726"
+    },
+    "name": "Schänis",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Schänis",
+    "key": "3315"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis See-Gaster",
+      "key": "1726"
+    },
+    "name": "Weesen",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Weesen",
+    "key": "3316"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis See-Gaster",
+      "key": "1726"
+    },
+    "name": "Schmerikon",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Schmerikon",
+    "key": "3338"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis See-Gaster",
+      "key": "1726"
+    },
+    "name": "Uznach",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Uznach",
+    "key": "3339"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis See-Gaster",
+      "key": "1726"
+    },
+    "name": "Rapperswil-Jona",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Rapperswil-Jona",
+    "key": "3340"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis See-Gaster",
+      "key": "1726"
+    },
+    "name": "Gommiswald",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Gommiswald",
+    "key": "3341"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis See-Gaster",
+      "key": "1726"
+    },
+    "name": "Eschenbach (SG)",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Eschenbach (SG)",
+    "key": "3342"
+  }
+]

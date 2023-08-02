@@ -1,0 +1,72 @@
+[
+  {
+    "district": {
+      "name": "District de Sion",
+      "key": "2312"
+    },
+    "name": "Arbaz",
+    "canton": {
+      "code": "VS",
+      "name": "Valais / Wallis",
+      "key": "23"
+    },
+    "shortName": "Arbaz",
+    "key": "6261"
+  },
+  {
+    "district": {
+      "name": "District de Sion",
+      "key": "2312"
+    },
+    "name": "Grimisuat",
+    "canton": {
+      "code": "VS",
+      "name": "Valais / Wallis",
+      "key": "23"
+    },
+    "shortName": "Grimisuat",
+    "key": "6263"
+  },
+  {
+    "district": {
+      "name": "District de Sion",
+      "key": "2312"
+    },
+    "name": "Savièse",
+    "canton": {
+      "code": "VS",
+      "name": "Valais / Wallis",
+      "key": "23"
+    },
+    "shortName": "Savièse",
+    "key": "6265"
+  },
+  {
+    "district": {
+      "name": "District de Sion",
+      "key": "2312"
+    },
+    "name": "Sion",
+    "canton": {
+      "code": "VS",
+      "name": "Valais / Wallis",
+      "key": "23"
+    },
+    "shortName": "Sion",
+    "key": "6266"
+  },
+  {
+    "district": {
+      "name": "District de Sion",
+      "key": "2312"
+    },
+    "name": "Veysonnaz",
+    "canton": {
+      "code": "VS",
+      "name": "Valais / Wallis",
+      "key": "23"
+    },
+    "shortName": "Veysonnaz",
+    "key": "6267"
+  }
+]

@@ -1,0 +1,14 @@
+[{
+  "district": {
+    "name": "Bezirk Solothurn",
+    "key": "1109"
+  },
+  "name": "Solothurn",
+  "canton": {
+    "code": "SO",
+    "name": "Solothurn",
+    "key": "11"
+  },
+  "shortName": "Solothurn",
+  "key": "2601"
+}]

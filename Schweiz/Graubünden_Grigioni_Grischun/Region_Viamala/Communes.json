@@ -1,0 +1,268 @@
+[
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Fürstenau",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Fürstenau",
+    "key": "3633"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Rothenbrunnen",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Rothenbrunnen",
+    "key": "3637"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Scharans",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Scharans",
+    "key": "3638"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Sils im Domleschg",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Sils im Domleschg",
+    "key": "3640"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Cazis",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Cazis",
+    "key": "3661"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Flerden",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Flerden",
+    "key": "3662"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Masein",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Masein",
+    "key": "3663"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Thusis",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Thusis",
+    "key": "3668"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Tschappina",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Tschappina",
+    "key": "3669"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Urmein",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Urmein",
+    "key": "3670"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Domleschg",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Domleschg",
+    "key": "3673"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Avers",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Avers",
+    "key": "3681"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Sufers",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Sufers",
+    "key": "3695"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Andeer",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Andeer",
+    "key": "3701"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Rongellen",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Rongellen",
+    "key": "3711"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Zillis-Reischen",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Zillis-Reischen",
+    "key": "3712"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Ferrera",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Ferrera",
+    "key": "3713"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Rheinwald",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Rheinwald",
+    "key": "3714"
+  },
+  {
+    "district": {
+      "name": "Region Viamala",
+      "key": "1851"
+    },
+    "name": "Muntogna da Schons",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Muntogna da Schons",
+    "key": "3715"
+  }
+]

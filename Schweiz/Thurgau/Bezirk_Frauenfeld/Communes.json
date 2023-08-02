@@ -1,0 +1,324 @@
+[
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Basadingen-Schlattingen",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Basadingen-Schlattingen",
+    "key": "4536"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Diessenhofen",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Diessenhofen",
+    "key": "4545"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Schlatt (TG)",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Schlatt (TG)",
+    "key": "4546"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Felben-Wellhausen",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Felben-Wellhausen",
+    "key": "4561"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Frauenfeld",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Frauenfeld",
+    "key": "4566"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Gachnang",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Gachnang",
+    "key": "4571"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Hüttlingen",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Hüttlingen",
+    "key": "4590"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Matzingen",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Matzingen",
+    "key": "4591"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Neunforn",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Neunforn",
+    "key": "4601"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Stettfurt",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Stettfurt",
+    "key": "4606"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Thundorf",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Thundorf",
+    "key": "4611"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Uesslingen-Buch",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Uesslingen-Buch",
+    "key": "4616"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Warth-Weiningen",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Warth-Weiningen",
+    "key": "4621"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Berlingen",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Berlingen",
+    "key": "4801"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Eschenz",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Eschenz",
+    "key": "4806"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Herdern",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Herdern",
+    "key": "4811"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Homburg",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Homburg",
+    "key": "4816"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Hüttwilen",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Hüttwilen",
+    "key": "4821"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Mammern",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Mammern",
+    "key": "4826"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Müllheim",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Müllheim",
+    "key": "4831"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Pfyn",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Pfyn",
+    "key": "4841"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Steckborn",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Steckborn",
+    "key": "4864"
+  },
+  {
+    "district": {
+      "name": "Bezirk Frauenfeld",
+      "key": "2012"
+    },
+    "name": "Wagenhausen",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "shortName": "Wagenhausen",
+    "key": "4871"
+  }
+]

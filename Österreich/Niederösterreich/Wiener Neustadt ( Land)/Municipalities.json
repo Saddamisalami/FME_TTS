@@ -1,0 +1,597 @@
+[
+  {
+    "code": "32301",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2721",
+    "name": "Bad Fischau-Brunn",
+    "multiplePostalCodes": true,
+    "key": "32301",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32302",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2853",
+    "name": "Bad Schönau",
+    "multiplePostalCodes": false,
+    "key": "32302",
+    "status": "None"
+  },
+  {
+    "code": "32304",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2490",
+    "name": "Ebenfurth",
+    "multiplePostalCodes": true,
+    "key": "32304",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "32305",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2492",
+    "name": "Eggendorf",
+    "multiplePostalCodes": true,
+    "key": "32305",
+    "status": "None"
+  },
+  {
+    "code": "32306",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2822",
+    "name": "Bad Erlach",
+    "multiplePostalCodes": true,
+    "key": "32306",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32307",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2603",
+    "name": "Felixdorf",
+    "multiplePostalCodes": false,
+    "key": "32307",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32308",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2770",
+    "name": "Gutenstein",
+    "multiplePostalCodes": false,
+    "key": "32308",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32309",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2852",
+    "name": "Hochneukirchen-Gschaidt",
+    "multiplePostalCodes": false,
+    "key": "32309",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32310",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2802",
+    "name": "Hochwolkersdorf",
+    "multiplePostalCodes": false,
+    "key": "32310",
+    "status": "None"
+  },
+  {
+    "code": "32311",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2724",
+    "name": "Hohe Wand",
+    "multiplePostalCodes": true,
+    "key": "32311",
+    "status": "None"
+  },
+  {
+    "code": "32312",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2812",
+    "name": "Hollenthon",
+    "multiplePostalCodes": true,
+    "key": "32312",
+    "status": "None"
+  },
+  {
+    "code": "32313",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2801",
+    "name": "Katzelsdorf",
+    "multiplePostalCodes": true,
+    "key": "32313",
+    "status": "None"
+  },
+  {
+    "code": "32314",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2860",
+    "name": "Kirchschlag in der Buckligen Welt",
+    "multiplePostalCodes": true,
+    "key": "32314",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "32315",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2851",
+    "name": "Krumbach",
+    "multiplePostalCodes": true,
+    "key": "32315",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32316",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2821",
+    "name": "Lanzenkirchen",
+    "multiplePostalCodes": true,
+    "key": "32316",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32317",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2813",
+    "name": "Lichtenegg",
+    "multiplePostalCodes": true,
+    "key": "32317",
+    "status": "None"
+  },
+  {
+    "code": "32318",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2493",
+    "name": "Lichtenwörth",
+    "multiplePostalCodes": true,
+    "key": "32318",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32319",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2753",
+    "name": "Markt Piesting",
+    "multiplePostalCodes": false,
+    "key": "32319",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32320",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2751",
+    "name": "Matzendorf-Hölles",
+    "multiplePostalCodes": true,
+    "key": "32320",
+    "status": "None"
+  },
+  {
+    "code": "32321",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2761",
+    "name": "Miesenbach",
+    "multiplePostalCodes": false,
+    "key": "32321",
+    "status": "None"
+  },
+  {
+    "code": "32322",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2763",
+    "name": "Muggendorf",
+    "multiplePostalCodes": false,
+    "key": "32322",
+    "status": "None"
+  },
+  {
+    "code": "32323",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2763",
+    "name": "Pernitz",
+    "multiplePostalCodes": true,
+    "key": "32323",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32324",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2663",
+    "name": "Rohr im Gebirge",
+    "multiplePostalCodes": false,
+    "key": "32324",
+    "status": "None"
+  },
+  {
+    "code": "32325",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2833",
+    "name": "Bromberg",
+    "multiplePostalCodes": true,
+    "key": "32325",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32326",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2803",
+    "name": "Schwarzenbach",
+    "multiplePostalCodes": true,
+    "key": "32326",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32327",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2601",
+    "name": "Sollenau",
+    "multiplePostalCodes": true,
+    "key": "32327",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32330",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2604",
+    "name": "Theresienfeld",
+    "multiplePostalCodes": false,
+    "key": "32330",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32331",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2763",
+    "name": "Waidmannsfeld",
+    "multiplePostalCodes": true,
+    "key": "32331",
+    "status": "None"
+  },
+  {
+    "code": "32332",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2754",
+    "name": "Waldegg",
+    "multiplePostalCodes": true,
+    "key": "32332",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32333",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2822",
+    "name": "Walpersbach",
+    "multiplePostalCodes": true,
+    "key": "32333",
+    "status": "None"
+  },
+  {
+    "code": "32334",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2722",
+    "name": "Weikersdorf am Steinfelde",
+    "multiplePostalCodes": true,
+    "key": "32334",
+    "status": "None"
+  },
+  {
+    "code": "32335",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2811",
+    "name": "Wiesmath",
+    "multiplePostalCodes": true,
+    "key": "32335",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32336",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2722",
+    "name": "Winzendorf-Muthmannsdorf",
+    "multiplePostalCodes": true,
+    "key": "32336",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32337",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2752",
+    "name": "Wöllersdorf-Steinabrückl",
+    "multiplePostalCodes": true,
+    "key": "32337",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32338",
+    "district": {
+      "code": "323",
+      "name": "Wiener Neustadt ( Land)",
+      "key": "323"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2492",
+    "name": "Zillingdorf",
+    "multiplePostalCodes": true,
+    "key": "32338",
+    "status": "MarketTown"
+  }
+]

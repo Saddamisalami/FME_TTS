@@ -1,0 +1,72 @@
+[
+  {
+    "district": {
+      "name": "District d'Entremont",
+      "key": "2303"
+    },
+    "name": "Bourg-Saint-Pierre",
+    "canton": {
+      "code": "VS",
+      "name": "Valais / Wallis",
+      "key": "23"
+    },
+    "shortName": "Bourg-Saint-Pierre",
+    "key": "6032"
+  },
+  {
+    "district": {
+      "name": "District d'Entremont",
+      "key": "2303"
+    },
+    "name": "Liddes",
+    "canton": {
+      "code": "VS",
+      "name": "Valais / Wallis",
+      "key": "23"
+    },
+    "shortName": "Liddes",
+    "key": "6033"
+  },
+  {
+    "district": {
+      "name": "District d'Entremont",
+      "key": "2303"
+    },
+    "name": "Orsières",
+    "canton": {
+      "code": "VS",
+      "name": "Valais / Wallis",
+      "key": "23"
+    },
+    "shortName": "Orsières",
+    "key": "6034"
+  },
+  {
+    "district": {
+      "name": "District d'Entremont",
+      "key": "2303"
+    },
+    "name": "Sembrancher",
+    "canton": {
+      "code": "VS",
+      "name": "Valais / Wallis",
+      "key": "23"
+    },
+    "shortName": "Sembrancher",
+    "key": "6035"
+  },
+  {
+    "district": {
+      "name": "District d'Entremont",
+      "key": "2303"
+    },
+    "name": "Val de Bagnes",
+    "canton": {
+      "code": "VS",
+      "name": "Valais / Wallis",
+      "key": "23"
+    },
+    "shortName": "Val de Bagnes",
+    "key": "6037"
+  }
+]

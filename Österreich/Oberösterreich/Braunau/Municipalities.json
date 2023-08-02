@@ -1,0 +1,784 @@
+[
+  {
+    "code": "40401",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4950",
+    "name": "Altheim",
+    "multiplePostalCodes": false,
+    "key": "40401",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "40402",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5252",
+    "name": "Aspach",
+    "multiplePostalCodes": true,
+    "key": "40402",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40403",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5224",
+    "name": "Auerbach",
+    "multiplePostalCodes": false,
+    "key": "40403",
+    "status": "None"
+  },
+  {
+    "code": "40404",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5280",
+    "name": "Braunau am Inn",
+    "multiplePostalCodes": true,
+    "key": "40404",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "40405",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5274",
+    "name": "Burgkirchen",
+    "multiplePostalCodes": true,
+    "key": "40405",
+    "status": "None"
+  },
+  {
+    "code": "40406",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5142",
+    "name": "Eggelsberg",
+    "multiplePostalCodes": false,
+    "key": "40406",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40407",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5143",
+    "name": "Feldkirchen bei Mattighofen",
+    "multiplePostalCodes": true,
+    "key": "40407",
+    "status": "None"
+  },
+  {
+    "code": "40408",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5131",
+    "name": "Franking",
+    "multiplePostalCodes": false,
+    "key": "40408",
+    "status": "None"
+  },
+  {
+    "code": "40409",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5132",
+    "name": "Geretsberg",
+    "multiplePostalCodes": true,
+    "key": "40409",
+    "status": "None"
+  },
+  {
+    "code": "40410",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5133",
+    "name": "Gilgenberg am Weilhart",
+    "multiplePostalCodes": false,
+    "key": "40410",
+    "status": "None"
+  },
+  {
+    "code": "40411",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5120",
+    "name": "Haigermoos",
+    "multiplePostalCodes": true,
+    "key": "40411",
+    "status": "None"
+  },
+  {
+    "code": "40412",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5144",
+    "name": "Handenberg",
+    "multiplePostalCodes": true,
+    "key": "40412",
+    "status": "None"
+  },
+  {
+    "code": "40413",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5261",
+    "name": "Helpfau-Uttendorf",
+    "multiplePostalCodes": true,
+    "key": "40413",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40414",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5122",
+    "name": "Hochburg-Ach",
+    "multiplePostalCodes": false,
+    "key": "40414",
+    "status": "None"
+  },
+  {
+    "code": "40415",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5251",
+    "name": "Höhnhart",
+    "multiplePostalCodes": true,
+    "key": "40415",
+    "status": "None"
+  },
+  {
+    "code": "40416",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5225",
+    "name": "Jeging",
+    "multiplePostalCodes": false,
+    "key": "40416",
+    "status": "None"
+  },
+  {
+    "code": "40417",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5232",
+    "name": "Kirchberg bei Mattighofen",
+    "multiplePostalCodes": false,
+    "key": "40417",
+    "status": "None"
+  },
+  {
+    "code": "40418",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5211",
+    "name": "Lengau",
+    "multiplePostalCodes": true,
+    "key": "40418",
+    "status": "None"
+  },
+  {
+    "code": "40419",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5221",
+    "name": "Lochen am See",
+    "multiplePostalCodes": true,
+    "key": "40419",
+    "status": "None"
+  },
+  {
+    "code": "40420",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5241",
+    "name": "Maria Schmolln",
+    "multiplePostalCodes": true,
+    "key": "40420",
+    "status": "None"
+  },
+  {
+    "code": "40421",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5230",
+    "name": "Mattighofen",
+    "multiplePostalCodes": false,
+    "key": "40421",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "40422",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5270",
+    "name": "Mauerkirchen",
+    "multiplePostalCodes": false,
+    "key": "40422",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40423",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4962",
+    "name": "Mining",
+    "multiplePostalCodes": false,
+    "key": "40423",
+    "status": "None"
+  },
+  {
+    "code": "40424",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5271",
+    "name": "Moosbach",
+    "multiplePostalCodes": true,
+    "key": "40424",
+    "status": "None"
+  },
+  {
+    "code": "40425",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5141",
+    "name": "Moosdorf",
+    "multiplePostalCodes": false,
+    "key": "40425",
+    "status": "None"
+  },
+  {
+    "code": "40426",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5222",
+    "name": "Munderfing",
+    "multiplePostalCodes": false,
+    "key": "40426",
+    "status": "None"
+  },
+  {
+    "code": "40427",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5145",
+    "name": "Neukirchen an der Enknach",
+    "multiplePostalCodes": true,
+    "key": "40427",
+    "status": "None"
+  },
+  {
+    "code": "40428",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5121",
+    "name": "Ostermiething",
+    "multiplePostalCodes": true,
+    "key": "40428",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40429",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5163",
+    "name": "Palting",
+    "multiplePostalCodes": false,
+    "key": "40429",
+    "status": "None"
+  },
+  {
+    "code": "40430",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5166",
+    "name": "Perwang am Grabensee",
+    "multiplePostalCodes": false,
+    "key": "40430",
+    "status": "None"
+  },
+  {
+    "code": "40431",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5223",
+    "name": "Pfaffstätt",
+    "multiplePostalCodes": false,
+    "key": "40431",
+    "status": "None"
+  },
+  {
+    "code": "40432",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5233",
+    "name": "Pischelsdorf am Engelbach",
+    "multiplePostalCodes": false,
+    "key": "40432",
+    "status": "None"
+  },
+  {
+    "code": "40433",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4951",
+    "name": "Polling im Innkreis",
+    "multiplePostalCodes": true,
+    "key": "40433",
+    "status": "None"
+  },
+  {
+    "code": "40434",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5273",
+    "name": "Roßbach",
+    "multiplePostalCodes": true,
+    "key": "40434",
+    "status": "None"
+  },
+  {
+    "code": "40435",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5144",
+    "name": "St. Georgen am Fillmannsbach",
+    "multiplePostalCodes": false,
+    "key": "40435",
+    "status": "None"
+  },
+  {
+    "code": "40436",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5242",
+    "name": "St. Johann am Walde",
+    "multiplePostalCodes": true,
+    "key": "40436",
+    "status": "None"
+  },
+  {
+    "code": "40437",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5120",
+    "name": "St. Pantaleon",
+    "multiplePostalCodes": true,
+    "key": "40437",
+    "status": "None"
+  },
+  {
+    "code": "40438",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4963",
+    "name": "St. Peter am Hart",
+    "multiplePostalCodes": true,
+    "key": "40438",
+    "status": "None"
+  },
+  {
+    "code": "40439",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5121",
+    "name": "St. Radegund",
+    "multiplePostalCodes": true,
+    "key": "40439",
+    "status": "None"
+  },
+  {
+    "code": "40440",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5273",
+    "name": "St. Veit im Innkreis",
+    "multiplePostalCodes": false,
+    "key": "40440",
+    "status": "None"
+  },
+  {
+    "code": "40441",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5231",
+    "name": "Schalchen",
+    "multiplePostalCodes": true,
+    "key": "40441",
+    "status": "None"
+  },
+  {
+    "code": "40442",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5134",
+    "name": "Schwand im Innkreis",
+    "multiplePostalCodes": false,
+    "key": "40442",
+    "status": "None"
+  },
+  {
+    "code": "40443",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5121",
+    "name": "Tarsdorf",
+    "multiplePostalCodes": false,
+    "key": "40443",
+    "status": "None"
+  },
+  {
+    "code": "40444",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5272",
+    "name": "Treubach",
+    "multiplePostalCodes": false,
+    "key": "40444",
+    "status": "None"
+  },
+  {
+    "code": "40445",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "5122",
+    "name": "Überackern",
+    "multiplePostalCodes": true,
+    "key": "40445",
+    "status": "None"
+  },
+  {
+    "code": "40446",
+    "district": {
+      "code": "404",
+      "name": "Braunau",
+      "key": "404"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4952",
+    "name": "Weng im Innkreis",
+    "multiplePostalCodes": true,
+    "key": "40446",
+    "status": "None"
+  }
+]

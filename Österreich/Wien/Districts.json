@@ -1,0 +1,218 @@
+[
+  {
+    "code": "900",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien ( Stadt)",
+    "key": "900"
+  },
+  {
+    "code": "901",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien  1., Innere Stadt",
+    "key": "900"
+  },
+  {
+    "code": "902",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien  2., Leopoldstadt",
+    "key": "900"
+  },
+  {
+    "code": "903",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien  3., Landstraße",
+    "key": "900"
+  },
+  {
+    "code": "904",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien  4., Wieden",
+    "key": "900"
+  },
+  {
+    "code": "905",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien  5., Margareten",
+    "key": "900"
+  },
+  {
+    "code": "906",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien  6., Mariahilf",
+    "key": "900"
+  },
+  {
+    "code": "907",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien  7., Neubau",
+    "key": "900"
+  },
+  {
+    "code": "908",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien  8., Josefstadt",
+    "key": "900"
+  },
+  {
+    "code": "909",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien  9., Alsergrund",
+    "key": "900"
+  },
+  {
+    "code": "910",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien 10., Favoriten",
+    "key": "900"
+  },
+  {
+    "code": "911",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien 11., Simmering",
+    "key": "900"
+  },
+  {
+    "code": "912",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien 12., Meidling",
+    "key": "900"
+  },
+  {
+    "code": "913",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien 13., Hietzing",
+    "key": "900"
+  },
+  {
+    "code": "914",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien 14., Penzing",
+    "key": "900"
+  },
+  {
+    "code": "915",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien 15., Rudolfsheim-Fünfhaus",
+    "key": "900"
+  },
+  {
+    "code": "916",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien 16., Ottakring",
+    "key": "900"
+  },
+  {
+    "code": "917",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien 17., Hernals",
+    "key": "900"
+  },
+  {
+    "code": "918",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien 18., Währing",
+    "key": "900"
+  },
+  {
+    "code": "919",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien 19., Döbling",
+    "key": "900"
+  },
+  {
+    "code": "920",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien 20., Brigittenau",
+    "key": "900"
+  },
+  {
+    "code": "921",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien 21., Floridsdorf",
+    "key": "900"
+  },
+  {
+    "code": "922",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien 22., Donaustadt",
+    "key": "900"
+  },
+  {
+    "code": "923",
+    "federalProvince": {
+      "name": "Wien",
+      "key": "9"
+    },
+    "name": "Wien 23., Liesing",
+    "key": "900"
+  }
+]

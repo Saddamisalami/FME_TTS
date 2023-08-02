@@ -1,0 +1,83 @@
+[
+  {
+    "code": "701",
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "name": "Innsbruck-Stadt",
+    "key": "701"
+  },
+  {
+    "code": "702",
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "name": "Imst",
+    "key": "702"
+  },
+  {
+    "code": "703",
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "name": "Innsbruck-Land",
+    "key": "703"
+  },
+  {
+    "code": "704",
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "name": "Kitzbühel",
+    "key": "704"
+  },
+  {
+    "code": "705",
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "name": "Kufstein",
+    "key": "705"
+  },
+  {
+    "code": "706",
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "name": "Landeck",
+    "key": "706"
+  },
+  {
+    "code": "707",
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "name": "Lienz",
+    "key": "707"
+  },
+  {
+    "code": "708",
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "name": "Reutte",
+    "key": "708"
+  },
+  {
+    "code": "709",
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "name": "Schwaz",
+    "key": "709"
+  }
+]

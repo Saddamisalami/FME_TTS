@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Wahlkreis St. Gallen",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "key": "1721"
+  },
+  {
+    "name": "Wahlkreis Rorschach",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "key": "1722"
+  },
+  {
+    "name": "Wahlkreis Rheintal",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "key": "1723"
+  },
+  {
+    "name": "Wahlkreis Werdenberg",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "key": "1724"
+  },
+  {
+    "name": "Wahlkreis Sarganserland",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "key": "1725"
+  },
+  {
+    "name": "Wahlkreis See-Gaster",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "key": "1726"
+  },
+  {
+    "name": "Wahlkreis Toggenburg",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "key": "1727"
+  },
+  {
+    "name": "Wahlkreis Wil",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "key": "1728"
+  }
+]

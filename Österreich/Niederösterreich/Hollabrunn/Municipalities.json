@@ -1,0 +1,410 @@
+[
+  {
+    "code": "31001",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2054",
+    "name": "Alberndorf im Pulkautal",
+    "multiplePostalCodes": false,
+    "key": "31001",
+    "status": "None"
+  },
+  {
+    "code": "31008",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2013",
+    "name": "Göllersdorf",
+    "multiplePostalCodes": false,
+    "key": "31008",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31009",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2020",
+    "name": "Grabern",
+    "multiplePostalCodes": true,
+    "key": "31009",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31014",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2042",
+    "name": "Guntersdorf",
+    "multiplePostalCodes": false,
+    "key": "31014",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31015",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2061",
+    "name": "Hadres",
+    "multiplePostalCodes": false,
+    "key": "31015",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31016",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2083",
+    "name": "Hardegg",
+    "multiplePostalCodes": true,
+    "key": "31016",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "31018",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2054",
+    "name": "Haugsdorf",
+    "multiplePostalCodes": true,
+    "key": "31018",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31019",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3704",
+    "name": "Heldenberg",
+    "multiplePostalCodes": true,
+    "key": "31019",
+    "status": "None"
+  },
+  {
+    "code": "31021",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3472",
+    "name": "Hohenwarth-Mühlbach a.M.",
+    "multiplePostalCodes": true,
+    "key": "31021",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31022",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2020",
+    "name": "Hollabrunn",
+    "multiplePostalCodes": true,
+    "key": "31022",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "31025",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2024",
+    "name": "Mailberg",
+    "multiplePostalCodes": false,
+    "key": "31025",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31026",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3712",
+    "name": "Maissau",
+    "multiplePostalCodes": true,
+    "key": "31026",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "31028",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2033",
+    "name": "Nappersdorf-Kammersdorf",
+    "multiplePostalCodes": true,
+    "key": "31028",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31033",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2052",
+    "name": "Pernersdorf",
+    "multiplePostalCodes": true,
+    "key": "31033",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31035",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3741",
+    "name": "Pulkau",
+    "multiplePostalCodes": true,
+    "key": "31035",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "31036",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3720",
+    "name": "Ravelsbach",
+    "multiplePostalCodes": false,
+    "key": "31036",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31037",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2070",
+    "name": "Retz",
+    "multiplePostalCodes": false,
+    "key": "31037",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "31038",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2074",
+    "name": "Retzbach",
+    "multiplePostalCodes": true,
+    "key": "31038",
+    "status": "None"
+  },
+  {
+    "code": "31041",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2073",
+    "name": "Schrattenthal",
+    "multiplePostalCodes": false,
+    "key": "31041",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "31042",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2062",
+    "name": "Seefeld-Kadolz",
+    "multiplePostalCodes": false,
+    "key": "31042",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31043",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3714",
+    "name": "Sitzendorf an der Schmida",
+    "multiplePostalCodes": false,
+    "key": "31043",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31051",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2041",
+    "name": "Wullersdorf",
+    "multiplePostalCodes": true,
+    "key": "31051",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31052",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2051",
+    "name": "Zellerndorf",
+    "multiplePostalCodes": true,
+    "key": "31052",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31053",
+    "district": {
+      "code": "310",
+      "name": "Hollabrunn",
+      "key": "310"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3710",
+    "name": "Ziersdorf",
+    "multiplePostalCodes": true,
+    "key": "31053",
+    "status": "MarketTown"
+  }
+]

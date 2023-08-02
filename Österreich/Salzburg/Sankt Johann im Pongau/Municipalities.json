@@ -1,0 +1,427 @@
+[
+  {
+    "code": "50401",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5541",
+    "name": "Altenmarkt im Pongau",
+    "multiplePostalCodes": false,
+    "key": "50401",
+    "status": "MarketTown"
+  },
+  {
+    "code": "50402",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5630",
+    "name": "Bad Hofgastein",
+    "multiplePostalCodes": false,
+    "key": "50402",
+    "status": "MarketTown"
+  },
+  {
+    "code": "50403",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5640",
+    "name": "Bad Gastein",
+    "multiplePostalCodes": true,
+    "key": "50403",
+    "status": "None"
+  },
+  {
+    "code": "50404",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5500",
+    "name": "Bischofshofen",
+    "multiplePostalCodes": false,
+    "key": "50404",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "50405",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5632",
+    "name": "Dorfgastein",
+    "multiplePostalCodes": false,
+    "key": "50405",
+    "status": "None"
+  },
+  {
+    "code": "50406",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5531",
+    "name": "Eben im Pongau",
+    "multiplePostalCodes": false,
+    "key": "50406",
+    "status": "None"
+  },
+  {
+    "code": "50407",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5532",
+    "name": "Filzmoos",
+    "multiplePostalCodes": false,
+    "key": "50407",
+    "status": "None"
+  },
+  {
+    "code": "50408",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5542",
+    "name": "Flachau",
+    "multiplePostalCodes": false,
+    "key": "50408",
+    "status": "None"
+  },
+  {
+    "code": "50409",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5552",
+    "name": "Forstau",
+    "multiplePostalCodes": false,
+    "key": "50409",
+    "status": "None"
+  },
+  {
+    "code": "50410",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5622",
+    "name": "Goldegg",
+    "multiplePostalCodes": true,
+    "key": "50410",
+    "status": "None"
+  },
+  {
+    "code": "50411",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5611",
+    "name": "Großarl",
+    "multiplePostalCodes": false,
+    "key": "50411",
+    "status": "MarketTown"
+  },
+  {
+    "code": "50412",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5511",
+    "name": "Hüttau",
+    "multiplePostalCodes": true,
+    "key": "50412",
+    "status": "None"
+  },
+  {
+    "code": "50413",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5612",
+    "name": "Hüttschlag",
+    "multiplePostalCodes": false,
+    "key": "50413",
+    "status": "None"
+  },
+  {
+    "code": "50414",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5603",
+    "name": "Kleinarl",
+    "multiplePostalCodes": false,
+    "key": "50414",
+    "status": "None"
+  },
+  {
+    "code": "50415",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5505",
+    "name": "Mühlbach am Hochkönig",
+    "multiplePostalCodes": false,
+    "key": "50415",
+    "status": "None"
+  },
+  {
+    "code": "50416",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5452",
+    "name": "Pfarrwerfen",
+    "multiplePostalCodes": true,
+    "key": "50416",
+    "status": "None"
+  },
+  {
+    "code": "50417",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5550",
+    "name": "Radstadt",
+    "multiplePostalCodes": true,
+    "key": "50417",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "50418",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5600",
+    "name": "Sankt Johann im Pongau",
+    "multiplePostalCodes": true,
+    "key": "50418",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "50419",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5522",
+    "name": "Sankt Martin am Tennengebirge",
+    "multiplePostalCodes": false,
+    "key": "50419",
+    "status": "None"
+  },
+  {
+    "code": "50420",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5621",
+    "name": "Sankt Veit im Pongau",
+    "multiplePostalCodes": false,
+    "key": "50420",
+    "status": "MarketTown"
+  },
+  {
+    "code": "50421",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5620",
+    "name": "Schwarzach im Pongau",
+    "multiplePostalCodes": true,
+    "key": "50421",
+    "status": "MarketTown"
+  },
+  {
+    "code": "50422",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5561",
+    "name": "Untertauern",
+    "multiplePostalCodes": true,
+    "key": "50422",
+    "status": "None"
+  },
+  {
+    "code": "50423",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5602",
+    "name": "Wagrain",
+    "multiplePostalCodes": false,
+    "key": "50423",
+    "status": "MarketTown"
+  },
+  {
+    "code": "50424",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5450",
+    "name": "Werfen",
+    "multiplePostalCodes": true,
+    "key": "50424",
+    "status": "MarketTown"
+  },
+  {
+    "code": "50425",
+    "district": {
+      "code": "504",
+      "name": "Sankt Johann im Pongau",
+      "key": "504"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5453",
+    "name": "Werfenweng",
+    "multiplePostalCodes": false,
+    "key": "50425",
+    "status": "None"
+  }
+]

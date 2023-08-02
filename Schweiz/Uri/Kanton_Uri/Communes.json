@@ -1,0 +1,268 @@
+[
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Altdorf (UR)",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Altdorf (UR)",
+    "key": "1201"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Andermatt",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Andermatt",
+    "key": "1202"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Attinghausen",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Attinghausen",
+    "key": "1203"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Bürglen (UR)",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Bürglen (UR)",
+    "key": "1205"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Erstfeld",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Erstfeld",
+    "key": "1206"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Flüelen",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Flüelen",
+    "key": "1207"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Göschenen",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Göschenen",
+    "key": "1208"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Gurtnellen",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Gurtnellen",
+    "key": "1209"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Hospental",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Hospental",
+    "key": "1210"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Isenthal",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Isenthal",
+    "key": "1211"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Realp",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Realp",
+    "key": "1212"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Schattdorf",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Schattdorf",
+    "key": "1213"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Seedorf (UR)",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Seedorf (UR)",
+    "key": "1214"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Seelisberg",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Seelisberg",
+    "key": "1215"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Silenen",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Silenen",
+    "key": "1216"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Sisikon",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Sisikon",
+    "key": "1217"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Spiringen",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Spiringen",
+    "key": "1218"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Unterschächen",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Unterschächen",
+    "key": "1219"
+  },
+  {
+    "district": {
+      "name": "Kanton Uri",
+      "key": "400"
+    },
+    "name": "Wassen",
+    "canton": {
+      "code": "UR",
+      "name": "Uri",
+      "key": "4"
+    },
+    "shortName": "Wassen",
+    "key": "1220"
+  }
+]

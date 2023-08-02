@@ -1,0 +1,142 @@
+[
+  {
+    "district": {
+      "name": "Wahlkreis Wil",
+      "key": "1728"
+    },
+    "name": "Degersheim",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Degersheim",
+    "key": "3401"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Wil",
+      "key": "1728"
+    },
+    "name": "Flawil",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Flawil",
+    "key": "3402"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Wil",
+      "key": "1728"
+    },
+    "name": "Jonschwil",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Jonschwil",
+    "key": "3405"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Wil",
+      "key": "1728"
+    },
+    "name": "Oberuzwil",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Oberuzwil",
+    "key": "3407"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Wil",
+      "key": "1728"
+    },
+    "name": "Uzwil",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Uzwil",
+    "key": "3408"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Wil",
+      "key": "1728"
+    },
+    "name": "Niederbüren",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Niederbüren",
+    "key": "3422"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Wil",
+      "key": "1728"
+    },
+    "name": "Niederhelfenschwil",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Niederhelfenschwil",
+    "key": "3423"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Wil",
+      "key": "1728"
+    },
+    "name": "Oberbüren",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Oberbüren",
+    "key": "3424"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Wil",
+      "key": "1728"
+    },
+    "name": "Zuzwil (SG)",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Zuzwil (SG)",
+    "key": "3426"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Wil",
+      "key": "1728"
+    },
+    "name": "Wil (SG)",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Wil (SG)",
+    "key": "3427"
+  }
+]

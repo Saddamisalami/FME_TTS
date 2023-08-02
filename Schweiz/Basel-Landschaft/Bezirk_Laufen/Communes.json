@@ -1,0 +1,184 @@
+[
+  {
+    "district": {
+      "name": "Bezirk Laufen",
+      "key": "1302"
+    },
+    "name": "Blauen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Blauen",
+    "key": "2781"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufen",
+      "key": "1302"
+    },
+    "name": "Brislach",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Brislach",
+    "key": "2782"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufen",
+      "key": "1302"
+    },
+    "name": "Burg im Leimental",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Burg im Leimental",
+    "key": "2783"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufen",
+      "key": "1302"
+    },
+    "name": "Dittingen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Dittingen",
+    "key": "2784"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufen",
+      "key": "1302"
+    },
+    "name": "Duggingen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Duggingen",
+    "key": "2785"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufen",
+      "key": "1302"
+    },
+    "name": "Grellingen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Grellingen",
+    "key": "2786"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufen",
+      "key": "1302"
+    },
+    "name": "Laufen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Laufen",
+    "key": "2787"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufen",
+      "key": "1302"
+    },
+    "name": "Liesberg",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Liesberg",
+    "key": "2788"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufen",
+      "key": "1302"
+    },
+    "name": "Nenzlingen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Nenzlingen",
+    "key": "2789"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufen",
+      "key": "1302"
+    },
+    "name": "Roggenburg",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Roggenburg",
+    "key": "2790"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufen",
+      "key": "1302"
+    },
+    "name": "Röschenz",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Röschenz",
+    "key": "2791"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufen",
+      "key": "1302"
+    },
+    "name": "Wahlen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Wahlen",
+    "key": "2792"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufen",
+      "key": "1302"
+    },
+    "name": "Zwingen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Zwingen",
+    "key": "2793"
+  }
+]

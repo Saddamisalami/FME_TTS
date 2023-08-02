@@ -1,0 +1,512 @@
+[
+  {
+    "code": "70501",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6236",
+    "name": "Alpbach",
+    "multiplePostalCodes": false,
+    "key": "70501",
+    "status": "None"
+  },
+  {
+    "code": "70502",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6321",
+    "name": "Angath",
+    "multiplePostalCodes": false,
+    "key": "70502",
+    "status": "None"
+  },
+  {
+    "code": "70503",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6323",
+    "name": "Bad Häring",
+    "multiplePostalCodes": false,
+    "key": "70503",
+    "status": "None"
+  },
+  {
+    "code": "70504",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6234",
+    "name": "Brandenberg",
+    "multiplePostalCodes": false,
+    "key": "70504",
+    "status": "None"
+  },
+  {
+    "code": "70505",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6252",
+    "name": "Breitenbach am Inn",
+    "multiplePostalCodes": false,
+    "key": "70505",
+    "status": "None"
+  },
+  {
+    "code": "70506",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6230",
+    "name": "Brixlegg",
+    "multiplePostalCodes": false,
+    "key": "70506",
+    "status": "MarketTown"
+  },
+  {
+    "code": "70508",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6341",
+    "name": "Ebbs",
+    "multiplePostalCodes": false,
+    "key": "70508",
+    "status": "None"
+  },
+  {
+    "code": "70509",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6352",
+    "name": "Ellmau",
+    "multiplePostalCodes": false,
+    "key": "70509",
+    "status": "None"
+  },
+  {
+    "code": "70510",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6343",
+    "name": "Erl",
+    "multiplePostalCodes": false,
+    "key": "70510",
+    "status": "None"
+  },
+  {
+    "code": "70511",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6322",
+    "name": "Kirchbichl",
+    "multiplePostalCodes": false,
+    "key": "70511",
+    "status": "None"
+  },
+  {
+    "code": "70512",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6233",
+    "name": "Kramsach",
+    "multiplePostalCodes": false,
+    "key": "70512",
+    "status": "None"
+  },
+  {
+    "code": "70513",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6330",
+    "name": "Kufstein",
+    "multiplePostalCodes": false,
+    "key": "70513",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "70514",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6250",
+    "name": "Kundl",
+    "multiplePostalCodes": false,
+    "key": "70514",
+    "status": "MarketTown"
+  },
+  {
+    "code": "70515",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6336",
+    "name": "Langkampfen",
+    "multiplePostalCodes": false,
+    "key": "70515",
+    "status": "None"
+  },
+  {
+    "code": "70516",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6324",
+    "name": "Mariastein",
+    "multiplePostalCodes": false,
+    "key": "70516",
+    "status": "None"
+  },
+  {
+    "code": "70517",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6232",
+    "name": "Münster",
+    "multiplePostalCodes": false,
+    "key": "70517",
+    "status": "None"
+  },
+  {
+    "code": "70518",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6342",
+    "name": "Niederndorf",
+    "multiplePostalCodes": false,
+    "key": "70518",
+    "status": "None"
+  },
+  {
+    "code": "70519",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6346",
+    "name": "Niederndorferberg",
+    "multiplePostalCodes": false,
+    "key": "70519",
+    "status": "None"
+  },
+  {
+    "code": "70520",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6241",
+    "name": "Radfeld",
+    "multiplePostalCodes": false,
+    "key": "70520",
+    "status": "None"
+  },
+  {
+    "code": "70521",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6240",
+    "name": "Rattenberg",
+    "multiplePostalCodes": false,
+    "key": "70521",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "70522",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6235",
+    "name": "Reith im Alpbachtal",
+    "multiplePostalCodes": true,
+    "key": "70522",
+    "status": "None"
+  },
+  {
+    "code": "70523",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6347",
+    "name": "Rettenschöss",
+    "multiplePostalCodes": false,
+    "key": "70523",
+    "status": "None"
+  },
+  {
+    "code": "70524",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6351",
+    "name": "Scheffau am Wilden Kaiser",
+    "multiplePostalCodes": false,
+    "key": "70524",
+    "status": "None"
+  },
+  {
+    "code": "70525",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6334",
+    "name": "Schwoich",
+    "multiplePostalCodes": false,
+    "key": "70525",
+    "status": "None"
+  },
+  {
+    "code": "70526",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6306",
+    "name": "Söll",
+    "multiplePostalCodes": true,
+    "key": "70526",
+    "status": "None"
+  },
+  {
+    "code": "70527",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6335",
+    "name": "Thiersee",
+    "multiplePostalCodes": false,
+    "key": "70527",
+    "status": "None"
+  },
+  {
+    "code": "70528",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6320",
+    "name": "Angerberg",
+    "multiplePostalCodes": false,
+    "key": "70528",
+    "status": "None"
+  },
+  {
+    "code": "70529",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6344",
+    "name": "Walchsee",
+    "multiplePostalCodes": false,
+    "key": "70529",
+    "status": "None"
+  },
+  {
+    "code": "70530",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6311",
+    "name": "Wildschönau",
+    "multiplePostalCodes": true,
+    "key": "70530",
+    "status": "None"
+  },
+  {
+    "code": "70531",
+    "district": {
+      "code": "705",
+      "name": "Kufstein",
+      "key": "705"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6300",
+    "name": "Wörgl",
+    "multiplePostalCodes": false,
+    "key": "70531",
+    "status": "UrbanMunicipality"
+  }
+]

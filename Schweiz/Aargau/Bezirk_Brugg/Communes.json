@@ -1,0 +1,282 @@
+[
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Auenstein",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Auenstein",
+    "key": "4091"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Birr",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Birr",
+    "key": "4092"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Birrhard",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Birrhard",
+    "key": "4093"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Brugg",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Brugg",
+    "key": "4095"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Habsburg",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Habsburg",
+    "key": "4099"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Hausen (AG)",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Hausen (AG)",
+    "key": "4100"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Lupfig",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Lupfig",
+    "key": "4104"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Mandach",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Mandach",
+    "key": "4105"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Mönthal",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Mönthal",
+    "key": "4106"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Mülligen",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Mülligen",
+    "key": "4107"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Remigen",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Remigen",
+    "key": "4110"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Riniken",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Riniken",
+    "key": "4111"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Rüfenach",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Rüfenach",
+    "key": "4112"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Thalheim (AG)",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Thalheim (AG)",
+    "key": "4117"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Veltheim (AG)",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Veltheim (AG)",
+    "key": "4120"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Villigen",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Villigen",
+    "key": "4121"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Villnachern",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Villnachern",
+    "key": "4122"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Windisch",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Windisch",
+    "key": "4123"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Bözberg",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Bözberg",
+    "key": "4124"
+  },
+  {
+    "district": {
+      "name": "Bezirk Brugg",
+      "key": "1904"
+    },
+    "name": "Schinznach",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Schinznach",
+    "key": "4125"
+  }
+]

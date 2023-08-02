@@ -1,0 +1,393 @@
+[
+  {
+    "code": "10301",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7091",
+    "name": "Breitenbrunn am Neusiedler See",
+    "multiplePostalCodes": false,
+    "key": "10301",
+    "status": "MarketTown"
+  },
+  {
+    "code": "10302",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7082",
+    "name": "Donnerskirchen",
+    "multiplePostalCodes": false,
+    "key": "10302",
+    "status": "MarketTown"
+  },
+  {
+    "code": "10303",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7051",
+    "name": "Großhöflein",
+    "multiplePostalCodes": false,
+    "key": "10303",
+    "status": "MarketTown"
+  },
+  {
+    "code": "10304",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7053",
+    "name": "Hornstein",
+    "multiplePostalCodes": true,
+    "key": "10304",
+    "status": "MarketTown"
+  },
+  {
+    "code": "10305",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7013",
+    "name": "Klingenbach",
+    "multiplePostalCodes": false,
+    "key": "10305",
+    "status": "None"
+  },
+  {
+    "code": "10306",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "2443",
+    "name": "Leithaprodersdorf",
+    "multiplePostalCodes": false,
+    "key": "10306",
+    "status": "None"
+  },
+  {
+    "code": "10307",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7072",
+    "name": "Mörbisch am See",
+    "multiplePostalCodes": false,
+    "key": "10307",
+    "status": "None"
+  },
+  {
+    "code": "10308",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7052",
+    "name": "Müllendorf",
+    "multiplePostalCodes": false,
+    "key": "10308",
+    "status": "None"
+  },
+  {
+    "code": "10309",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "2491",
+    "name": "Neufeld an der Leitha",
+    "multiplePostalCodes": false,
+    "key": "10309",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "10310",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7063",
+    "name": "Oggau am Neusiedler See",
+    "multiplePostalCodes": false,
+    "key": "10310",
+    "status": "MarketTown"
+  },
+  {
+    "code": "10311",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7064",
+    "name": "Oslip",
+    "multiplePostalCodes": false,
+    "key": "10311",
+    "status": "None"
+  },
+  {
+    "code": "10312",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7083",
+    "name": "Purbach am Neusiedler See",
+    "multiplePostalCodes": false,
+    "key": "10312",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "10313",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7062",
+    "name": "Sankt Margarethen im Burgenland",
+    "multiplePostalCodes": false,
+    "key": "10313",
+    "status": "MarketTown"
+  },
+  {
+    "code": "10314",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7081",
+    "name": "Schützen am Gebirge",
+    "multiplePostalCodes": false,
+    "key": "10314",
+    "status": "None"
+  },
+  {
+    "code": "10315",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7011",
+    "name": "Siegendorf",
+    "multiplePostalCodes": false,
+    "key": "10315",
+    "status": "MarketTown"
+  },
+  {
+    "code": "10316",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7035",
+    "name": "Steinbrunn",
+    "multiplePostalCodes": true,
+    "key": "10316",
+    "status": "MarketTown"
+  },
+  {
+    "code": "10317",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7061",
+    "name": "Trausdorf an der Wulka",
+    "multiplePostalCodes": false,
+    "key": "10317",
+    "status": "None"
+  },
+  {
+    "code": "10318",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "2485",
+    "name": "Wimpassing an der Leitha",
+    "multiplePostalCodes": false,
+    "key": "10318",
+    "status": "None"
+  },
+  {
+    "code": "10319",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7041",
+    "name": "Wulkaprodersdorf",
+    "multiplePostalCodes": false,
+    "key": "10319",
+    "status": "MarketTown"
+  },
+  {
+    "code": "10320",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "2443",
+    "name": "Loretto",
+    "multiplePostalCodes": false,
+    "key": "10320",
+    "status": "MarketTown"
+  },
+  {
+    "code": "10321",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "2443",
+    "name": "Stotzing",
+    "multiplePostalCodes": false,
+    "key": "10321",
+    "status": "None"
+  },
+  {
+    "code": "10322",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7034",
+    "name": "Zillingtal",
+    "multiplePostalCodes": true,
+    "key": "10322",
+    "status": "None"
+  },
+  {
+    "code": "10323",
+    "district": {
+      "code": "103",
+      "name": "Eisenstadt-Umgebung",
+      "key": "103"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7012",
+    "name": "Zagersdorf",
+    "multiplePostalCodes": false,
+    "key": "10323",
+    "status": "None"
+  }
+]

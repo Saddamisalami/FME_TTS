@@ -1,0 +1,156 @@
+[
+  {
+    "district": {
+      "name": "Kanton Zug",
+      "key": "900"
+    },
+    "name": "Baar",
+    "canton": {
+      "code": "ZG",
+      "name": "Zug",
+      "key": "9"
+    },
+    "shortName": "Baar",
+    "key": "1701"
+  },
+  {
+    "district": {
+      "name": "Kanton Zug",
+      "key": "900"
+    },
+    "name": "Cham",
+    "canton": {
+      "code": "ZG",
+      "name": "Zug",
+      "key": "9"
+    },
+    "shortName": "Cham",
+    "key": "1702"
+  },
+  {
+    "district": {
+      "name": "Kanton Zug",
+      "key": "900"
+    },
+    "name": "Hünenberg",
+    "canton": {
+      "code": "ZG",
+      "name": "Zug",
+      "key": "9"
+    },
+    "shortName": "Hünenberg",
+    "key": "1703"
+  },
+  {
+    "district": {
+      "name": "Kanton Zug",
+      "key": "900"
+    },
+    "name": "Menzingen",
+    "canton": {
+      "code": "ZG",
+      "name": "Zug",
+      "key": "9"
+    },
+    "shortName": "Menzingen",
+    "key": "1704"
+  },
+  {
+    "district": {
+      "name": "Kanton Zug",
+      "key": "900"
+    },
+    "name": "Neuheim",
+    "canton": {
+      "code": "ZG",
+      "name": "Zug",
+      "key": "9"
+    },
+    "shortName": "Neuheim",
+    "key": "1705"
+  },
+  {
+    "district": {
+      "name": "Kanton Zug",
+      "key": "900"
+    },
+    "name": "Oberägeri",
+    "canton": {
+      "code": "ZG",
+      "name": "Zug",
+      "key": "9"
+    },
+    "shortName": "Oberägeri",
+    "key": "1706"
+  },
+  {
+    "district": {
+      "name": "Kanton Zug",
+      "key": "900"
+    },
+    "name": "Risch",
+    "canton": {
+      "code": "ZG",
+      "name": "Zug",
+      "key": "9"
+    },
+    "shortName": "Risch",
+    "key": "1707"
+  },
+  {
+    "district": {
+      "name": "Kanton Zug",
+      "key": "900"
+    },
+    "name": "Steinhausen",
+    "canton": {
+      "code": "ZG",
+      "name": "Zug",
+      "key": "9"
+    },
+    "shortName": "Steinhausen",
+    "key": "1708"
+  },
+  {
+    "district": {
+      "name": "Kanton Zug",
+      "key": "900"
+    },
+    "name": "Unterägeri",
+    "canton": {
+      "code": "ZG",
+      "name": "Zug",
+      "key": "9"
+    },
+    "shortName": "Unterägeri",
+    "key": "1709"
+  },
+  {
+    "district": {
+      "name": "Kanton Zug",
+      "key": "900"
+    },
+    "name": "Walchwil",
+    "canton": {
+      "code": "ZG",
+      "name": "Zug",
+      "key": "9"
+    },
+    "shortName": "Walchwil",
+    "key": "1710"
+  },
+  {
+    "district": {
+      "name": "Kanton Zug",
+      "key": "900"
+    },
+    "name": "Zug",
+    "canton": {
+      "code": "ZG",
+      "name": "Zug",
+      "key": "9"
+    },
+    "shortName": "Zug",
+    "key": "1711"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "district": {
+      "name": "Region Prättigau / Davos",
+      "key": "1849"
+    },
+    "name": "Davos",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Davos",
+    "key": "3851"
+  },
+  {
+    "district": {
+      "name": "Region Prättigau / Davos",
+      "key": "1849"
+    },
+    "name": "Fideris",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Fideris",
+    "key": "3861"
+  },
+  {
+    "district": {
+      "name": "Region Prättigau / Davos",
+      "key": "1849"
+    },
+    "name": "Furna",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Furna",
+    "key": "3862"
+  },
+  {
+    "district": {
+      "name": "Region Prättigau / Davos",
+      "key": "1849"
+    },
+    "name": "Jenaz",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Jenaz",
+    "key": "3863"
+  },
+  {
+    "district": {
+      "name": "Region Prättigau / Davos",
+      "key": "1849"
+    },
+    "name": "Klosters",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Klosters",
+    "key": "3871"
+  },
+  {
+    "district": {
+      "name": "Region Prättigau / Davos",
+      "key": "1849"
+    },
+    "name": "Conters im Prättigau",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Conters im Prättigau",
+    "key": "3881"
+  },
+  {
+    "district": {
+      "name": "Region Prättigau / Davos",
+      "key": "1849"
+    },
+    "name": "Küblis",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Küblis",
+    "key": "3882"
+  },
+  {
+    "district": {
+      "name": "Region Prättigau / Davos",
+      "key": "1849"
+    },
+    "name": "Luzein",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Luzein",
+    "key": "3891"
+  },
+  {
+    "district": {
+      "name": "Region Prättigau / Davos",
+      "key": "1849"
+    },
+    "name": "Grüsch",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Grüsch",
+    "key": "3961"
+  },
+  {
+    "district": {
+      "name": "Region Prättigau / Davos",
+      "key": "1849"
+    },
+    "name": "Schiers",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Schiers",
+    "key": "3962"
+  },
+  {
+    "district": {
+      "name": "Region Prättigau / Davos",
+      "key": "1849"
+    },
+    "name": "Seewis im Prättigau",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Seewis im Prättigau",
+    "key": "3972"
+  }
+]

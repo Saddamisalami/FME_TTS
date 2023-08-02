@@ -1,0 +1,142 @@
+[
+  {
+    "district": {
+      "name": "Bezirk Gösgen",
+      "key": "1105"
+    },
+    "name": "Hauenstein-Ifenthal",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Hauenstein-Ifenthal",
+    "key": "2491"
+  },
+  {
+    "district": {
+      "name": "Bezirk Gösgen",
+      "key": "1105"
+    },
+    "name": "Kienberg",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Kienberg",
+    "key": "2492"
+  },
+  {
+    "district": {
+      "name": "Bezirk Gösgen",
+      "key": "1105"
+    },
+    "name": "Lostorf",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Lostorf",
+    "key": "2493"
+  },
+  {
+    "district": {
+      "name": "Bezirk Gösgen",
+      "key": "1105"
+    },
+    "name": "Niedergösgen",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Niedergösgen",
+    "key": "2495"
+  },
+  {
+    "district": {
+      "name": "Bezirk Gösgen",
+      "key": "1105"
+    },
+    "name": "Obergösgen",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Obergösgen",
+    "key": "2497"
+  },
+  {
+    "district": {
+      "name": "Bezirk Gösgen",
+      "key": "1105"
+    },
+    "name": "Stüsslingen",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Stüsslingen",
+    "key": "2499"
+  },
+  {
+    "district": {
+      "name": "Bezirk Gösgen",
+      "key": "1105"
+    },
+    "name": "Trimbach",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Trimbach",
+    "key": "2500"
+  },
+  {
+    "district": {
+      "name": "Bezirk Gösgen",
+      "key": "1105"
+    },
+    "name": "Winznau",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Winznau",
+    "key": "2501"
+  },
+  {
+    "district": {
+      "name": "Bezirk Gösgen",
+      "key": "1105"
+    },
+    "name": "Wisen (SO)",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Wisen (SO)",
+    "key": "2502"
+  },
+  {
+    "district": {
+      "name": "Bezirk Gösgen",
+      "key": "1105"
+    },
+    "name": "Erlinsbach (SO)",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Erlinsbach (SO)",
+    "key": "2503"
+  }
+]

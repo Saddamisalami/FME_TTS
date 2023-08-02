@@ -1,0 +1,170 @@
+[
+  {
+    "district": {
+      "name": "Region Maloja",
+      "key": "1846"
+    },
+    "name": "Bever",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Bever",
+    "key": "3781"
+  },
+  {
+    "district": {
+      "name": "Region Maloja",
+      "key": "1846"
+    },
+    "name": "Celerina/Schlarigna",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Celerina/Schlarigna",
+    "key": "3782"
+  },
+  {
+    "district": {
+      "name": "Region Maloja",
+      "key": "1846"
+    },
+    "name": "Madulain",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Madulain",
+    "key": "3783"
+  },
+  {
+    "district": {
+      "name": "Region Maloja",
+      "key": "1846"
+    },
+    "name": "Pontresina",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Pontresina",
+    "key": "3784"
+  },
+  {
+    "district": {
+      "name": "Region Maloja",
+      "key": "1846"
+    },
+    "name": "La Punt Chamues-ch",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "La Punt Chamues-ch",
+    "key": "3785"
+  },
+  {
+    "district": {
+      "name": "Region Maloja",
+      "key": "1846"
+    },
+    "name": "Samedan",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Samedan",
+    "key": "3786"
+  },
+  {
+    "district": {
+      "name": "Region Maloja",
+      "key": "1846"
+    },
+    "name": "St. Moritz",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "St. Moritz",
+    "key": "3787"
+  },
+  {
+    "district": {
+      "name": "Region Maloja",
+      "key": "1846"
+    },
+    "name": "S-chanf",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "S-chanf",
+    "key": "3788"
+  },
+  {
+    "district": {
+      "name": "Region Maloja",
+      "key": "1846"
+    },
+    "name": "Sils im Engadin/Segl",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Sils im Engadin/Segl",
+    "key": "3789"
+  },
+  {
+    "district": {
+      "name": "Region Maloja",
+      "key": "1846"
+    },
+    "name": "Silvaplana",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Silvaplana",
+    "key": "3790"
+  },
+  {
+    "district": {
+      "name": "Region Maloja",
+      "key": "1846"
+    },
+    "name": "Zuoz",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Zuoz",
+    "key": "3791"
+  },
+  {
+    "district": {
+      "name": "Region Maloja",
+      "key": "1846"
+    },
+    "name": "Bregaglia",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Bregaglia",
+    "key": "3792"
+  }
+]

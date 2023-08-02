@@ -1,0 +1,563 @@
+[
+  {
+    "code": "20601",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9546",
+    "name": "Bad Kleinkirchheim",
+    "multiplePostalCodes": false,
+    "key": "20601",
+    "status": "None"
+  },
+  {
+    "code": "20602",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9805",
+    "name": "Baldramsdorf",
+    "multiplePostalCodes": true,
+    "key": "20602",
+    "status": "None"
+  },
+  {
+    "code": "20603",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9771",
+    "name": "Berg im Drautal",
+    "multiplePostalCodes": true,
+    "key": "20603",
+    "status": "None"
+  },
+  {
+    "code": "20604",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9772",
+    "name": "Dellach im Drautal",
+    "multiplePostalCodes": false,
+    "key": "20604",
+    "status": "None"
+  },
+  {
+    "code": "20605",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9843",
+    "name": "Großkirchheim",
+    "multiplePostalCodes": false,
+    "key": "20605",
+    "status": "None"
+  },
+  {
+    "code": "20607",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9831",
+    "name": "Flattach",
+    "multiplePostalCodes": false,
+    "key": "20607",
+    "status": "None"
+  },
+  {
+    "code": "20608",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9853",
+    "name": "Gmünd in Kärnten",
+    "multiplePostalCodes": false,
+    "key": "20608",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "20609",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9761",
+    "name": "Greifenburg",
+    "multiplePostalCodes": false,
+    "key": "20609",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20610",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9844",
+    "name": "Heiligenblut am Großglockner",
+    "multiplePostalCodes": false,
+    "key": "20610",
+    "status": "None"
+  },
+  {
+    "code": "20611",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9773",
+    "name": "Irschen",
+    "multiplePostalCodes": true,
+    "key": "20611",
+    "status": "None"
+  },
+  {
+    "code": "20613",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9753",
+    "name": "Kleblach-Lind",
+    "multiplePostalCodes": false,
+    "key": "20613",
+    "status": "None"
+  },
+  {
+    "code": "20616",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9811",
+    "name": "Lendorf",
+    "multiplePostalCodes": true,
+    "key": "20616",
+    "status": "None"
+  },
+  {
+    "code": "20618",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9822",
+    "name": "Mallnitz",
+    "multiplePostalCodes": false,
+    "key": "20618",
+    "status": "None"
+  },
+  {
+    "code": "20619",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9854",
+    "name": "Malta",
+    "multiplePostalCodes": true,
+    "key": "20619",
+    "status": "None"
+  },
+  {
+    "code": "20620",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9872",
+    "name": "Millstatt am See",
+    "multiplePostalCodes": false,
+    "key": "20620",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20622",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9842",
+    "name": "Mörtschach",
+    "multiplePostalCodes": true,
+    "key": "20622",
+    "status": "None"
+  },
+  {
+    "code": "20624",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9814",
+    "name": "Mühldorf",
+    "multiplePostalCodes": false,
+    "key": "20624",
+    "status": "None"
+  },
+  {
+    "code": "20625",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9781",
+    "name": "Oberdrauburg",
+    "multiplePostalCodes": false,
+    "key": "20625",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20627",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9821",
+    "name": "Obervellach",
+    "multiplePostalCodes": false,
+    "key": "20627",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20630",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9545",
+    "name": "Radenthein",
+    "multiplePostalCodes": true,
+    "key": "20630",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "20631",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9833",
+    "name": "Rangersdorf",
+    "multiplePostalCodes": true,
+    "key": "20631",
+    "status": "None"
+  },
+  {
+    "code": "20632",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9863",
+    "name": "Rennweg am Katschberg",
+    "multiplePostalCodes": true,
+    "key": "20632",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20633",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9751",
+    "name": "Sachsenburg",
+    "multiplePostalCodes": true,
+    "key": "20633",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20634",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9871",
+    "name": "Seeboden am Millstätter See",
+    "multiplePostalCodes": true,
+    "key": "20634",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20635",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9800",
+    "name": "Spittal an der Drau",
+    "multiplePostalCodes": true,
+    "key": "20635",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "20636",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9832",
+    "name": "Stall",
+    "multiplePostalCodes": false,
+    "key": "20636",
+    "status": "None"
+  },
+  {
+    "code": "20637",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9754",
+    "name": "Steinfeld",
+    "multiplePostalCodes": true,
+    "key": "20637",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20638",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9852",
+    "name": "Trebesing",
+    "multiplePostalCodes": true,
+    "key": "20638",
+    "status": "None"
+  },
+  {
+    "code": "20639",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9762",
+    "name": "Weißensee",
+    "multiplePostalCodes": false,
+    "key": "20639",
+    "status": "None"
+  },
+  {
+    "code": "20640",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9841",
+    "name": "Winklern",
+    "multiplePostalCodes": true,
+    "key": "20640",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20642",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9861",
+    "name": "Krems in Kärnten",
+    "multiplePostalCodes": true,
+    "key": "20642",
+    "status": "None"
+  },
+  {
+    "code": "20643",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9813",
+    "name": "Lurnfeld",
+    "multiplePostalCodes": true,
+    "key": "20643",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20644",
+    "district": {
+      "code": "206",
+      "name": "Spittal an der Drau",
+      "key": "206"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9815",
+    "name": "Reißeck",
+    "multiplePostalCodes": true,
+    "key": "20644",
+    "status": "None"
+  }
+]

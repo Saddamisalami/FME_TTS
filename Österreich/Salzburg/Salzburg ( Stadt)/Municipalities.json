@@ -1,0 +1,17 @@
+[{
+  "code": "50101",
+  "district": {
+    "code": "501",
+    "name": "Salzburg ( Stadt)",
+    "key": "501"
+  },
+  "federalProvince": {
+    "name": "Salzburg",
+    "key": "5"
+  },
+  "postalCode": "5020",
+  "name": "Salzburg",
+  "multiplePostalCodes": true,
+  "key": "50101",
+  "status": "TownWithCharter"
+}]

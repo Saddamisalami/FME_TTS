@@ -1,0 +1,408 @@
+[
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Anwil",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Anwil",
+    "key": "2841"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Böckten",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Böckten",
+    "key": "2842"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Buckten",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Buckten",
+    "key": "2843"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Buus",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Buus",
+    "key": "2844"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Diepflingen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Diepflingen",
+    "key": "2845"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Gelterkinden",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Gelterkinden",
+    "key": "2846"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Häfelfingen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Häfelfingen",
+    "key": "2847"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Hemmiken",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Hemmiken",
+    "key": "2848"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Itingen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Itingen",
+    "key": "2849"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Känerkinden",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Känerkinden",
+    "key": "2850"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Kilchberg (BL)",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Kilchberg (BL)",
+    "key": "2851"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Läufelfingen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Läufelfingen",
+    "key": "2852"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Maisprach",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Maisprach",
+    "key": "2853"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Nusshof",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Nusshof",
+    "key": "2854"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Oltingen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Oltingen",
+    "key": "2855"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Ormalingen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Ormalingen",
+    "key": "2856"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Rickenbach (BL)",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Rickenbach (BL)",
+    "key": "2857"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Rothenfluh",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Rothenfluh",
+    "key": "2858"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Rümlingen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Rümlingen",
+    "key": "2859"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Rünenberg",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Rünenberg",
+    "key": "2860"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Sissach",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Sissach",
+    "key": "2861"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Tecknau",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Tecknau",
+    "key": "2862"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Tenniken",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Tenniken",
+    "key": "2863"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Thürnen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Thürnen",
+    "key": "2864"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Wenslingen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Wenslingen",
+    "key": "2865"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Wintersingen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Wintersingen",
+    "key": "2866"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Wittinsburg",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Wittinsburg",
+    "key": "2867"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Zeglingen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Zeglingen",
+    "key": "2868"
+  },
+  {
+    "district": {
+      "name": "Bezirk Sissach",
+      "key": "1304"
+    },
+    "name": "Zunzgen",
+    "canton": {
+      "code": "BL",
+      "name": "Basel-Landschaft",
+      "key": "13"
+    },
+    "shortName": "Zunzgen",
+    "key": "2869"
+  }
+]

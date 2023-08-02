@@ -1,0 +1,254 @@
+[
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Châtillon (FR)",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Châtillon (FR)",
+    "key": "2008"
+  },
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Cugy (FR)",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Cugy (FR)",
+    "key": "2011"
+  },
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Fétigny",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Fétigny",
+    "key": "2016"
+  },
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Gletterens",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Gletterens",
+    "key": "2022"
+  },
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Lully (FR)",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Lully (FR)",
+    "key": "2025"
+  },
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Ménières",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Ménières",
+    "key": "2027"
+  },
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Montagny (FR)",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Montagny (FR)",
+    "key": "2029"
+  },
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Nuvilly",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Nuvilly",
+    "key": "2035"
+  },
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Prévondavaux",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Prévondavaux",
+    "key": "2038"
+  },
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Saint-Aubin (FR)",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Saint-Aubin (FR)",
+    "key": "2041"
+  },
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Sévaz",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Sévaz",
+    "key": "2043"
+  },
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Surpierre",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Surpierre",
+    "key": "2044"
+  },
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Vallon",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Vallon",
+    "key": "2045"
+  },
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Les Montets",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Les Montets",
+    "key": "2050"
+  },
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Delley-Portalban",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Delley-Portalban",
+    "key": "2051"
+  },
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Belmont-Broye",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Belmont-Broye",
+    "key": "2053"
+  },
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Estavayer",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Estavayer",
+    "key": "2054"
+  },
+  {
+    "district": {
+      "name": "District de la Broye",
+      "key": "1001"
+    },
+    "name": "Cheyres-Châbles",
+    "canton": {
+      "code": "FR",
+      "name": "Fribourg / Freiburg",
+      "key": "10"
+    },
+    "shortName": "Cheyres-Châbles",
+    "key": "2055"
+  }
+]

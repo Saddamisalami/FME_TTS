@@ -1,0 +1,268 @@
+[
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Altikon",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Altikon",
+    "key": "211"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Brütten",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Brütten",
+    "key": "213"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Dägerlen",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Dägerlen",
+    "key": "214"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Dättlikon",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Dättlikon",
+    "key": "215"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Dinhard",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Dinhard",
+    "key": "216"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Ellikon an der Thur",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Ellikon an der Thur",
+    "key": "218"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Elsau",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Elsau",
+    "key": "219"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Hagenbuch",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Hagenbuch",
+    "key": "220"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Hettlingen",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Hettlingen",
+    "key": "221"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Neftenbach",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Neftenbach",
+    "key": "223"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Pfungen",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Pfungen",
+    "key": "224"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Rickenbach (ZH)",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Rickenbach (ZH)",
+    "key": "225"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Schlatt (ZH)",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Schlatt (ZH)",
+    "key": "226"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Seuzach",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Seuzach",
+    "key": "227"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Turbenthal",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Turbenthal",
+    "key": "228"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Winterthur",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Winterthur",
+    "key": "230"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Zell (ZH)",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Zell (ZH)",
+    "key": "231"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Elgg",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Elgg",
+    "key": "294"
+  },
+  {
+    "district": {
+      "name": "Bezirk Winterthur",
+      "key": "110"
+    },
+    "name": "Wiesendangen",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Wiesendangen",
+    "key": "298"
+  }
+]

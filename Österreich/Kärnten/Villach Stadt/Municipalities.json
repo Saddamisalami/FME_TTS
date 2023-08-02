@@ -1,0 +1,17 @@
+[{
+  "code": "20201",
+  "district": {
+    "code": "202",
+    "name": "Villach Stadt",
+    "key": "202"
+  },
+  "federalProvince": {
+    "name": "Kärnten",
+    "key": "2"
+  },
+  "postalCode": "9500",
+  "name": "Villach",
+  "multiplePostalCodes": true,
+  "key": "20201",
+  "status": "TownWithCharter"
+}]

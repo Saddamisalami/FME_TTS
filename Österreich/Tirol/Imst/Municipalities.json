@@ -1,0 +1,410 @@
+[
+  {
+    "code": "70201",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6471",
+    "name": "Arzl im Pitztal",
+    "multiplePostalCodes": true,
+    "key": "70201",
+    "status": "None"
+  },
+  {
+    "code": "70202",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6425",
+    "name": "Haiming",
+    "multiplePostalCodes": true,
+    "key": "70202",
+    "status": "None"
+  },
+  {
+    "code": "70203",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6460",
+    "name": "Imst",
+    "multiplePostalCodes": false,
+    "key": "70203",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "70204",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6492",
+    "name": "Imsterberg",
+    "multiplePostalCodes": false,
+    "key": "70204",
+    "status": "None"
+  },
+  {
+    "code": "70205",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6474",
+    "name": "Jerzens",
+    "multiplePostalCodes": true,
+    "key": "70205",
+    "status": "None"
+  },
+  {
+    "code": "70206",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6462",
+    "name": "Karres",
+    "multiplePostalCodes": false,
+    "key": "70206",
+    "status": "None"
+  },
+  {
+    "code": "70207",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6463",
+    "name": "Karrösten",
+    "multiplePostalCodes": true,
+    "key": "70207",
+    "status": "None"
+  },
+  {
+    "code": "70208",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6444",
+    "name": "Längenfeld",
+    "multiplePostalCodes": false,
+    "key": "70208",
+    "status": "None"
+  },
+  {
+    "code": "70209",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6414",
+    "name": "Mieming",
+    "multiplePostalCodes": false,
+    "key": "70209",
+    "status": "None"
+  },
+  {
+    "code": "70210",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6493",
+    "name": "Mils bei Imst",
+    "multiplePostalCodes": false,
+    "key": "70210",
+    "status": "None"
+  },
+  {
+    "code": "70211",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6423",
+    "name": "Mötz",
+    "multiplePostalCodes": false,
+    "key": "70211",
+    "status": "None"
+  },
+  {
+    "code": "70212",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6465",
+    "name": "Nassereith",
+    "multiplePostalCodes": false,
+    "key": "70212",
+    "status": "None"
+  },
+  {
+    "code": "70213",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6416",
+    "name": "Obsteig",
+    "multiplePostalCodes": false,
+    "key": "70213",
+    "status": "None"
+  },
+  {
+    "code": "70214",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6433",
+    "name": "Oetz",
+    "multiplePostalCodes": false,
+    "key": "70214",
+    "status": "None"
+  },
+  {
+    "code": "70215",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6421",
+    "name": "Rietz",
+    "multiplePostalCodes": false,
+    "key": "70215",
+    "status": "None"
+  },
+  {
+    "code": "70216",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6426",
+    "name": "Roppen",
+    "multiplePostalCodes": false,
+    "key": "70216",
+    "status": "None"
+  },
+  {
+    "code": "70217",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6481",
+    "name": "St. Leonhard im Pitztal",
+    "multiplePostalCodes": false,
+    "key": "70217",
+    "status": "None"
+  },
+  {
+    "code": "70218",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6432",
+    "name": "Sautens",
+    "multiplePostalCodes": false,
+    "key": "70218",
+    "status": "None"
+  },
+  {
+    "code": "70219",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6424",
+    "name": "Silz",
+    "multiplePostalCodes": true,
+    "key": "70219",
+    "status": "None"
+  },
+  {
+    "code": "70220",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6450",
+    "name": "Sölden",
+    "multiplePostalCodes": true,
+    "key": "70220",
+    "status": "None"
+  },
+  {
+    "code": "70221",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6422",
+    "name": "Stams",
+    "multiplePostalCodes": true,
+    "key": "70221",
+    "status": "None"
+  },
+  {
+    "code": "70222",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6464",
+    "name": "Tarrenz",
+    "multiplePostalCodes": false,
+    "key": "70222",
+    "status": "None"
+  },
+  {
+    "code": "70223",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6441",
+    "name": "Umhausen",
+    "multiplePostalCodes": false,
+    "key": "70223",
+    "status": "None"
+  },
+  {
+    "code": "70224",
+    "district": {
+      "code": "702",
+      "name": "Imst",
+      "key": "702"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6473",
+    "name": "Wenns",
+    "multiplePostalCodes": false,
+    "key": "70224",
+    "status": "None"
+  }
+]

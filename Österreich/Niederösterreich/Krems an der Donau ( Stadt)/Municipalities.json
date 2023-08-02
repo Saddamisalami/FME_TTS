@@ -1,0 +1,17 @@
+[{
+  "code": "30101",
+  "district": {
+    "code": "301",
+    "name": "Krems an der Donau ( Stadt)",
+    "key": "301"
+  },
+  "federalProvince": {
+    "name": "Niederösterreich",
+    "key": "3"
+  },
+  "postalCode": "3500",
+  "name": "Krems an der Donau",
+  "multiplePostalCodes": true,
+  "key": "30101",
+  "status": "TownWithCharter"
+}]

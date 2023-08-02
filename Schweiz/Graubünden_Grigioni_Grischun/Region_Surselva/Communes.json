@@ -1,0 +1,212 @@
+[
+  {
+    "district": {
+      "name": "Region Surselva",
+      "key": "1850"
+    },
+    "name": "Falera",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Falera",
+    "key": "3572"
+  },
+  {
+    "district": {
+      "name": "Region Surselva",
+      "key": "1850"
+    },
+    "name": "Laax",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Laax",
+    "key": "3575"
+  },
+  {
+    "district": {
+      "name": "Region Surselva",
+      "key": "1850"
+    },
+    "name": "Sagogn",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Sagogn",
+    "key": "3581"
+  },
+  {
+    "district": {
+      "name": "Region Surselva",
+      "key": "1850"
+    },
+    "name": "Schluein",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Schluein",
+    "key": "3582"
+  },
+  {
+    "district": {
+      "name": "Region Surselva",
+      "key": "1850"
+    },
+    "name": "Vals",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Vals",
+    "key": "3603"
+  },
+  {
+    "district": {
+      "name": "Region Surselva",
+      "key": "1850"
+    },
+    "name": "Lumnezia",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Lumnezia",
+    "key": "3618"
+  },
+  {
+    "district": {
+      "name": "Region Surselva",
+      "key": "1850"
+    },
+    "name": "Ilanz/Glion",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Ilanz/Glion",
+    "key": "3619"
+  },
+  {
+    "district": {
+      "name": "Region Surselva",
+      "key": "1850"
+    },
+    "name": "Safiental",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Safiental",
+    "key": "3672"
+  },
+  {
+    "district": {
+      "name": "Region Surselva",
+      "key": "1850"
+    },
+    "name": "Breil/Brigels",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Breil/Brigels",
+    "key": "3981"
+  },
+  {
+    "district": {
+      "name": "Region Surselva",
+      "key": "1850"
+    },
+    "name": "Disentis/Mustér",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Disentis/Mustér",
+    "key": "3982"
+  },
+  {
+    "district": {
+      "name": "Region Surselva",
+      "key": "1850"
+    },
+    "name": "Medel (Lucmagn)",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Medel (Lucmagn)",
+    "key": "3983"
+  },
+  {
+    "district": {
+      "name": "Region Surselva",
+      "key": "1850"
+    },
+    "name": "Sumvitg",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Sumvitg",
+    "key": "3985"
+  },
+  {
+    "district": {
+      "name": "Region Surselva",
+      "key": "1850"
+    },
+    "name": "Tujetsch",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Tujetsch",
+    "key": "3986"
+  },
+  {
+    "district": {
+      "name": "Region Surselva",
+      "key": "1850"
+    },
+    "name": "Trun",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Trun",
+    "key": "3987"
+  },
+  {
+    "district": {
+      "name": "Region Surselva",
+      "key": "1850"
+    },
+    "name": "Obersaxen Mundaun",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Obersaxen Mundaun",
+    "key": "3988"
+  }
+]

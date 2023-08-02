@@ -1,0 +1,83 @@
+[
+  {
+    "code": "101",
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "name": "Eisenstadt ( Stadt)",
+    "key": "101"
+  },
+  {
+    "code": "102",
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "name": "Rust ( Stadt)",
+    "key": "102"
+  },
+  {
+    "code": "103",
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "name": "Eisenstadt-Umgebung",
+    "key": "103"
+  },
+  {
+    "code": "104",
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "name": "Güssing",
+    "key": "104"
+  },
+  {
+    "code": "105",
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "name": "Jennersdorf",
+    "key": "105"
+  },
+  {
+    "code": "106",
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "name": "Mattersburg",
+    "key": "106"
+  },
+  {
+    "code": "107",
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "name": "Neusiedl am See",
+    "key": "107"
+  },
+  {
+    "code": "108",
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "name": "Oberpullendorf",
+    "key": "108"
+  },
+  {
+    "code": "109",
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "name": "Oberwart",
+    "key": "109"
+  }
+]

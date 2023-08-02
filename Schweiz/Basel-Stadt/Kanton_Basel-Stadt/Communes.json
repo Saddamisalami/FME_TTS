@@ -1,0 +1,44 @@
+[
+  {
+    "district": {
+      "name": "Kanton Basel-Stadt",
+      "key": "1200"
+    },
+    "name": "Basel",
+    "canton": {
+      "code": "BS",
+      "name": "Basel-Stadt",
+      "key": "12"
+    },
+    "shortName": "Basel",
+    "key": "2701"
+  },
+  {
+    "district": {
+      "name": "Kanton Basel-Stadt",
+      "key": "1200"
+    },
+    "name": "Bettingen",
+    "canton": {
+      "code": "BS",
+      "name": "Basel-Stadt",
+      "key": "12"
+    },
+    "shortName": "Bettingen",
+    "key": "2702"
+  },
+  {
+    "district": {
+      "name": "Kanton Basel-Stadt",
+      "key": "1200"
+    },
+    "name": "Riehen",
+    "canton": {
+      "code": "BS",
+      "name": "Basel-Stadt",
+      "key": "12"
+    },
+    "shortName": "Riehen",
+    "key": "2703"
+  }
+]

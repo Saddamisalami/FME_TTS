@@ -1,0 +1,529 @@
+[
+  {
+    "code": "61701",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8200",
+    "name": "Albersdorf-Prebuch",
+    "multiplePostalCodes": true,
+    "key": "61701",
+    "status": "None"
+  },
+  {
+    "code": "61708",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8654",
+    "name": "Fischbach",
+    "multiplePostalCodes": true,
+    "key": "61708",
+    "status": "None"
+  },
+  {
+    "code": "61710",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8183",
+    "name": "Floing",
+    "multiplePostalCodes": true,
+    "key": "61710",
+    "status": "None"
+  },
+  {
+    "code": "61711",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8616",
+    "name": "Gasen",
+    "multiplePostalCodes": false,
+    "key": "61711",
+    "status": "None"
+  },
+  {
+    "code": "61716",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8311",
+    "name": "Markt Hartmannsdorf",
+    "multiplePostalCodes": true,
+    "key": "61716",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61719",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8200",
+    "name": "Hofstätten an der Raab",
+    "multiplePostalCodes": true,
+    "key": "61719",
+    "status": "None"
+  },
+  {
+    "code": "61727",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8200",
+    "name": "Ludersdorf-Wilfersdorf",
+    "multiplePostalCodes": true,
+    "key": "61727",
+    "status": "None"
+  },
+  {
+    "code": "61728",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8190",
+    "name": "Miesenbach bei Birkfeld",
+    "multiplePostalCodes": false,
+    "key": "61728",
+    "status": "None"
+  },
+  {
+    "code": "61729",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8181",
+    "name": "Mitterdorf an der Raab",
+    "multiplePostalCodes": true,
+    "key": "61729",
+    "status": "None"
+  },
+  {
+    "code": "61730",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8160",
+    "name": "Mortantsch",
+    "multiplePostalCodes": false,
+    "key": "61730",
+    "status": "None"
+  },
+  {
+    "code": "61731",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8160",
+    "name": "Naas",
+    "multiplePostalCodes": false,
+    "key": "61731",
+    "status": "None"
+  },
+  {
+    "code": "61740",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8182",
+    "name": "Puch bei Weiz",
+    "multiplePostalCodes": true,
+    "key": "61740",
+    "status": "None"
+  },
+  {
+    "code": "61741",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8673",
+    "name": "Ratten",
+    "multiplePostalCodes": true,
+    "key": "61741",
+    "status": "None"
+  },
+  {
+    "code": "61743",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8674",
+    "name": "Rettenegg",
+    "multiplePostalCodes": false,
+    "key": "61743",
+    "status": "None"
+  },
+  {
+    "code": "61744",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8672",
+    "name": "St. Kathrein am Hauenstein",
+    "multiplePostalCodes": true,
+    "key": "61744",
+    "status": "None"
+  },
+  {
+    "code": "61745",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8171",
+    "name": "Sankt Kathrein am Offenegg",
+    "multiplePostalCodes": false,
+    "key": "61745",
+    "status": "None"
+  },
+  {
+    "code": "61746",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8321",
+    "name": "St. Margarethen an der Raab",
+    "multiplePostalCodes": true,
+    "key": "61746",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61748",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8261",
+    "name": "Sinabelkirchen",
+    "multiplePostalCodes": true,
+    "key": "61748",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61750",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8192",
+    "name": "Strallegg",
+    "multiplePostalCodes": true,
+    "key": "61750",
+    "status": "None"
+  },
+  {
+    "code": "61751",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8160",
+    "name": "Thannhausen",
+    "multiplePostalCodes": false,
+    "key": "61751",
+    "status": "None"
+  },
+  {
+    "code": "61756",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8184",
+    "name": "Anger",
+    "multiplePostalCodes": true,
+    "key": "61756",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61757",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8190",
+    "name": "Birkfeld",
+    "multiplePostalCodes": true,
+    "key": "61757",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61758",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8163",
+    "name": "Fladnitz an der Teichalm",
+    "multiplePostalCodes": true,
+    "key": "61758",
+    "status": "None"
+  },
+  {
+    "code": "61759",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8212",
+    "name": "Gersdorf an der Feistritz",
+    "multiplePostalCodes": true,
+    "key": "61759",
+    "status": "None"
+  },
+  {
+    "code": "61760",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8200",
+    "name": "Gleisdorf",
+    "multiplePostalCodes": true,
+    "key": "61760",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "61761",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8160",
+    "name": "Gutenberg-Stenzengreith",
+    "multiplePostalCodes": true,
+    "key": "61761",
+    "status": "None"
+  },
+  {
+    "code": "61762",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8211",
+    "name": "Ilztal",
+    "multiplePostalCodes": true,
+    "key": "61762",
+    "status": "None"
+  },
+  {
+    "code": "61763",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8162",
+    "name": "Passail",
+    "multiplePostalCodes": true,
+    "key": "61763",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61764",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8212",
+    "name": "Pischelsdorf am Kulm",
+    "multiplePostalCodes": true,
+    "key": "61764",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61765",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8181",
+    "name": "Sankt Ruprecht an der Raab",
+    "multiplePostalCodes": true,
+    "key": "61765",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61766",
+    "district": {
+      "code": "617",
+      "name": "Weiz",
+      "key": "617"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8160",
+    "name": "Weiz",
+    "multiplePostalCodes": true,
+    "key": "61766",
+    "status": "UrbanMunicipality"
+  }
+]

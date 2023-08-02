@@ -1,0 +1,268 @@
+[
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Boécourt",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Boécourt",
+    "key": "6702"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Bourrignon",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Bourrignon",
+    "key": "6703"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Châtillon (JU)",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Châtillon (JU)",
+    "key": "6704"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Courchapoix",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Courchapoix",
+    "key": "6706"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Courrendlin",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Courrendlin",
+    "key": "6708"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Courroux",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Courroux",
+    "key": "6709"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Courtételle",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Courtételle",
+    "key": "6710"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Delémont",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Delémont",
+    "key": "6711"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Develier",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Develier",
+    "key": "6712"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Ederswiler",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Ederswiler",
+    "key": "6713"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Mervelier",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Mervelier",
+    "key": "6715"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Mettembert",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Mettembert",
+    "key": "6716"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Movelier",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Movelier",
+    "key": "6718"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Pleigne",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Pleigne",
+    "key": "6719"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Rossemaison",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Rossemaison",
+    "key": "6721"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Saulcy",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Saulcy",
+    "key": "6722"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Soyhières",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Soyhières",
+    "key": "6724"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Haute-Sorne",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Haute-Sorne",
+    "key": "6729"
+  },
+  {
+    "district": {
+      "name": "District de Delémont",
+      "key": "2601"
+    },
+    "name": "Val Terbi",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "shortName": "Val Terbi",
+    "key": "6730"
+  }
+]

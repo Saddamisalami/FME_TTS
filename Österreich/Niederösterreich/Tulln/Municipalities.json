@@ -1,0 +1,376 @@
+[
+  {
+    "code": "32101",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3462",
+    "name": "Absdorf",
+    "multiplePostalCodes": false,
+    "key": "32101",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32104",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3452",
+    "name": "Atzenbrugg",
+    "multiplePostalCodes": false,
+    "key": "32104",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32106",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3481",
+    "name": "Fels am Wagram",
+    "multiplePostalCodes": true,
+    "key": "32106",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32107",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3484",
+    "name": "Grafenwörth",
+    "multiplePostalCodes": true,
+    "key": "32107",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32109",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3471",
+    "name": "Großriedenthal",
+    "multiplePostalCodes": true,
+    "key": "32109",
+    "status": "None"
+  },
+  {
+    "code": "32110",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3701",
+    "name": "Großweikersdorf",
+    "multiplePostalCodes": false,
+    "key": "32110",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32112",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3441",
+    "name": "Judenau-Baumgarten",
+    "multiplePostalCodes": false,
+    "key": "32112",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32114",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3470",
+    "name": "Kirchberg am Wagram",
+    "multiplePostalCodes": true,
+    "key": "32114",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32115",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3465",
+    "name": "Königsbrunn am Wagram",
+    "multiplePostalCodes": true,
+    "key": "32115",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32116",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3433",
+    "name": "Königstetten",
+    "multiplePostalCodes": false,
+    "key": "32116",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32119",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3442",
+    "name": "Langenrohr",
+    "multiplePostalCodes": true,
+    "key": "32119",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32120",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3451",
+    "name": "Michelhausen",
+    "multiplePostalCodes": true,
+    "key": "32120",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32131",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3443",
+    "name": "Sieghartskirchen",
+    "multiplePostalCodes": true,
+    "key": "32131",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32132",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3454",
+    "name": "Sitzenberg-Reidling",
+    "multiplePostalCodes": false,
+    "key": "32132",
+    "status": "None"
+  },
+  {
+    "code": "32134",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3434",
+    "name": "Tulbing",
+    "multiplePostalCodes": true,
+    "key": "32134",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32135",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3430",
+    "name": "Tulln an der Donau",
+    "multiplePostalCodes": true,
+    "key": "32135",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "32139",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3042",
+    "name": "Würmla",
+    "multiplePostalCodes": true,
+    "key": "32139",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32140",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3424",
+    "name": "Zeiselmauer-Wolfpassing",
+    "multiplePostalCodes": false,
+    "key": "32140",
+    "status": "None"
+  },
+  {
+    "code": "32141",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3435",
+    "name": "Zwentendorf an der Donau",
+    "multiplePostalCodes": true,
+    "key": "32141",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32142",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3423",
+    "name": "St. Andrä-Wördern",
+    "multiplePostalCodes": true,
+    "key": "32142",
+    "status": "MarketTown"
+  },
+  {
+    "code": "32143",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3426",
+    "name": "Muckendorf-Wipfing",
+    "multiplePostalCodes": false,
+    "key": "32143",
+    "status": "None"
+  },
+  {
+    "code": "32144",
+    "district": {
+      "code": "321",
+      "name": "Tulln",
+      "key": "321"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "3400",
+    "name": "Klosterneuburg",
+    "multiplePostalCodes": true,
+    "key": "32144",
+    "status": "UrbanMunicipality"
+  }
+]

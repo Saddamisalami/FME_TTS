@@ -1,0 +1,614 @@
+[
+  {
+    "code": "31601",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2144",
+    "name": "Altlichtenwarth",
+    "multiplePostalCodes": false,
+    "key": "31601",
+    "status": "None"
+  },
+  {
+    "code": "31603",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2151",
+    "name": "Asparn an der Zaya",
+    "multiplePostalCodes": false,
+    "key": "31603",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31604",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2275",
+    "name": "Bernhardsthal",
+    "multiplePostalCodes": true,
+    "key": "31604",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31605",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2213",
+    "name": "Bockfließ",
+    "multiplePostalCodes": true,
+    "key": "31605",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31606",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2165",
+    "name": "Drasenhofen",
+    "multiplePostalCodes": false,
+    "key": "31606",
+    "status": "None"
+  },
+  {
+    "code": "31608",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2162",
+    "name": "Falkenstein",
+    "multiplePostalCodes": false,
+    "key": "31608",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31609",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2133",
+    "name": "Fallbach",
+    "multiplePostalCodes": false,
+    "key": "31609",
+    "status": "None"
+  },
+  {
+    "code": "31611",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2154",
+    "name": "Gaubitsch",
+    "multiplePostalCodes": false,
+    "key": "31611",
+    "status": "None"
+  },
+  {
+    "code": "31612",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2191",
+    "name": "Gaweinstal",
+    "multiplePostalCodes": true,
+    "key": "31612",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31613",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2152",
+    "name": "Gnadendorf",
+    "multiplePostalCodes": true,
+    "key": "31613",
+    "status": "None"
+  },
+  {
+    "code": "31614",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2203",
+    "name": "Großebersdorf",
+    "multiplePostalCodes": false,
+    "key": "31614",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31615",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2212",
+    "name": "Großengersdorf",
+    "multiplePostalCodes": false,
+    "key": "31615",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31616",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2034",
+    "name": "Großharras",
+    "multiplePostalCodes": true,
+    "key": "31616",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31617",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2143",
+    "name": "Großkrut",
+    "multiplePostalCodes": false,
+    "key": "31617",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31620",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2145",
+    "name": "Hausbrunn",
+    "multiplePostalCodes": false,
+    "key": "31620",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31621",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2171",
+    "name": "Herrnbaumgarten",
+    "multiplePostalCodes": false,
+    "key": "31621",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31622",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2123",
+    "name": "Hochleithen",
+    "multiplePostalCodes": true,
+    "key": "31622",
+    "status": "None"
+  },
+  {
+    "code": "31627",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2123",
+    "name": "Kreuttal",
+    "multiplePostalCodes": true,
+    "key": "31627",
+    "status": "None"
+  },
+  {
+    "code": "31628",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2124",
+    "name": "Kreuzstetten",
+    "multiplePostalCodes": true,
+    "key": "31628",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31629",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2136",
+    "name": "Laa an der Thaya",
+    "multiplePostalCodes": true,
+    "key": "31629",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "31630",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2126",
+    "name": "Ladendorf",
+    "multiplePostalCodes": true,
+    "key": "31630",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31633",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2130",
+    "name": "Mistelbach",
+    "multiplePostalCodes": true,
+    "key": "31633",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "31634",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2135",
+    "name": "Neudorf im Weinviertel",
+    "multiplePostalCodes": true,
+    "key": "31634",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31636",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2116",
+    "name": "Niederleis",
+    "multiplePostalCodes": true,
+    "key": "31636",
+    "status": "None"
+  },
+  {
+    "code": "31642",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2211",
+    "name": "Pillichsdorf",
+    "multiplePostalCodes": false,
+    "key": "31642",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31644",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2170",
+    "name": "Poysdorf",
+    "multiplePostalCodes": true,
+    "key": "31644",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "31645",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2274",
+    "name": "Rabensburg",
+    "multiplePostalCodes": false,
+    "key": "31645",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31646",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2172",
+    "name": "Schrattenberg",
+    "multiplePostalCodes": false,
+    "key": "31646",
+    "status": "None"
+  },
+  {
+    "code": "31649",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2134",
+    "name": "Staatz",
+    "multiplePostalCodes": true,
+    "key": "31649",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31650",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2153",
+    "name": "Stronsdorf",
+    "multiplePostalCodes": false,
+    "key": "31650",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31651",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2122",
+    "name": "Ulrichskirchen-Schleinbach",
+    "multiplePostalCodes": true,
+    "key": "31651",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31652",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2154",
+    "name": "Unterstinkenbrunn",
+    "multiplePostalCodes": false,
+    "key": "31652",
+    "status": "None"
+  },
+  {
+    "code": "31653",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2164",
+    "name": "Wildendürnbach",
+    "multiplePostalCodes": true,
+    "key": "31653",
+    "status": "None"
+  },
+  {
+    "code": "31654",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2193",
+    "name": "Wilfersdorf",
+    "multiplePostalCodes": true,
+    "key": "31654",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31655",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2120",
+    "name": "Wolkersdorf im Weinviertel",
+    "multiplePostalCodes": true,
+    "key": "31655",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "31658",
+    "district": {
+      "code": "316",
+      "name": "Mistelbach",
+      "key": "316"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2163",
+    "name": "Ottenthal",
+    "multiplePostalCodes": false,
+    "key": "31658",
+    "status": "None"
+  }
+]

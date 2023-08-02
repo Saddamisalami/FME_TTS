@@ -1,0 +1,750 @@
+[
+  {
+    "code": "31801",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2632",
+    "name": "Altendorf",
+    "multiplePostalCodes": true,
+    "key": "31801",
+    "status": "None"
+  },
+  {
+    "code": "31802",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2870",
+    "name": "Aspang-Markt",
+    "multiplePostalCodes": false,
+    "key": "31802",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31803",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2870",
+    "name": "Aspangberg-St. Peter",
+    "multiplePostalCodes": true,
+    "key": "31803",
+    "status": "None"
+  },
+  {
+    "code": "31804",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2624",
+    "name": "Breitenau",
+    "multiplePostalCodes": false,
+    "key": "31804",
+    "status": "None"
+  },
+  {
+    "code": "31805",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2673",
+    "name": "Breitenstein",
+    "multiplePostalCodes": true,
+    "key": "31805",
+    "status": "None"
+  },
+  {
+    "code": "31806",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2630",
+    "name": "Buchbach",
+    "multiplePostalCodes": true,
+    "key": "31806",
+    "status": "None"
+  },
+  {
+    "code": "31807",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2842",
+    "name": "Edlitz",
+    "multiplePostalCodes": true,
+    "key": "31807",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31808",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2640",
+    "name": "Enzenreith",
+    "multiplePostalCodes": true,
+    "key": "31808",
+    "status": "None"
+  },
+  {
+    "code": "31809",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2873",
+    "name": "Feistritz am Wechsel",
+    "multiplePostalCodes": true,
+    "key": "31809",
+    "status": "None"
+  },
+  {
+    "code": "31810",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2640",
+    "name": "Gloggnitz",
+    "multiplePostalCodes": true,
+    "key": "31810",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "31811",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2632",
+    "name": "Grafenbach-St. Valentin",
+    "multiplePostalCodes": true,
+    "key": "31811",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31812",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2840",
+    "name": "Grimmenstein",
+    "multiplePostalCodes": true,
+    "key": "31812",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31813",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2733",
+    "name": "Grünbach am Schneeberg",
+    "multiplePostalCodes": false,
+    "key": "31813",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31814",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2880",
+    "name": "Kirchberg am Wechsel",
+    "multiplePostalCodes": true,
+    "key": "31814",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31815",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2872",
+    "name": "Mönichkirchen",
+    "multiplePostalCodes": true,
+    "key": "31815",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31817",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2620",
+    "name": "Natschbach-Loipersbach",
+    "multiplePostalCodes": false,
+    "key": "31817",
+    "status": "None"
+  },
+  {
+    "code": "31818",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2620",
+    "name": "Neunkirchen",
+    "multiplePostalCodes": false,
+    "key": "31818",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "31820",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2880",
+    "name": "Otterthal",
+    "multiplePostalCodes": false,
+    "key": "31820",
+    "status": "None"
+  },
+  {
+    "code": "31821",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2650",
+    "name": "Payerbach",
+    "multiplePostalCodes": true,
+    "key": "31821",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31823",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2823",
+    "name": "Pitten",
+    "multiplePostalCodes": true,
+    "key": "31823",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31825",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2640",
+    "name": "Prigglitz",
+    "multiplePostalCodes": true,
+    "key": "31825",
+    "status": "None"
+  },
+  {
+    "code": "31826",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2734",
+    "name": "Puchberg am Schneeberg",
+    "multiplePostalCodes": true,
+    "key": "31826",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31827",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2640",
+    "name": "Raach am Hochgebirge",
+    "multiplePostalCodes": false,
+    "key": "31827",
+    "status": "None"
+  },
+  {
+    "code": "31829",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2651",
+    "name": "Reichenau an der Rax",
+    "multiplePostalCodes": false,
+    "key": "31829",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31830",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2880",
+    "name": "St. Corona am Wechsel",
+    "multiplePostalCodes": true,
+    "key": "31830",
+    "status": "None"
+  },
+  {
+    "code": "31831",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2731",
+    "name": "St. Egyden am Steinfeld",
+    "multiplePostalCodes": true,
+    "key": "31831",
+    "status": "None"
+  },
+  {
+    "code": "31832",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2831",
+    "name": "Scheiblingkirchen-Thernberg",
+    "multiplePostalCodes": true,
+    "key": "31832",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31833",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2641",
+    "name": "Schottwien",
+    "multiplePostalCodes": false,
+    "key": "31833",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31834",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2733",
+    "name": "Schrattenbach",
+    "multiplePostalCodes": false,
+    "key": "31834",
+    "status": "None"
+  },
+  {
+    "code": "31835",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2625",
+    "name": "Schwarzau am Steinfeld",
+    "multiplePostalCodes": true,
+    "key": "31835",
+    "status": "None"
+  },
+  {
+    "code": "31836",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2662",
+    "name": "Schwarzau im Gebirge",
+    "multiplePostalCodes": true,
+    "key": "31836",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31837",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2824",
+    "name": "Seebenstein",
+    "multiplePostalCodes": true,
+    "key": "31837",
+    "status": "None"
+  },
+  {
+    "code": "31838",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2680",
+    "name": "Semmering",
+    "multiplePostalCodes": true,
+    "key": "31838",
+    "status": "None"
+  },
+  {
+    "code": "31839",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2630",
+    "name": "Ternitz",
+    "multiplePostalCodes": true,
+    "key": "31839",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "31840",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2842",
+    "name": "Thomasberg",
+    "multiplePostalCodes": true,
+    "key": "31840",
+    "status": "None"
+  },
+  {
+    "code": "31841",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2881",
+    "name": "Trattenbach",
+    "multiplePostalCodes": false,
+    "key": "31841",
+    "status": "None"
+  },
+  {
+    "code": "31842",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2630",
+    "name": "Bürg-Vöstenhof",
+    "multiplePostalCodes": false,
+    "key": "31842",
+    "status": "None"
+  },
+  {
+    "code": "31843",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2831",
+    "name": "Warth",
+    "multiplePostalCodes": true,
+    "key": "31843",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31844",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2620",
+    "name": "Wartmannstetten",
+    "multiplePostalCodes": false,
+    "key": "31844",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31845",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2732",
+    "name": "Willendorf",
+    "multiplePostalCodes": true,
+    "key": "31845",
+    "status": "None"
+  },
+  {
+    "code": "31846",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2632",
+    "name": "Wimpassing im Schwarzatale",
+    "multiplePostalCodes": false,
+    "key": "31846",
+    "status": "MarketTown"
+  },
+  {
+    "code": "31847",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2732",
+    "name": "Würflach",
+    "multiplePostalCodes": false,
+    "key": "31847",
+    "status": "None"
+  },
+  {
+    "code": "31848",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2871",
+    "name": "Zöbern",
+    "multiplePostalCodes": true,
+    "key": "31848",
+    "status": "None"
+  },
+  {
+    "code": "31849",
+    "district": {
+      "code": "318",
+      "name": "Neunkirchen",
+      "key": "318"
+    },
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "postalCode": "2732",
+    "name": "Höflein an der Hohen Wand",
+    "multiplePostalCodes": true,
+    "key": "31849",
+    "status": "None"
+  }
+]

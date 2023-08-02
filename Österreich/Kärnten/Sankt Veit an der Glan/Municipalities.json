@@ -1,0 +1,342 @@
+[
+  {
+    "code": "20501",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9330",
+    "name": "Althofen",
+    "multiplePostalCodes": true,
+    "key": "20501",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "20502",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9371",
+    "name": "Brückl",
+    "multiplePostalCodes": true,
+    "key": "20502",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20503",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9572",
+    "name": "Deutsch-Griffen",
+    "multiplePostalCodes": true,
+    "key": "20503",
+    "status": "None"
+  },
+  {
+    "code": "20504",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9372",
+    "name": "Eberstein",
+    "multiplePostalCodes": true,
+    "key": "20504",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20505",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9360",
+    "name": "Friesach",
+    "multiplePostalCodes": true,
+    "key": "20505",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "20506",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9346",
+    "name": "Glödnitz",
+    "multiplePostalCodes": true,
+    "key": "20506",
+    "status": "None"
+  },
+  {
+    "code": "20508",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9342",
+    "name": "Gurk",
+    "multiplePostalCodes": false,
+    "key": "20508",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20509",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9334",
+    "name": "Guttaring",
+    "multiplePostalCodes": true,
+    "key": "20509",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20511",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9375",
+    "name": "Hüttenberg",
+    "multiplePostalCodes": true,
+    "key": "20511",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20512",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9321",
+    "name": "Kappel am Krappfeld",
+    "multiplePostalCodes": true,
+    "key": "20512",
+    "status": "None"
+  },
+  {
+    "code": "20513",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9373",
+    "name": "Klein St. Paul",
+    "multiplePostalCodes": true,
+    "key": "20513",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20515",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9556",
+    "name": "Liebenfels",
+    "multiplePostalCodes": true,
+    "key": "20515",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20518",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9363",
+    "name": "Metnitz",
+    "multiplePostalCodes": true,
+    "key": "20518",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20519",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9322",
+    "name": "Micheldorf",
+    "multiplePostalCodes": true,
+    "key": "20519",
+    "status": "None"
+  },
+  {
+    "code": "20520",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9330",
+    "name": "Mölbling",
+    "multiplePostalCodes": true,
+    "key": "20520",
+    "status": "None"
+  },
+  {
+    "code": "20523",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9314",
+    "name": "St. Georgen am Längsee",
+    "multiplePostalCodes": true,
+    "key": "20523",
+    "status": "None"
+  },
+  {
+    "code": "20527",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9300",
+    "name": "St. Veit an der Glan",
+    "multiplePostalCodes": true,
+    "key": "20527",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "20530",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9341",
+    "name": "Straßburg",
+    "multiplePostalCodes": false,
+    "key": "20530",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "20531",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9344",
+    "name": "Weitensfeld im Gurktal",
+    "multiplePostalCodes": true,
+    "key": "20531",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20534",
+    "district": {
+      "code": "205",
+      "name": "Sankt Veit an der Glan",
+      "key": "205"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9311",
+    "name": "Frauenstein",
+    "multiplePostalCodes": true,
+    "key": "20534",
+    "status": "None"
+  }
+]

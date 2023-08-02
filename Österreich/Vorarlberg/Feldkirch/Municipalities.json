@@ -1,0 +1,410 @@
+[
+  {
+    "code": "80401",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6844",
+    "name": "Altach",
+    "multiplePostalCodes": false,
+    "key": "80401",
+    "status": "None"
+  },
+  {
+    "code": "80402",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6822",
+    "name": "Düns",
+    "multiplePostalCodes": false,
+    "key": "80402",
+    "status": "None"
+  },
+  {
+    "code": "80403",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6822",
+    "name": "Dünserberg",
+    "multiplePostalCodes": false,
+    "key": "80403",
+    "status": "None"
+  },
+  {
+    "code": "80404",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6800",
+    "name": "Feldkirch",
+    "multiplePostalCodes": false,
+    "key": "80404",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "80405",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6820",
+    "name": "Frastanz",
+    "multiplePostalCodes": false,
+    "key": "80405",
+    "status": "MarketTown"
+  },
+  {
+    "code": "80406",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6833",
+    "name": "Fraxern",
+    "multiplePostalCodes": false,
+    "key": "80406",
+    "status": "None"
+  },
+  {
+    "code": "80407",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6811",
+    "name": "Göfis",
+    "multiplePostalCodes": false,
+    "key": "80407",
+    "status": "None"
+  },
+  {
+    "code": "80408",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6840",
+    "name": "Götzis",
+    "multiplePostalCodes": false,
+    "key": "80408",
+    "status": "MarketTown"
+  },
+  {
+    "code": "80409",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6833",
+    "name": "Klaus",
+    "multiplePostalCodes": false,
+    "key": "80409",
+    "status": "None"
+  },
+  {
+    "code": "80410",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6842",
+    "name": "Koblach",
+    "multiplePostalCodes": false,
+    "key": "80410",
+    "status": "None"
+  },
+  {
+    "code": "80411",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6830",
+    "name": "Laterns",
+    "multiplePostalCodes": false,
+    "key": "80411",
+    "status": "None"
+  },
+  {
+    "code": "80412",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6841",
+    "name": "Mäder",
+    "multiplePostalCodes": false,
+    "key": "80412",
+    "status": "None"
+  },
+  {
+    "code": "80413",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6812",
+    "name": "Meiningen",
+    "multiplePostalCodes": false,
+    "key": "80413",
+    "status": "None"
+  },
+  {
+    "code": "80414",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6830",
+    "name": "Rankweil",
+    "multiplePostalCodes": false,
+    "key": "80414",
+    "status": "MarketTown"
+  },
+  {
+    "code": "80415",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6822",
+    "name": "Röns",
+    "multiplePostalCodes": true,
+    "key": "80415",
+    "status": "None"
+  },
+  {
+    "code": "80416",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6832",
+    "name": "Röthis",
+    "multiplePostalCodes": false,
+    "key": "80416",
+    "status": "None"
+  },
+  {
+    "code": "80417",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6822",
+    "name": "Satteins",
+    "multiplePostalCodes": false,
+    "key": "80417",
+    "status": "None"
+  },
+  {
+    "code": "80418",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6824",
+    "name": "Schlins",
+    "multiplePostalCodes": false,
+    "key": "80418",
+    "status": "None"
+  },
+  {
+    "code": "80419",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6822",
+    "name": "Schnifis",
+    "multiplePostalCodes": false,
+    "key": "80419",
+    "status": "None"
+  },
+  {
+    "code": "80420",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6832",
+    "name": "Sulz",
+    "multiplePostalCodes": false,
+    "key": "80420",
+    "status": "None"
+  },
+  {
+    "code": "80421",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6834",
+    "name": "Übersaxen",
+    "multiplePostalCodes": false,
+    "key": "80421",
+    "status": "None"
+  },
+  {
+    "code": "80422",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6836",
+    "name": "Viktorsberg",
+    "multiplePostalCodes": false,
+    "key": "80422",
+    "status": "None"
+  },
+  {
+    "code": "80423",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6833",
+    "name": "Weiler",
+    "multiplePostalCodes": true,
+    "key": "80423",
+    "status": "None"
+  },
+  {
+    "code": "80424",
+    "district": {
+      "code": "804",
+      "name": "Feldkirch",
+      "key": "804"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6835",
+    "name": "Zwischenwasser",
+    "multiplePostalCodes": false,
+    "key": "80424",
+    "status": "None"
+  }
+]

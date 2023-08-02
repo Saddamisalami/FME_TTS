@@ -1,0 +1,257 @@
+[
+  {
+    "code": "61611",
+    "district": {
+      "code": "616",
+      "name": "Voitsberg",
+      "key": "616"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8564",
+    "name": "Krottendorf-Gaisfeld",
+    "multiplePostalCodes": true,
+    "key": "61611",
+    "status": "None"
+  },
+  {
+    "code": "61612",
+    "district": {
+      "code": "616",
+      "name": "Voitsberg",
+      "key": "616"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8563",
+    "name": "Ligist",
+    "multiplePostalCodes": true,
+    "key": "61612",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61615",
+    "district": {
+      "code": "616",
+      "name": "Voitsberg",
+      "key": "616"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8562",
+    "name": "Mooskirchen",
+    "multiplePostalCodes": false,
+    "key": "61615",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61618",
+    "district": {
+      "code": "616",
+      "name": "Voitsberg",
+      "key": "616"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8582",
+    "name": "Rosental an der Kainach",
+    "multiplePostalCodes": true,
+    "key": "61618",
+    "status": "None"
+  },
+  {
+    "code": "61621",
+    "district": {
+      "code": "616",
+      "name": "Voitsberg",
+      "key": "616"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8580",
+    "name": "Sankt Martin am Wöllmißberg",
+    "multiplePostalCodes": true,
+    "key": "61621",
+    "status": "None"
+  },
+  {
+    "code": "61624",
+    "district": {
+      "code": "616",
+      "name": "Voitsberg",
+      "key": "616"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8152",
+    "name": "Stallhofen",
+    "multiplePostalCodes": true,
+    "key": "61624",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61625",
+    "district": {
+      "code": "616",
+      "name": "Voitsberg",
+      "key": "616"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8570",
+    "name": "Voitsberg",
+    "multiplePostalCodes": true,
+    "key": "61625",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "61626",
+    "district": {
+      "code": "616",
+      "name": "Voitsberg",
+      "key": "616"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8572",
+    "name": "Bärnbach",
+    "multiplePostalCodes": true,
+    "key": "61626",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "61627",
+    "district": {
+      "code": "616",
+      "name": "Voitsberg",
+      "key": "616"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8583",
+    "name": "Edelschrott",
+    "multiplePostalCodes": true,
+    "key": "61627",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61628",
+    "district": {
+      "code": "616",
+      "name": "Voitsberg",
+      "key": "616"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8152",
+    "name": "Geistthal-Södingberg",
+    "multiplePostalCodes": true,
+    "key": "61628",
+    "status": "None"
+  },
+  {
+    "code": "61629",
+    "district": {
+      "code": "616",
+      "name": "Voitsberg",
+      "key": "616"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8584",
+    "name": "Hirschegg-Pack",
+    "multiplePostalCodes": true,
+    "key": "61629",
+    "status": "None"
+  },
+  {
+    "code": "61630",
+    "district": {
+      "code": "616",
+      "name": "Voitsberg",
+      "key": "616"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8573",
+    "name": "Kainach bei Voitsberg",
+    "multiplePostalCodes": true,
+    "key": "61630",
+    "status": "None"
+  },
+  {
+    "code": "61631",
+    "district": {
+      "code": "616",
+      "name": "Voitsberg",
+      "key": "616"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8580",
+    "name": "Köflach",
+    "multiplePostalCodes": true,
+    "key": "61631",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "61632",
+    "district": {
+      "code": "616",
+      "name": "Voitsberg",
+      "key": "616"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8591",
+    "name": "Maria Lankowitz",
+    "multiplePostalCodes": true,
+    "key": "61632",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61633",
+    "district": {
+      "code": "616",
+      "name": "Voitsberg",
+      "key": "616"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8561",
+    "name": "Söding-Sankt Johann",
+    "multiplePostalCodes": true,
+    "key": "61633",
+    "status": "None"
+  }
+]

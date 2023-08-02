@@ -1,0 +1,172 @@
+[
+  {
+    "code": "21001",
+    "district": {
+      "code": "210",
+      "name": "Feldkirchen",
+      "key": "210"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9571",
+    "name": "Albeck",
+    "multiplePostalCodes": true,
+    "key": "21001",
+    "status": "None"
+  },
+  {
+    "code": "21002",
+    "district": {
+      "code": "210",
+      "name": "Feldkirchen",
+      "key": "210"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9560",
+    "name": "Feldkirchen in Kärnten",
+    "multiplePostalCodes": true,
+    "key": "21002",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "21003",
+    "district": {
+      "code": "210",
+      "name": "Feldkirchen",
+      "key": "210"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9555",
+    "name": "Glanegg",
+    "multiplePostalCodes": true,
+    "key": "21003",
+    "status": "None"
+  },
+  {
+    "code": "21004",
+    "district": {
+      "code": "210",
+      "name": "Feldkirchen",
+      "key": "210"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9563",
+    "name": "Gnesau",
+    "multiplePostalCodes": false,
+    "key": "21004",
+    "status": "None"
+  },
+  {
+    "code": "21005",
+    "district": {
+      "code": "210",
+      "name": "Feldkirchen",
+      "key": "210"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9562",
+    "name": "Himmelberg",
+    "multiplePostalCodes": true,
+    "key": "21005",
+    "status": "None"
+  },
+  {
+    "code": "21006",
+    "district": {
+      "code": "210",
+      "name": "Feldkirchen",
+      "key": "210"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9570",
+    "name": "Ossiach",
+    "multiplePostalCodes": true,
+    "key": "21006",
+    "status": "None"
+  },
+  {
+    "code": "21007",
+    "district": {
+      "code": "210",
+      "name": "Feldkirchen",
+      "key": "210"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9565",
+    "name": "Reichenau",
+    "multiplePostalCodes": true,
+    "key": "21007",
+    "status": "None"
+  },
+  {
+    "code": "21008",
+    "district": {
+      "code": "210",
+      "name": "Feldkirchen",
+      "key": "210"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9554",
+    "name": "St. Urban",
+    "multiplePostalCodes": true,
+    "key": "21008",
+    "status": "None"
+  },
+  {
+    "code": "21009",
+    "district": {
+      "code": "210",
+      "name": "Feldkirchen",
+      "key": "210"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9551",
+    "name": "Steindorf am Ossiacher See",
+    "multiplePostalCodes": true,
+    "key": "21009",
+    "status": "None"
+  },
+  {
+    "code": "21010",
+    "district": {
+      "code": "210",
+      "name": "Feldkirchen",
+      "key": "210"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9560",
+    "name": "Steuerberg",
+    "multiplePostalCodes": false,
+    "key": "21010",
+    "status": "None"
+  }
+]

@@ -1,0 +1,461 @@
+[
+  {
+    "code": "40601",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4240",
+    "name": "Freistadt",
+    "multiplePostalCodes": false,
+    "key": "40601",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "40602",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4264",
+    "name": "Grünbach",
+    "multiplePostalCodes": true,
+    "key": "40602",
+    "status": "None"
+  },
+  {
+    "code": "40603",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4293",
+    "name": "Gutau",
+    "multiplePostalCodes": true,
+    "key": "40603",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40604",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4232",
+    "name": "Hagenberg im Mühlkreis",
+    "multiplePostalCodes": true,
+    "key": "40604",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40605",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4242",
+    "name": "Hirschbach im Mühlkreis",
+    "multiplePostalCodes": true,
+    "key": "40605",
+    "status": "None"
+  },
+  {
+    "code": "40606",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4273",
+    "name": "Kaltenberg",
+    "multiplePostalCodes": false,
+    "key": "40606",
+    "status": "None"
+  },
+  {
+    "code": "40607",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4292",
+    "name": "Kefermarkt",
+    "multiplePostalCodes": true,
+    "key": "40607",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40608",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4280",
+    "name": "Königswiesen",
+    "multiplePostalCodes": true,
+    "key": "40608",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40609",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4291",
+    "name": "Lasberg",
+    "multiplePostalCodes": true,
+    "key": "40609",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40610",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4262",
+    "name": "Leopoldschlag",
+    "multiplePostalCodes": false,
+    "key": "40610",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40611",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4252",
+    "name": "Liebenau",
+    "multiplePostalCodes": true,
+    "key": "40611",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40612",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4212",
+    "name": "Neumarkt im Mühlkreis",
+    "multiplePostalCodes": true,
+    "key": "40612",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40613",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4282",
+    "name": "Pierbach",
+    "multiplePostalCodes": true,
+    "key": "40613",
+    "status": "None"
+  },
+  {
+    "code": "40614",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4230",
+    "name": "Pregarten",
+    "multiplePostalCodes": true,
+    "key": "40614",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "40615",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4261",
+    "name": "Rainbach im Mühlkreis",
+    "multiplePostalCodes": true,
+    "key": "40615",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40616",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4251",
+    "name": "Sandl",
+    "multiplePostalCodes": true,
+    "key": "40616",
+    "status": "None"
+  },
+  {
+    "code": "40617",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4294",
+    "name": "St. Leonhard bei Freistadt",
+    "multiplePostalCodes": true,
+    "key": "40617",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40618",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4271",
+    "name": "St. Oswald bei Freistadt",
+    "multiplePostalCodes": true,
+    "key": "40618",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40619",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4274",
+    "name": "Schönau im Mühlkreis",
+    "multiplePostalCodes": true,
+    "key": "40619",
+    "status": "None"
+  },
+  {
+    "code": "40620",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4284",
+    "name": "Tragwein",
+    "multiplePostalCodes": true,
+    "key": "40620",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40621",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4273",
+    "name": "Unterweißenbach",
+    "multiplePostalCodes": false,
+    "key": "40621",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40622",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4210",
+    "name": "Unterweitersdorf",
+    "multiplePostalCodes": true,
+    "key": "40622",
+    "status": "None"
+  },
+  {
+    "code": "40623",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4240",
+    "name": "Waldburg",
+    "multiplePostalCodes": true,
+    "key": "40623",
+    "status": "None"
+  },
+  {
+    "code": "40624",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4224",
+    "name": "Wartberg ob der Aist",
+    "multiplePostalCodes": false,
+    "key": "40624",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40625",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4272",
+    "name": "Weitersfelden",
+    "multiplePostalCodes": false,
+    "key": "40625",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40626",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4263",
+    "name": "Windhaag bei Freistadt",
+    "multiplePostalCodes": false,
+    "key": "40626",
+    "status": "MarketTown"
+  },
+  {
+    "code": "40627",
+    "district": {
+      "code": "406",
+      "name": "Freistadt",
+      "key": "406"
+    },
+    "federalProvince": {
+      "name": "Oberösterreich",
+      "key": "4"
+    },
+    "postalCode": "4283",
+    "name": "Bad Zell",
+    "multiplePostalCodes": true,
+    "key": "40627",
+    "status": "MarketTown"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Ammerswil",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Ammerswil",
+    "key": "4191"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Boniswil",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Boniswil",
+    "key": "4192"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Brunegg",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Brunegg",
+    "key": "4193"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Dintikon",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Dintikon",
+    "key": "4194"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Egliswil",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Egliswil",
+    "key": "4195"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Fahrwangen",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Fahrwangen",
+    "key": "4196"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Hallwil",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Hallwil",
+    "key": "4197"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Hendschiken",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Hendschiken",
+    "key": "4198"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Holderbank (AG)",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Holderbank (AG)",
+    "key": "4199"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Hunzenschwil",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Hunzenschwil",
+    "key": "4200"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Lenzburg",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Lenzburg",
+    "key": "4201"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Meisterschwanden",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Meisterschwanden",
+    "key": "4202"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Möriken-Wildegg",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Möriken-Wildegg",
+    "key": "4203"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Niederlenz",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Niederlenz",
+    "key": "4204"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Othmarsingen",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Othmarsingen",
+    "key": "4205"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Rupperswil",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Rupperswil",
+    "key": "4206"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Schafisheim",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Schafisheim",
+    "key": "4207"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Seengen",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Seengen",
+    "key": "4208"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Seon",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Seon",
+    "key": "4209"
+  },
+  {
+    "district": {
+      "name": "Bezirk Lenzburg",
+      "key": "1907"
+    },
+    "name": "Staufen",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Staufen",
+    "key": "4210"
+  }
+]

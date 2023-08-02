@@ -1,0 +1,30 @@
+[
+  {
+    "district": {
+      "name": "Region Bernina",
+      "key": "1842"
+    },
+    "name": "Brusio",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Brusio",
+    "key": "3551"
+  },
+  {
+    "district": {
+      "name": "Region Bernina",
+      "key": "1842"
+    },
+    "name": "Poschiavo",
+    "canton": {
+      "code": "GR",
+      "name": "Graubünden / Grigioni / Grischun",
+      "key": "18"
+    },
+    "shortName": "Poschiavo",
+    "key": "3561"
+  }
+]

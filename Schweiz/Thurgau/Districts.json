@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Bezirk Arbon",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "key": "2011"
+  },
+  {
+    "name": "Bezirk Frauenfeld",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "key": "2012"
+  },
+  {
+    "name": "Bezirk Kreuzlingen",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "key": "2013"
+  },
+  {
+    "name": "Bezirk Münchwilen",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "key": "2014"
+  },
+  {
+    "name": "Bezirk Weinfelden",
+    "canton": {
+      "code": "TG",
+      "name": "Thurgau",
+      "key": "20"
+    },
+    "key": "2015"
+  }
+]

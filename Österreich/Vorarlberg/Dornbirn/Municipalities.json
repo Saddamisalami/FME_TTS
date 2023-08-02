@@ -1,0 +1,53 @@
+[
+  {
+    "code": "80301",
+    "district": {
+      "code": "803",
+      "name": "Dornbirn",
+      "key": "803"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6850",
+    "name": "Dornbirn",
+    "multiplePostalCodes": false,
+    "key": "80301",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "80302",
+    "district": {
+      "code": "803",
+      "name": "Dornbirn",
+      "key": "803"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6845",
+    "name": "Hohenems",
+    "multiplePostalCodes": false,
+    "key": "80302",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "80303",
+    "district": {
+      "code": "803",
+      "name": "Dornbirn",
+      "key": "803"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6890",
+    "name": "Lustenau",
+    "multiplePostalCodes": false,
+    "key": "80303",
+    "status": "MarketTown"
+  }
+]

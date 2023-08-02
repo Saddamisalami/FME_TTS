@@ -1,0 +1,184 @@
+[
+  {
+    "district": {
+      "name": "Wahlkreis Rheintal",
+      "key": "1723"
+    },
+    "name": "Au (SG)",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Au (SG)",
+    "key": "3231"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Rheintal",
+      "key": "1723"
+    },
+    "name": "Balgach",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Balgach",
+    "key": "3232"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Rheintal",
+      "key": "1723"
+    },
+    "name": "Berneck",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Berneck",
+    "key": "3233"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Rheintal",
+      "key": "1723"
+    },
+    "name": "Diepoldsau",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Diepoldsau",
+    "key": "3234"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Rheintal",
+      "key": "1723"
+    },
+    "name": "Rheineck",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Rheineck",
+    "key": "3235"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Rheintal",
+      "key": "1723"
+    },
+    "name": "St. Margrethen",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "St. Margrethen",
+    "key": "3236"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Rheintal",
+      "key": "1723"
+    },
+    "name": "Widnau",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Widnau",
+    "key": "3238"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Rheintal",
+      "key": "1723"
+    },
+    "name": "Altstätten",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Altstätten",
+    "key": "3251"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Rheintal",
+      "key": "1723"
+    },
+    "name": "Eichberg",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Eichberg",
+    "key": "3252"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Rheintal",
+      "key": "1723"
+    },
+    "name": "Marbach (SG)",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Marbach (SG)",
+    "key": "3253"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Rheintal",
+      "key": "1723"
+    },
+    "name": "Oberriet (SG)",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Oberriet (SG)",
+    "key": "3254"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Rheintal",
+      "key": "1723"
+    },
+    "name": "Rebstein",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Rebstein",
+    "key": "3255"
+  },
+  {
+    "district": {
+      "name": "Wahlkreis Rheintal",
+      "key": "1723"
+    },
+    "name": "Rüthi (SG)",
+    "canton": {
+      "code": "SG",
+      "name": "St. Gallen",
+      "key": "17"
+    },
+    "shortName": "Rüthi (SG)",
+    "key": "3256"
+  }
+]

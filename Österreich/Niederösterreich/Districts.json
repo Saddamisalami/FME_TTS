@@ -1,0 +1,218 @@
+[
+  {
+    "code": "301",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Krems an der Donau ( Stadt)",
+    "key": "301"
+  },
+  {
+    "code": "302",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Sankt Pölten ( Stadt)",
+    "key": "302"
+  },
+  {
+    "code": "303",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Waidhofen an der Ybbs ( Stadt)",
+    "key": "303"
+  },
+  {
+    "code": "304",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Wiener Neustadt ( Stadt)",
+    "key": "304"
+  },
+  {
+    "code": "305",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Amstetten",
+    "key": "305"
+  },
+  {
+    "code": "306",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Baden",
+    "key": "306"
+  },
+  {
+    "code": "307",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Bruck an der Leitha",
+    "key": "307"
+  },
+  {
+    "code": "308",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Gänserndorf",
+    "key": "308"
+  },
+  {
+    "code": "309",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Gmünd",
+    "key": "309"
+  },
+  {
+    "code": "310",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Hollabrunn",
+    "key": "310"
+  },
+  {
+    "code": "311",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Horn",
+    "key": "311"
+  },
+  {
+    "code": "312",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Korneuburg",
+    "key": "312"
+  },
+  {
+    "code": "313",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Krems ( Land)",
+    "key": "313"
+  },
+  {
+    "code": "314",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Lilienfeld",
+    "key": "314"
+  },
+  {
+    "code": "315",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Melk",
+    "key": "315"
+  },
+  {
+    "code": "316",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Mistelbach",
+    "key": "316"
+  },
+  {
+    "code": "317",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Mödling",
+    "key": "317"
+  },
+  {
+    "code": "318",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Neunkirchen",
+    "key": "318"
+  },
+  {
+    "code": "319",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Sankt Pölten ( Land)",
+    "key": "319"
+  },
+  {
+    "code": "320",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Scheibbs",
+    "key": "320"
+  },
+  {
+    "code": "321",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Tulln",
+    "key": "321"
+  },
+  {
+    "code": "322",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Waidhofen an der Thaya",
+    "key": "322"
+  },
+  {
+    "code": "323",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Wiener Neustadt ( Land)",
+    "key": "323"
+  },
+  {
+    "code": "325",
+    "federalProvince": {
+      "name": "Niederösterreich",
+      "key": "3"
+    },
+    "name": "Zwettl",
+    "key": "325"
+  }
+]

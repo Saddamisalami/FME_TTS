@@ -1,0 +1,240 @@
+[
+  {
+    "district": {
+      "name": "Bezirk Laufenburg",
+      "key": "1906"
+    },
+    "name": "Eiken",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Eiken",
+    "key": "4161"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufenburg",
+      "key": "1906"
+    },
+    "name": "Frick",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Frick",
+    "key": "4163"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufenburg",
+      "key": "1906"
+    },
+    "name": "Gansingen",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Gansingen",
+    "key": "4164"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufenburg",
+      "key": "1906"
+    },
+    "name": "Gipf-Oberfrick",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Gipf-Oberfrick",
+    "key": "4165"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufenburg",
+      "key": "1906"
+    },
+    "name": "Kaisten",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Kaisten",
+    "key": "4169"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufenburg",
+      "key": "1906"
+    },
+    "name": "Laufenburg",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Laufenburg",
+    "key": "4170"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufenburg",
+      "key": "1906"
+    },
+    "name": "Münchwilen (AG)",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Münchwilen (AG)",
+    "key": "4172"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufenburg",
+      "key": "1906"
+    },
+    "name": "Oberhof",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Oberhof",
+    "key": "4173"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufenburg",
+      "key": "1906"
+    },
+    "name": "Oeschgen",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Oeschgen",
+    "key": "4175"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufenburg",
+      "key": "1906"
+    },
+    "name": "Schwaderloch",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Schwaderloch",
+    "key": "4176"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufenburg",
+      "key": "1906"
+    },
+    "name": "Sisseln",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Sisseln",
+    "key": "4177"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufenburg",
+      "key": "1906"
+    },
+    "name": "Wittnau",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Wittnau",
+    "key": "4181"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufenburg",
+      "key": "1906"
+    },
+    "name": "Wölflinswil",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Wölflinswil",
+    "key": "4182"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufenburg",
+      "key": "1906"
+    },
+    "name": "Zeihen",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Zeihen",
+    "key": "4183"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufenburg",
+      "key": "1906"
+    },
+    "name": "Mettauertal",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Mettauertal",
+    "key": "4184"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufenburg",
+      "key": "1906"
+    },
+    "name": "Böztal",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Böztal",
+    "key": "4185"
+  },
+  {
+    "district": {
+      "name": "Bezirk Laufenburg",
+      "key": "1906"
+    },
+    "name": "Herznach-Ueken",
+    "canton": {
+      "code": "AG",
+      "name": "Aargau",
+      "key": "19"
+    },
+    "shortName": "Herznach-Ueken",
+    "key": "4186"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "district": {
+      "name": "Bezirk Mittelland",
+      "key": "1502"
+    },
+    "name": "Bühler",
+    "canton": {
+      "code": "AR",
+      "name": "Appenzell Ausserrhoden",
+      "key": "15"
+    },
+    "shortName": "Bühler",
+    "key": "3021"
+  },
+  {
+    "district": {
+      "name": "Bezirk Mittelland",
+      "key": "1502"
+    },
+    "name": "Gais",
+    "canton": {
+      "code": "AR",
+      "name": "Appenzell Ausserrhoden",
+      "key": "15"
+    },
+    "shortName": "Gais",
+    "key": "3022"
+  },
+  {
+    "district": {
+      "name": "Bezirk Mittelland",
+      "key": "1502"
+    },
+    "name": "Speicher",
+    "canton": {
+      "code": "AR",
+      "name": "Appenzell Ausserrhoden",
+      "key": "15"
+    },
+    "shortName": "Speicher",
+    "key": "3023"
+  },
+  {
+    "district": {
+      "name": "Bezirk Mittelland",
+      "key": "1502"
+    },
+    "name": "Teufen (AR)",
+    "canton": {
+      "code": "AR",
+      "name": "Appenzell Ausserrhoden",
+      "key": "15"
+    },
+    "shortName": "Teufen (AR)",
+    "key": "3024"
+  },
+  {
+    "district": {
+      "name": "Bezirk Mittelland",
+      "key": "1502"
+    },
+    "name": "Trogen",
+    "canton": {
+      "code": "AR",
+      "name": "Appenzell Ausserrhoden",
+      "key": "15"
+    },
+    "shortName": "Trogen",
+    "key": "3025"
+  }
+]

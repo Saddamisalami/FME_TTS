@@ -1,0 +1,282 @@
+[
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Benken (ZH)",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Benken (ZH)",
+    "key": "22"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Berg am Irchel",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Berg am Irchel",
+    "key": "23"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Buch am Irchel",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Buch am Irchel",
+    "key": "24"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Dachsen",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Dachsen",
+    "key": "25"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Dorf",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Dorf",
+    "key": "26"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Feuerthalen",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Feuerthalen",
+    "key": "27"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Flaach",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Flaach",
+    "key": "28"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Flurlingen",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Flurlingen",
+    "key": "29"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Andelfingen",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Andelfingen",
+    "key": "291"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Stammheim",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Stammheim",
+    "key": "292"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Henggart",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Henggart",
+    "key": "31"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Kleinandelfingen",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Kleinandelfingen",
+    "key": "33"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Laufen-Uhwiesen",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Laufen-Uhwiesen",
+    "key": "34"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Marthalen",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Marthalen",
+    "key": "35"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Ossingen",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Ossingen",
+    "key": "37"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Rheinau",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Rheinau",
+    "key": "38"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Thalheim an der Thur",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Thalheim an der Thur",
+    "key": "39"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Trüllikon",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Trüllikon",
+    "key": "40"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Truttikon",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Truttikon",
+    "key": "41"
+  },
+  {
+    "district": {
+      "name": "Bezirk Andelfingen",
+      "key": "102"
+    },
+    "name": "Volken",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Volken",
+    "key": "43"
+  }
+]

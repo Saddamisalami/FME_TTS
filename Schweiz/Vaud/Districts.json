@@ -1,0 +1,92 @@
+[
+  {
+    "name": "District d'Aigle",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "key": "2221"
+  },
+  {
+    "name": "District de la Broye-Vully",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "key": "2222"
+  },
+  {
+    "name": "District du Gros-de-Vaud",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "key": "2223"
+  },
+  {
+    "name": "District du Jura-Nord vaudois",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "key": "2224"
+  },
+  {
+    "name": "District de Lausanne",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "key": "2225"
+  },
+  {
+    "name": "District de Lavaux-Oron",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "key": "2226"
+  },
+  {
+    "name": "District de Morges",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "key": "2227"
+  },
+  {
+    "name": "District de Nyon",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "key": "2228"
+  },
+  {
+    "name": "District de l'Ouest lausannois",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "key": "2229"
+  },
+  {
+    "name": "District de la Riviera-Pays-d'Enhaut",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "key": "2230"
+  }
+]

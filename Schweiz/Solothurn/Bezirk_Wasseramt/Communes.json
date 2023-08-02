@@ -1,0 +1,268 @@
+[
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Aeschi (SO)",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Aeschi (SO)",
+    "key": "2511"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Biberist",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Biberist",
+    "key": "2513"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Bolken",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Bolken",
+    "key": "2514"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Deitingen",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Deitingen",
+    "key": "2516"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Derendingen",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Derendingen",
+    "key": "2517"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Etziken",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Etziken",
+    "key": "2518"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Gerlafingen",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Gerlafingen",
+    "key": "2519"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Halten",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Halten",
+    "key": "2520"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Horriwil",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Horriwil",
+    "key": "2523"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Hüniken",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Hüniken",
+    "key": "2524"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Kriegstetten",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Kriegstetten",
+    "key": "2525"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Lohn-Ammannsegg",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Lohn-Ammannsegg",
+    "key": "2526"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Luterbach",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Luterbach",
+    "key": "2527"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Obergerlafingen",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Obergerlafingen",
+    "key": "2528"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Oekingen",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Oekingen",
+    "key": "2529"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Recherswil",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Recherswil",
+    "key": "2530"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Subingen",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Subingen",
+    "key": "2532"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Zuchwil",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Zuchwil",
+    "key": "2534"
+  },
+  {
+    "district": {
+      "name": "Bezirk Wasseramt",
+      "key": "1106"
+    },
+    "name": "Drei Höfe",
+    "canton": {
+      "code": "SO",
+      "name": "Solothurn",
+      "key": "11"
+    },
+    "shortName": "Drei Höfe",
+    "key": "2535"
+  }
+]

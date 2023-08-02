@@ -1,0 +1,29 @@
+[
+  {
+    "name": "District de Delémont",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "key": "2601"
+  },
+  {
+    "name": "District des Franches-Montagnes",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "key": "2602"
+  },
+  {
+    "name": "District de Porrentruy",
+    "canton": {
+      "code": "JU",
+      "name": "Jura",
+      "key": "26"
+    },
+    "key": "2603"
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "code": "62202",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8283",
+    "name": "Bad Blumau",
+    "multiplePostalCodes": false,
+    "key": "62202",
+    "status": "None"
+  },
+  {
+    "code": "62205",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8274",
+    "name": "Buch-St. Magdalena",
+    "multiplePostalCodes": true,
+    "key": "62205",
+    "status": "None"
+  },
+  {
+    "code": "62206",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8291",
+    "name": "Burgau",
+    "multiplePostalCodes": false,
+    "key": "62206",
+    "status": "MarketTown"
+  },
+  {
+    "code": "62209",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8273",
+    "name": "Ebersdorf",
+    "multiplePostalCodes": true,
+    "key": "62209",
+    "status": "None"
+  },
+  {
+    "code": "62211",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8240",
+    "name": "Friedberg",
+    "multiplePostalCodes": true,
+    "key": "62211",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "62214",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8230",
+    "name": "Greinbach",
+    "multiplePostalCodes": true,
+    "key": "62214",
+    "status": "None"
+  },
+  {
+    "code": "62216",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8265",
+    "name": "Großsteinbach",
+    "multiplePostalCodes": true,
+    "key": "62216",
+    "status": "None"
+  },
+  {
+    "code": "62219",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8230",
+    "name": "Hartberg",
+    "multiplePostalCodes": false,
+    "key": "62219",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "62220",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8230",
+    "name": "Hartberg Umgebung",
+    "multiplePostalCodes": true,
+    "key": "62220",
+    "status": "None"
+  },
+  {
+    "code": "62226",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8233",
+    "name": "Lafnitz",
+    "multiplePostalCodes": true,
+    "key": "62226",
+    "status": "None"
+  },
+  {
+    "code": "62232",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8312",
+    "name": "Ottendorf an der Rittschein",
+    "multiplePostalCodes": true,
+    "key": "62232",
+    "status": "None"
+  },
+  {
+    "code": "62233",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8243",
+    "name": "Pinggau",
+    "multiplePostalCodes": true,
+    "key": "62233",
+    "status": "MarketTown"
+  },
+  {
+    "code": "62235",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8225",
+    "name": "Pöllauberg",
+    "multiplePostalCodes": true,
+    "key": "62235",
+    "status": "None"
+  },
+  {
+    "code": "62242",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8255",
+    "name": "Sankt Jakob im Walde",
+    "multiplePostalCodes": true,
+    "key": "62242",
+    "status": "None"
+  },
+  {
+    "code": "62244",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8295",
+    "name": "Sankt Johann in der Haide",
+    "multiplePostalCodes": true,
+    "key": "62244",
+    "status": "None"
+  },
+  {
+    "code": "62245",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8242",
+    "name": "Sankt Lorenzen am Wechsel",
+    "multiplePostalCodes": true,
+    "key": "62245",
+    "status": "None"
+  },
+  {
+    "code": "62247",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8244",
+    "name": "Schäffern",
+    "multiplePostalCodes": true,
+    "key": "62247",
+    "status": "None"
+  },
+  {
+    "code": "62252",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8362",
+    "name": "Söchau",
+    "multiplePostalCodes": true,
+    "key": "62252",
+    "status": "None"
+  },
+  {
+    "code": "62256",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8223",
+    "name": "Stubenberg",
+    "multiplePostalCodes": true,
+    "key": "62256",
+    "status": "None"
+  },
+  {
+    "code": "62262",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8254",
+    "name": "Wenigzell",
+    "multiplePostalCodes": true,
+    "key": "62262",
+    "status": "None"
+  },
+  {
+    "code": "62264",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8271",
+    "name": "Bad Waltersdorf",
+    "multiplePostalCodes": true,
+    "key": "62264",
+    "status": "MarketTown"
+  },
+  {
+    "code": "62265",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8241",
+    "name": "Dechantskirchen",
+    "multiplePostalCodes": false,
+    "key": "62265",
+    "status": "None"
+  },
+  {
+    "code": "62266",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8221",
+    "name": "Feistritztal",
+    "multiplePostalCodes": true,
+    "key": "62266",
+    "status": "None"
+  },
+  {
+    "code": "62267",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8280",
+    "name": "Fürstenfeld",
+    "multiplePostalCodes": true,
+    "key": "62267",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "62268",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8232",
+    "name": "Grafendorf bei Hartberg",
+    "multiplePostalCodes": true,
+    "key": "62268",
+    "status": "MarketTown"
+  },
+  {
+    "code": "62269",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8263",
+    "name": "Großwilfersdorf",
+    "multiplePostalCodes": true,
+    "key": "62269",
+    "status": "None"
+  },
+  {
+    "code": "62270",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8224",
+    "name": "Hartl",
+    "multiplePostalCodes": true,
+    "key": "62270",
+    "status": "None"
+  },
+  {
+    "code": "62271",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8262",
+    "name": "Ilz",
+    "multiplePostalCodes": true,
+    "key": "62271",
+    "status": "MarketTown"
+  },
+  {
+    "code": "62272",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8224",
+    "name": "Kaindorf",
+    "multiplePostalCodes": true,
+    "key": "62272",
+    "status": "MarketTown"
+  },
+  {
+    "code": "62273",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8282",
+    "name": "Bad Loipersdorf",
+    "multiplePostalCodes": true,
+    "key": "62273",
+    "status": "None"
+  },
+  {
+    "code": "62274",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8292",
+    "name": "Neudau",
+    "multiplePostalCodes": false,
+    "key": "62274",
+    "status": "MarketTown"
+  },
+  {
+    "code": "62275",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8225",
+    "name": "Pöllau",
+    "multiplePostalCodes": true,
+    "key": "62275",
+    "status": "MarketTown"
+  },
+  {
+    "code": "62276",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8294",
+    "name": "Rohr bei Hartberg",
+    "multiplePostalCodes": true,
+    "key": "62276",
+    "status": "None"
+  },
+  {
+    "code": "62277",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8234",
+    "name": "Rohrbach an der Lafnitz",
+    "multiplePostalCodes": true,
+    "key": "62277",
+    "status": "None"
+  },
+  {
+    "code": "62278",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8250",
+    "name": "Vorau",
+    "multiplePostalCodes": true,
+    "key": "62278",
+    "status": "MarketTown"
+  },
+  {
+    "code": "62279",
+    "district": {
+      "code": "622",
+      "name": "Hartberg-Fürstenfeld",
+      "key": "622"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8252",
+    "name": "Waldbach-Mönichwald",
+    "multiplePostalCodes": true,
+    "key": "62279",
+    "status": "None"
+  }
+]

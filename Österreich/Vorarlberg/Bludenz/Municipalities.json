@@ -1,0 +1,495 @@
+[
+  {
+    "code": "80101",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6781",
+    "name": "Bartholomäberg",
+    "multiplePostalCodes": false,
+    "key": "80101",
+    "status": "None"
+  },
+  {
+    "code": "80102",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6723",
+    "name": "Blons",
+    "multiplePostalCodes": false,
+    "key": "80102",
+    "status": "None"
+  },
+  {
+    "code": "80103",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6700",
+    "name": "Bludenz",
+    "multiplePostalCodes": true,
+    "key": "80103",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "80104",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6719",
+    "name": "Bludesch",
+    "multiplePostalCodes": false,
+    "key": "80104",
+    "status": "None"
+  },
+  {
+    "code": "80105",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6708",
+    "name": "Brand",
+    "multiplePostalCodes": false,
+    "key": "80105",
+    "status": "None"
+  },
+  {
+    "code": "80106",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6706",
+    "name": "Bürs",
+    "multiplePostalCodes": false,
+    "key": "80106",
+    "status": "None"
+  },
+  {
+    "code": "80107",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6707",
+    "name": "Bürserberg",
+    "multiplePostalCodes": false,
+    "key": "80107",
+    "status": "None"
+  },
+  {
+    "code": "80108",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6752",
+    "name": "Dalaas",
+    "multiplePostalCodes": true,
+    "key": "80108",
+    "status": "None"
+  },
+  {
+    "code": "80109",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6733",
+    "name": "Fontanella",
+    "multiplePostalCodes": true,
+    "key": "80109",
+    "status": "None"
+  },
+  {
+    "code": "80110",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6793",
+    "name": "Gaschurn",
+    "multiplePostalCodes": true,
+    "key": "80110",
+    "status": "None"
+  },
+  {
+    "code": "80111",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6751",
+    "name": "Innerbraz",
+    "multiplePostalCodes": false,
+    "key": "80111",
+    "status": "None"
+  },
+  {
+    "code": "80112",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6754",
+    "name": "Klösterle",
+    "multiplePostalCodes": true,
+    "key": "80112",
+    "status": "None"
+  },
+  {
+    "code": "80113",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6764",
+    "name": "Lech",
+    "multiplePostalCodes": true,
+    "key": "80113",
+    "status": "None"
+  },
+  {
+    "code": "80114",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6700",
+    "name": "Lorüns",
+    "multiplePostalCodes": false,
+    "key": "80114",
+    "status": "None"
+  },
+  {
+    "code": "80115",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6713",
+    "name": "Ludesch",
+    "multiplePostalCodes": false,
+    "key": "80115",
+    "status": "None"
+  },
+  {
+    "code": "80116",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6710",
+    "name": "Nenzing",
+    "multiplePostalCodes": true,
+    "key": "80116",
+    "status": "MarketTown"
+  },
+  {
+    "code": "80117",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6714",
+    "name": "Nüziders",
+    "multiplePostalCodes": false,
+    "key": "80117",
+    "status": "None"
+  },
+  {
+    "code": "80118",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6741",
+    "name": "Raggal",
+    "multiplePostalCodes": false,
+    "key": "80118",
+    "status": "None"
+  },
+  {
+    "code": "80119",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6771",
+    "name": "St. Anton im Montafon",
+    "multiplePostalCodes": false,
+    "key": "80119",
+    "status": "None"
+  },
+  {
+    "code": "80120",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6791",
+    "name": "St. Gallenkirch",
+    "multiplePostalCodes": true,
+    "key": "80120",
+    "status": "None"
+  },
+  {
+    "code": "80121",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6722",
+    "name": "St. Gerold",
+    "multiplePostalCodes": false,
+    "key": "80121",
+    "status": "None"
+  },
+  {
+    "code": "80122",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6780",
+    "name": "Schruns",
+    "multiplePostalCodes": false,
+    "key": "80122",
+    "status": "MarketTown"
+  },
+  {
+    "code": "80123",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6782",
+    "name": "Silbertal",
+    "multiplePostalCodes": false,
+    "key": "80123",
+    "status": "None"
+  },
+  {
+    "code": "80124",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6731",
+    "name": "Sonntag",
+    "multiplePostalCodes": false,
+    "key": "80124",
+    "status": "None"
+  },
+  {
+    "code": "80125",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6700",
+    "name": "Stallehr",
+    "multiplePostalCodes": false,
+    "key": "80125",
+    "status": "None"
+  },
+  {
+    "code": "80126",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6712",
+    "name": "Thüringen",
+    "multiplePostalCodes": false,
+    "key": "80126",
+    "status": "None"
+  },
+  {
+    "code": "80127",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6721",
+    "name": "Thüringerberg",
+    "multiplePostalCodes": false,
+    "key": "80127",
+    "status": "None"
+  },
+  {
+    "code": "80128",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6774",
+    "name": "Tschagguns",
+    "multiplePostalCodes": false,
+    "key": "80128",
+    "status": "None"
+  },
+  {
+    "code": "80129",
+    "district": {
+      "code": "801",
+      "name": "Bludenz",
+      "key": "801"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6773",
+    "name": "Vandans",
+    "multiplePostalCodes": false,
+    "key": "80129",
+    "status": "None"
+  }
+]

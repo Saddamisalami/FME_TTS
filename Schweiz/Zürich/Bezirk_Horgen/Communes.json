@@ -1,0 +1,128 @@
+[
+  {
+    "district": {
+      "name": "Bezirk Horgen",
+      "key": "106"
+    },
+    "name": "Adliswil",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Adliswil",
+    "key": "131"
+  },
+  {
+    "district": {
+      "name": "Bezirk Horgen",
+      "key": "106"
+    },
+    "name": "Kilchberg (ZH)",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Kilchberg (ZH)",
+    "key": "135"
+  },
+  {
+    "district": {
+      "name": "Bezirk Horgen",
+      "key": "106"
+    },
+    "name": "Langnau am Albis",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Langnau am Albis",
+    "key": "136"
+  },
+  {
+    "district": {
+      "name": "Bezirk Horgen",
+      "key": "106"
+    },
+    "name": "Oberrieden",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Oberrieden",
+    "key": "137"
+  },
+  {
+    "district": {
+      "name": "Bezirk Horgen",
+      "key": "106"
+    },
+    "name": "Richterswil",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Richterswil",
+    "key": "138"
+  },
+  {
+    "district": {
+      "name": "Bezirk Horgen",
+      "key": "106"
+    },
+    "name": "Rüschlikon",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Rüschlikon",
+    "key": "139"
+  },
+  {
+    "district": {
+      "name": "Bezirk Horgen",
+      "key": "106"
+    },
+    "name": "Thalwil",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Thalwil",
+    "key": "141"
+  },
+  {
+    "district": {
+      "name": "Bezirk Horgen",
+      "key": "106"
+    },
+    "name": "Wädenswil",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Wädenswil",
+    "key": "293"
+  },
+  {
+    "district": {
+      "name": "Bezirk Horgen",
+      "key": "106"
+    },
+    "name": "Horgen",
+    "canton": {
+      "code": "ZH",
+      "name": "Zürich",
+      "key": "1"
+    },
+    "shortName": "Horgen",
+    "key": "295"
+  }
+]

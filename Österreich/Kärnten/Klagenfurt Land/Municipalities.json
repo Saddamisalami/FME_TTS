@@ -1,0 +1,325 @@
+[
+  {
+    "code": "20402",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9065",
+    "name": "Ebenthal in Kärnten",
+    "multiplePostalCodes": false,
+    "key": "20402",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20403",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9181",
+    "name": "Feistritz im Rosental",
+    "multiplePostalCodes": true,
+    "key": "20403",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20405",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9170",
+    "name": "Ferlach",
+    "multiplePostalCodes": true,
+    "key": "20405",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "20409",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9131",
+    "name": "Grafenstein",
+    "multiplePostalCodes": false,
+    "key": "20409",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20412",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9074",
+    "name": "Keutschach am See",
+    "multiplePostalCodes": false,
+    "key": "20412",
+    "status": "None"
+  },
+  {
+    "code": "20414",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9071",
+    "name": "Köttmannsdorf",
+    "multiplePostalCodes": true,
+    "key": "20414",
+    "status": "None"
+  },
+  {
+    "code": "20415",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9201",
+    "name": "Krumpendorf am Wörthersee",
+    "multiplePostalCodes": true,
+    "key": "20415",
+    "status": "None"
+  },
+  {
+    "code": "20416",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9072",
+    "name": "Ludmannsdorf",
+    "multiplePostalCodes": true,
+    "key": "20416",
+    "status": "None"
+  },
+  {
+    "code": "20417",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9161",
+    "name": "Maria Rain",
+    "multiplePostalCodes": false,
+    "key": "20417",
+    "status": "None"
+  },
+  {
+    "code": "20418",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9063",
+    "name": "Maria Saal",
+    "multiplePostalCodes": true,
+    "key": "20418",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20419",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9081",
+    "name": "Maria Wörth",
+    "multiplePostalCodes": true,
+    "key": "20419",
+    "status": "None"
+  },
+  {
+    "code": "20421",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9062",
+    "name": "Moosburg",
+    "multiplePostalCodes": true,
+    "key": "20421",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20424",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9210",
+    "name": "Pörtschach am Wörther See",
+    "multiplePostalCodes": true,
+    "key": "20424",
+    "status": "None"
+  },
+  {
+    "code": "20425",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9130",
+    "name": "Poggersdorf",
+    "multiplePostalCodes": false,
+    "key": "20425",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20428",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9173",
+    "name": "St. Margareten im Rosental",
+    "multiplePostalCodes": false,
+    "key": "20428",
+    "status": "None"
+  },
+  {
+    "code": "20432",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9535",
+    "name": "Schiefling am Wörthersee",
+    "multiplePostalCodes": true,
+    "key": "20432",
+    "status": "MarketTown"
+  },
+  {
+    "code": "20435",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9212",
+    "name": "Techelsberg am Wörther See",
+    "multiplePostalCodes": true,
+    "key": "20435",
+    "status": "None"
+  },
+  {
+    "code": "20441",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9170",
+    "name": "Zell",
+    "multiplePostalCodes": true,
+    "key": "20441",
+    "status": "None"
+  },
+  {
+    "code": "20442",
+    "district": {
+      "code": "204",
+      "name": "Klagenfurt Land",
+      "key": "204"
+    },
+    "federalProvince": {
+      "name": "Kärnten",
+      "key": "2"
+    },
+    "postalCode": "9064",
+    "name": "Magdalensberg",
+    "multiplePostalCodes": true,
+    "key": "20442",
+    "status": "MarketTown"
+  }
+]

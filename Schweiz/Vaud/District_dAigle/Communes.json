@@ -1,0 +1,212 @@
+[
+  {
+    "district": {
+      "name": "District d'Aigle",
+      "key": "2221"
+    },
+    "name": "Aigle",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Aigle",
+    "key": "5401"
+  },
+  {
+    "district": {
+      "name": "District d'Aigle",
+      "key": "2221"
+    },
+    "name": "Bex",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Bex",
+    "key": "5402"
+  },
+  {
+    "district": {
+      "name": "District d'Aigle",
+      "key": "2221"
+    },
+    "name": "Chessel",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Chessel",
+    "key": "5403"
+  },
+  {
+    "district": {
+      "name": "District d'Aigle",
+      "key": "2221"
+    },
+    "name": "Corbeyrier",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Corbeyrier",
+    "key": "5404"
+  },
+  {
+    "district": {
+      "name": "District d'Aigle",
+      "key": "2221"
+    },
+    "name": "Gryon",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Gryon",
+    "key": "5405"
+  },
+  {
+    "district": {
+      "name": "District d'Aigle",
+      "key": "2221"
+    },
+    "name": "Lavey-Morcles",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Lavey-Morcles",
+    "key": "5406"
+  },
+  {
+    "district": {
+      "name": "District d'Aigle",
+      "key": "2221"
+    },
+    "name": "Leysin",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Leysin",
+    "key": "5407"
+  },
+  {
+    "district": {
+      "name": "District d'Aigle",
+      "key": "2221"
+    },
+    "name": "Noville",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Noville",
+    "key": "5408"
+  },
+  {
+    "district": {
+      "name": "District d'Aigle",
+      "key": "2221"
+    },
+    "name": "Ollon",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Ollon",
+    "key": "5409"
+  },
+  {
+    "district": {
+      "name": "District d'Aigle",
+      "key": "2221"
+    },
+    "name": "Ormont-Dessous",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Ormont-Dessous",
+    "key": "5410"
+  },
+  {
+    "district": {
+      "name": "District d'Aigle",
+      "key": "2221"
+    },
+    "name": "Ormont-Dessus",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Ormont-Dessus",
+    "key": "5411"
+  },
+  {
+    "district": {
+      "name": "District d'Aigle",
+      "key": "2221"
+    },
+    "name": "Rennaz",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Rennaz",
+    "key": "5412"
+  },
+  {
+    "district": {
+      "name": "District d'Aigle",
+      "key": "2221"
+    },
+    "name": "Roche (VD)",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Roche (VD)",
+    "key": "5413"
+  },
+  {
+    "district": {
+      "name": "District d'Aigle",
+      "key": "2221"
+    },
+    "name": "Villeneuve (VD)",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Villeneuve (VD)",
+    "key": "5414"
+  },
+  {
+    "district": {
+      "name": "District d'Aigle",
+      "key": "2221"
+    },
+    "name": "Yvorne",
+    "canton": {
+      "code": "VD",
+      "name": "Vaud",
+      "key": "22"
+    },
+    "shortName": "Yvorne",
+    "key": "5415"
+  }
+]

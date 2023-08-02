@@ -1,0 +1,342 @@
+[
+  {
+    "code": "70401",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6371",
+    "name": "Aurach bei Kitzbühel",
+    "multiplePostalCodes": false,
+    "key": "70401",
+    "status": "None"
+  },
+  {
+    "code": "70402",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6364",
+    "name": "Brixen im Thale",
+    "multiplePostalCodes": false,
+    "key": "70402",
+    "status": "None"
+  },
+  {
+    "code": "70403",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6391",
+    "name": "Fieberbrunn",
+    "multiplePostalCodes": false,
+    "key": "70403",
+    "status": "MarketTown"
+  },
+  {
+    "code": "70404",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6353",
+    "name": "Going am Wilden Kaiser",
+    "multiplePostalCodes": false,
+    "key": "70404",
+    "status": "None"
+  },
+  {
+    "code": "70405",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6395",
+    "name": "Hochfilzen",
+    "multiplePostalCodes": false,
+    "key": "70405",
+    "status": "None"
+  },
+  {
+    "code": "70406",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6361",
+    "name": "Hopfgarten im Brixental",
+    "multiplePostalCodes": true,
+    "key": "70406",
+    "status": "MarketTown"
+  },
+  {
+    "code": "70407",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6305",
+    "name": "Itter",
+    "multiplePostalCodes": false,
+    "key": "70407",
+    "status": "None"
+  },
+  {
+    "code": "70408",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6373",
+    "name": "Jochberg",
+    "multiplePostalCodes": false,
+    "key": "70408",
+    "status": "None"
+  },
+  {
+    "code": "70409",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6365",
+    "name": "Kirchberg in Tirol",
+    "multiplePostalCodes": false,
+    "key": "70409",
+    "status": "None"
+  },
+  {
+    "code": "70410",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6382",
+    "name": "Kirchdorf in Tirol",
+    "multiplePostalCodes": true,
+    "key": "70410",
+    "status": "None"
+  },
+  {
+    "code": "70411",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6370",
+    "name": "Kitzbühel",
+    "multiplePostalCodes": false,
+    "key": "70411",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "70412",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6345",
+    "name": "Kössen",
+    "multiplePostalCodes": false,
+    "key": "70412",
+    "status": "None"
+  },
+  {
+    "code": "70413",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6372",
+    "name": "Oberndorf in Tirol",
+    "multiplePostalCodes": false,
+    "key": "70413",
+    "status": "None"
+  },
+  {
+    "code": "70414",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6370",
+    "name": "Reith bei Kitzbühel",
+    "multiplePostalCodes": true,
+    "key": "70414",
+    "status": "None"
+  },
+  {
+    "code": "70415",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6392",
+    "name": "St. Jakob in Haus",
+    "multiplePostalCodes": false,
+    "key": "70415",
+    "status": "None"
+  },
+  {
+    "code": "70416",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6380",
+    "name": "St. Johann in Tirol",
+    "multiplePostalCodes": false,
+    "key": "70416",
+    "status": "MarketTown"
+  },
+  {
+    "code": "70417",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6393",
+    "name": "St. Ulrich am Pillersee",
+    "multiplePostalCodes": false,
+    "key": "70417",
+    "status": "None"
+  },
+  {
+    "code": "70418",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6385",
+    "name": "Schwendt",
+    "multiplePostalCodes": false,
+    "key": "70418",
+    "status": "None"
+  },
+  {
+    "code": "70419",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6384",
+    "name": "Waidring",
+    "multiplePostalCodes": false,
+    "key": "70419",
+    "status": "None"
+  },
+  {
+    "code": "70420",
+    "district": {
+      "code": "704",
+      "name": "Kitzbühel",
+      "key": "704"
+    },
+    "federalProvince": {
+      "name": "Tirol",
+      "key": "7"
+    },
+    "postalCode": "6363",
+    "name": "Westendorf",
+    "multiplePostalCodes": false,
+    "key": "70420",
+    "status": "None"
+  }
+]

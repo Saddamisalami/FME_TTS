@@ -1,0 +1,240 @@
+[
+  {
+    "code": "61410",
+    "district": {
+      "code": "614",
+      "name": "Murau",
+      "key": "614"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8822",
+    "name": "Mühlen",
+    "multiplePostalCodes": true,
+    "key": "61410",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61413",
+    "district": {
+      "code": "614",
+      "name": "Murau",
+      "key": "614"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8831",
+    "name": "Niederwölz",
+    "multiplePostalCodes": true,
+    "key": "61413",
+    "status": "None"
+  },
+  {
+    "code": "61425",
+    "district": {
+      "code": "614",
+      "name": "Murau",
+      "key": "614"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8843",
+    "name": "St. Peter am Kammersberg",
+    "multiplePostalCodes": true,
+    "key": "61425",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61428",
+    "district": {
+      "code": "614",
+      "name": "Murau",
+      "key": "614"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8844",
+    "name": "Schöder",
+    "multiplePostalCodes": false,
+    "key": "61428",
+    "status": "None"
+  },
+  {
+    "code": "61437",
+    "district": {
+      "code": "614",
+      "name": "Murau",
+      "key": "614"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8854",
+    "name": "Krakau",
+    "multiplePostalCodes": false,
+    "key": "61437",
+    "status": "None"
+  },
+  {
+    "code": "61438",
+    "district": {
+      "code": "614",
+      "name": "Murau",
+      "key": "614"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8850",
+    "name": "Murau",
+    "multiplePostalCodes": true,
+    "key": "61438",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "61439",
+    "district": {
+      "code": "614",
+      "name": "Murau",
+      "key": "614"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8820",
+    "name": "Neumarkt in der Steiermark",
+    "multiplePostalCodes": true,
+    "key": "61439",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61440",
+    "district": {
+      "code": "614",
+      "name": "Murau",
+      "key": "614"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8832",
+    "name": "Oberwölz",
+    "multiplePostalCodes": true,
+    "key": "61440",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "61441",
+    "district": {
+      "code": "614",
+      "name": "Murau",
+      "key": "614"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8853",
+    "name": "Ranten",
+    "multiplePostalCodes": true,
+    "key": "61441",
+    "status": "None"
+  },
+  {
+    "code": "61442",
+    "district": {
+      "code": "614",
+      "name": "Murau",
+      "key": "614"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8861",
+    "name": "Sankt Georgen am Kreischberg",
+    "multiplePostalCodes": true,
+    "key": "61442",
+    "status": "None"
+  },
+  {
+    "code": "61443",
+    "district": {
+      "code": "614",
+      "name": "Murau",
+      "key": "614"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8813",
+    "name": "Sankt Lambrecht",
+    "multiplePostalCodes": true,
+    "key": "61443",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61444",
+    "district": {
+      "code": "614",
+      "name": "Murau",
+      "key": "614"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8811",
+    "name": "Scheifling",
+    "multiplePostalCodes": false,
+    "key": "61444",
+    "status": "MarketTown"
+  },
+  {
+    "code": "61445",
+    "district": {
+      "code": "614",
+      "name": "Murau",
+      "key": "614"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8862",
+    "name": "Stadl-Predlitz",
+    "multiplePostalCodes": true,
+    "key": "61445",
+    "status": "None"
+  },
+  {
+    "code": "61446",
+    "district": {
+      "code": "614",
+      "name": "Murau",
+      "key": "614"
+    },
+    "federalProvince": {
+      "name": "Steiermark",
+      "key": "6"
+    },
+    "postalCode": "8833",
+    "name": "Teufenbach-Katsch",
+    "multiplePostalCodes": true,
+    "key": "61446",
+    "status": "None"
+  }
+]

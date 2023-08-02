@@ -1,0 +1,206 @@
+[
+  {
+    "code": "10501",
+    "district": {
+      "code": "105",
+      "name": "Jennersdorf",
+      "key": "105"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7572",
+    "name": "Deutsch Kaltenbrunn",
+    "multiplePostalCodes": false,
+    "key": "10501",
+    "status": "MarketTown"
+  },
+  {
+    "code": "10502",
+    "district": {
+      "code": "105",
+      "name": "Jennersdorf",
+      "key": "105"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7562",
+    "name": "Eltendorf",
+    "multiplePostalCodes": false,
+    "key": "10502",
+    "status": "None"
+  },
+  {
+    "code": "10503",
+    "district": {
+      "code": "105",
+      "name": "Jennersdorf",
+      "key": "105"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7561",
+    "name": "Heiligenkreuz im Lafnitztal",
+    "multiplePostalCodes": false,
+    "key": "10503",
+    "status": "MarketTown"
+  },
+  {
+    "code": "10504",
+    "district": {
+      "code": "105",
+      "name": "Jennersdorf",
+      "key": "105"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "8380",
+    "name": "Jennersdorf",
+    "multiplePostalCodes": true,
+    "key": "10504",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "10505",
+    "district": {
+      "code": "105",
+      "name": "Jennersdorf",
+      "key": "105"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "8384",
+    "name": "Minihof-Liebau",
+    "multiplePostalCodes": false,
+    "key": "10505",
+    "status": "MarketTown"
+  },
+  {
+    "code": "10506",
+    "district": {
+      "code": "105",
+      "name": "Jennersdorf",
+      "key": "105"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "8382",
+    "name": "Mogersdorf",
+    "multiplePostalCodes": false,
+    "key": "10506",
+    "status": "MarketTown"
+  },
+  {
+    "code": "10507",
+    "district": {
+      "code": "105",
+      "name": "Jennersdorf",
+      "key": "105"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "8385",
+    "name": "Neuhaus am Klausenbach",
+    "multiplePostalCodes": true,
+    "key": "10507",
+    "status": "MarketTown"
+  },
+  {
+    "code": "10508",
+    "district": {
+      "code": "105",
+      "name": "Jennersdorf",
+      "key": "105"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7571",
+    "name": "Rudersdorf",
+    "multiplePostalCodes": true,
+    "key": "10508",
+    "status": "MarketTown"
+  },
+  {
+    "code": "10509",
+    "district": {
+      "code": "105",
+      "name": "Jennersdorf",
+      "key": "105"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "8383",
+    "name": "Sankt Martin an der Raab",
+    "multiplePostalCodes": true,
+    "key": "10509",
+    "status": "MarketTown"
+  },
+  {
+    "code": "10510",
+    "district": {
+      "code": "105",
+      "name": "Jennersdorf",
+      "key": "105"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "8382",
+    "name": "Weichselbaum",
+    "multiplePostalCodes": false,
+    "key": "10510",
+    "status": "None"
+  },
+  {
+    "code": "10511",
+    "district": {
+      "code": "105",
+      "name": "Jennersdorf",
+      "key": "105"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "7563",
+    "name": "Königsdorf",
+    "multiplePostalCodes": false,
+    "key": "10511",
+    "status": "None"
+  },
+  {
+    "code": "10512",
+    "district": {
+      "code": "105",
+      "name": "Jennersdorf",
+      "key": "105"
+    },
+    "federalProvince": {
+      "name": "Burgenland",
+      "key": "1"
+    },
+    "postalCode": "8385",
+    "name": "Mühlgraben",
+    "multiplePostalCodes": false,
+    "key": "10512",
+    "status": "None"
+  }
+]

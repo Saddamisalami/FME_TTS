@@ -1,0 +1,478 @@
+[
+  {
+    "code": "50601",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5733",
+    "name": "Bramberg am Wildkogel",
+    "multiplePostalCodes": true,
+    "key": "50601",
+    "status": "None"
+  },
+  {
+    "code": "50602",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5671",
+    "name": "Bruck an der Großglocknerstraße",
+    "multiplePostalCodes": true,
+    "key": "50602",
+    "status": "None"
+  },
+  {
+    "code": "50603",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5652",
+    "name": "Dienten am Hochkönig",
+    "multiplePostalCodes": false,
+    "key": "50603",
+    "status": "None"
+  },
+  {
+    "code": "50604",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5672",
+    "name": "Fusch an der Großglocknerstraße",
+    "multiplePostalCodes": false,
+    "key": "50604",
+    "status": "None"
+  },
+  {
+    "code": "50605",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5731",
+    "name": "Hollersbach im Pinzgau",
+    "multiplePostalCodes": false,
+    "key": "50605",
+    "status": "None"
+  },
+  {
+    "code": "50606",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5710",
+    "name": "Kaprun",
+    "multiplePostalCodes": false,
+    "key": "50606",
+    "status": "None"
+  },
+  {
+    "code": "50607",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5743",
+    "name": "Krimml",
+    "multiplePostalCodes": false,
+    "key": "50607",
+    "status": "None"
+  },
+  {
+    "code": "50608",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5651",
+    "name": "Lend",
+    "multiplePostalCodes": true,
+    "key": "50608",
+    "status": "None"
+  },
+  {
+    "code": "50609",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5771",
+    "name": "Leogang",
+    "multiplePostalCodes": false,
+    "key": "50609",
+    "status": "None"
+  },
+  {
+    "code": "50610",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5090",
+    "name": "Lofer",
+    "multiplePostalCodes": false,
+    "key": "50610",
+    "status": "MarketTown"
+  },
+  {
+    "code": "50611",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5751",
+    "name": "Maishofen",
+    "multiplePostalCodes": false,
+    "key": "50611",
+    "status": "None"
+  },
+  {
+    "code": "50612",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5761",
+    "name": "Maria Alm am Steinernen Meer",
+    "multiplePostalCodes": false,
+    "key": "50612",
+    "status": "None"
+  },
+  {
+    "code": "50613",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5730",
+    "name": "Mittersill",
+    "multiplePostalCodes": true,
+    "key": "50613",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "50614",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5741",
+    "name": "Neukirchen am Großvenediger",
+    "multiplePostalCodes": false,
+    "key": "50614",
+    "status": "MarketTown"
+  },
+  {
+    "code": "50615",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5722",
+    "name": "Niedernsill",
+    "multiplePostalCodes": false,
+    "key": "50615",
+    "status": "None"
+  },
+  {
+    "code": "50616",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5721",
+    "name": "Piesendorf",
+    "multiplePostalCodes": false,
+    "key": "50616",
+    "status": "None"
+  },
+  {
+    "code": "50617",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5661",
+    "name": "Rauris",
+    "multiplePostalCodes": false,
+    "key": "50617",
+    "status": "MarketTown"
+  },
+  {
+    "code": "50618",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5753",
+    "name": "Saalbach-Hinterglemm",
+    "multiplePostalCodes": true,
+    "key": "50618",
+    "status": "None"
+  },
+  {
+    "code": "50619",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5760",
+    "name": "Saalfelden am Steinernen Meer",
+    "multiplePostalCodes": false,
+    "key": "50619",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "50620",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5092",
+    "name": "Sankt Martin bei Lofer",
+    "multiplePostalCodes": false,
+    "key": "50620",
+    "status": "None"
+  },
+  {
+    "code": "50621",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5724",
+    "name": "Stuhlfelden",
+    "multiplePostalCodes": false,
+    "key": "50621",
+    "status": "None"
+  },
+  {
+    "code": "50622",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5660",
+    "name": "Taxenbach",
+    "multiplePostalCodes": true,
+    "key": "50622",
+    "status": "MarketTown"
+  },
+  {
+    "code": "50623",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5091",
+    "name": "Unken",
+    "multiplePostalCodes": false,
+    "key": "50623",
+    "status": "None"
+  },
+  {
+    "code": "50624",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5723",
+    "name": "Uttendorf",
+    "multiplePostalCodes": false,
+    "key": "50624",
+    "status": "None"
+  },
+  {
+    "code": "50625",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5752",
+    "name": "Viehhofen",
+    "multiplePostalCodes": false,
+    "key": "50625",
+    "status": "None"
+  },
+  {
+    "code": "50626",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5742",
+    "name": "Wald im Pinzgau",
+    "multiplePostalCodes": false,
+    "key": "50626",
+    "status": "None"
+  },
+  {
+    "code": "50627",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5093",
+    "name": "Weißbach bei Lofer",
+    "multiplePostalCodes": false,
+    "key": "50627",
+    "status": "None"
+  },
+  {
+    "code": "50628",
+    "district": {
+      "code": "506",
+      "name": "Zell am See",
+      "key": "506"
+    },
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "postalCode": "5700",
+    "name": "Zell am See",
+    "multiplePostalCodes": false,
+    "key": "50628",
+    "status": "UrbanMunicipality"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "code": "501",
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "name": "Salzburg ( Stadt)",
+    "key": "501"
+  },
+  {
+    "code": "502",
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "name": "Hallein",
+    "key": "502"
+  },
+  {
+    "code": "503",
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "name": "Salzburg-Umgebung",
+    "key": "503"
+  },
+  {
+    "code": "504",
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "name": "Sankt Johann im Pongau",
+    "key": "504"
+  },
+  {
+    "code": "505",
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "name": "Tamsweg",
+    "key": "505"
+  },
+  {
+    "code": "506",
+    "federalProvince": {
+      "name": "Salzburg",
+      "key": "5"
+    },
+    "name": "Zell am See",
+    "key": "506"
+  }
+]

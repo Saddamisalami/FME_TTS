@@ -1,0 +1,682 @@
+[
+  {
+    "code": "80201",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6861",
+    "name": "Alberschwende",
+    "multiplePostalCodes": false,
+    "key": "80201",
+    "status": "None"
+  },
+  {
+    "code": "80202",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6866",
+    "name": "Andelsbuch",
+    "multiplePostalCodes": false,
+    "key": "80202",
+    "status": "None"
+  },
+  {
+    "code": "80203",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6883",
+    "name": "Au",
+    "multiplePostalCodes": false,
+    "key": "80203",
+    "status": "None"
+  },
+  {
+    "code": "80204",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6870",
+    "name": "Bezau",
+    "multiplePostalCodes": false,
+    "key": "80204",
+    "status": "MarketTown"
+  },
+  {
+    "code": "80205",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6858",
+    "name": "Bildstein",
+    "multiplePostalCodes": false,
+    "key": "80205",
+    "status": "None"
+  },
+  {
+    "code": "80206",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6874",
+    "name": "Bizau",
+    "multiplePostalCodes": false,
+    "key": "80206",
+    "status": "None"
+  },
+  {
+    "code": "80207",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6900",
+    "name": "Bregenz",
+    "multiplePostalCodes": false,
+    "key": "80207",
+    "status": "UrbanMunicipality"
+  },
+  {
+    "code": "80208",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6960",
+    "name": "Buch",
+    "multiplePostalCodes": false,
+    "key": "80208",
+    "status": "None"
+  },
+  {
+    "code": "80209",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6884",
+    "name": "Damüls",
+    "multiplePostalCodes": false,
+    "key": "80209",
+    "status": "None"
+  },
+  {
+    "code": "80210",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6933",
+    "name": "Doren",
+    "multiplePostalCodes": false,
+    "key": "80210",
+    "status": "None"
+  },
+  {
+    "code": "80211",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6863",
+    "name": "Egg",
+    "multiplePostalCodes": false,
+    "key": "80211",
+    "status": "MarketTown"
+  },
+  {
+    "code": "80212",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6911",
+    "name": "Eichenberg",
+    "multiplePostalCodes": false,
+    "key": "80212",
+    "status": "None"
+  },
+  {
+    "code": "80213",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6972",
+    "name": "Fußach",
+    "multiplePostalCodes": true,
+    "key": "80213",
+    "status": "None"
+  },
+  {
+    "code": "80214",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6974",
+    "name": "Gaißau",
+    "multiplePostalCodes": false,
+    "key": "80214",
+    "status": "None"
+  },
+  {
+    "code": "80215",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6971",
+    "name": "Hard",
+    "multiplePostalCodes": false,
+    "key": "80215",
+    "status": "MarketTown"
+  },
+  {
+    "code": "80216",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6952",
+    "name": "Hittisau",
+    "multiplePostalCodes": false,
+    "key": "80216",
+    "status": "None"
+  },
+  {
+    "code": "80217",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6973",
+    "name": "Höchst",
+    "multiplePostalCodes": false,
+    "key": "80217",
+    "status": "None"
+  },
+  {
+    "code": "80218",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6912",
+    "name": "Hörbranz",
+    "multiplePostalCodes": false,
+    "key": "80218",
+    "status": "MarketTown"
+  },
+  {
+    "code": "80219",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6914",
+    "name": "Hohenweiler",
+    "multiplePostalCodes": false,
+    "key": "80219",
+    "status": "None"
+  },
+  {
+    "code": "80220",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6921",
+    "name": "Kennelbach",
+    "multiplePostalCodes": false,
+    "key": "80220",
+    "status": "None"
+  },
+  {
+    "code": "80221",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6942",
+    "name": "Krumbach",
+    "multiplePostalCodes": false,
+    "key": "80221",
+    "status": "None"
+  },
+  {
+    "code": "80222",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6932",
+    "name": "Langen bei Bregenz",
+    "multiplePostalCodes": false,
+    "key": "80222",
+    "status": "None"
+  },
+  {
+    "code": "80223",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6941",
+    "name": "Langenegg",
+    "multiplePostalCodes": false,
+    "key": "80223",
+    "status": "None"
+  },
+  {
+    "code": "80224",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6923",
+    "name": "Lauterach",
+    "multiplePostalCodes": false,
+    "key": "80224",
+    "status": "MarketTown"
+  },
+  {
+    "code": "80225",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6951",
+    "name": "Lingenau",
+    "multiplePostalCodes": false,
+    "key": "80225",
+    "status": "None"
+  },
+  {
+    "code": "80226",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6911",
+    "name": "Lochau",
+    "multiplePostalCodes": true,
+    "key": "80226",
+    "status": "None"
+  },
+  {
+    "code": "80227",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6881",
+    "name": "Mellau",
+    "multiplePostalCodes": false,
+    "key": "80227",
+    "status": "None"
+  },
+  {
+    "code": "80228",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6991",
+    "name": "Mittelberg",
+    "multiplePostalCodes": true,
+    "key": "80228",
+    "status": "None"
+  },
+  {
+    "code": "80229",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6900",
+    "name": "Möggers",
+    "multiplePostalCodes": false,
+    "key": "80229",
+    "status": "None"
+  },
+  {
+    "code": "80230",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6870",
+    "name": "Reuthe",
+    "multiplePostalCodes": false,
+    "key": "80230",
+    "status": "None"
+  },
+  {
+    "code": "80231",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6943",
+    "name": "Riefensberg",
+    "multiplePostalCodes": false,
+    "key": "80231",
+    "status": "None"
+  },
+  {
+    "code": "80232",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6882",
+    "name": "Schnepfau",
+    "multiplePostalCodes": false,
+    "key": "80232",
+    "status": "None"
+  },
+  {
+    "code": "80233",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6886",
+    "name": "Schoppernau",
+    "multiplePostalCodes": false,
+    "key": "80233",
+    "status": "None"
+  },
+  {
+    "code": "80234",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6888",
+    "name": "Schröcken",
+    "multiplePostalCodes": false,
+    "key": "80234",
+    "status": "None"
+  },
+  {
+    "code": "80235",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6858",
+    "name": "Schwarzach",
+    "multiplePostalCodes": false,
+    "key": "80235",
+    "status": "None"
+  },
+  {
+    "code": "80236",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6867",
+    "name": "Schwarzenberg",
+    "multiplePostalCodes": true,
+    "key": "80236",
+    "status": "None"
+  },
+  {
+    "code": "80237",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6952",
+    "name": "Sibratsgfäll",
+    "multiplePostalCodes": false,
+    "key": "80237",
+    "status": "None"
+  },
+  {
+    "code": "80238",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6934",
+    "name": "Sulzberg",
+    "multiplePostalCodes": false,
+    "key": "80238",
+    "status": "None"
+  },
+  {
+    "code": "80239",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6767",
+    "name": "Warth",
+    "multiplePostalCodes": false,
+    "key": "80239",
+    "status": "None"
+  },
+  {
+    "code": "80240",
+    "district": {
+      "code": "802",
+      "name": "Bregenz",
+      "key": "802"
+    },
+    "federalProvince": {
+      "name": "Vorarlberg",
+      "key": "8"
+    },
+    "postalCode": "6922",
+    "name": "Wolfurt",
+    "multiplePostalCodes": false,
+    "key": "80240",
+    "status": "MarketTown"
+  }
+]
