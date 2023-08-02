@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" width="603px" height="763px" viewBox="0 0 603 763" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <clipPath id="m">
+    <path id="s" d="m1.5,1.5v460c0,165.686 134.314,300 300,300c165.685,0 300-134.314 300-300v-460z"/>
+  </clipPath>
+  <radialGradient id="a" cx="0" cy="0" r="300" gradientTransform="matrix(1.215 0 0 1.2667 203.3286 244.107331)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" stop-opacity=".31373" offset="0"/>
+    <stop stop-color="#fff" stop-opacity=".251" offset=".19"/>
+    <stop stop-color="#6b6b6b" stop-opacity=".1255" offset=".6"/>
+    <stop stop-opacity=".1255" offset="1"/>
+  </radialGradient>
+  <use xlink:href="#s" fill="#e20909"/>
+  <g clip-path="url(#m)" fill="#fff" stroke="#000" stroke-width="3">
+    <path d="m299.36 15.11 22.388 77.749 77.744-22.403-56.139 58.263 58.273 56.127-78.525-19.486-19.471 78.53-22.388-77.749-77.743 22.403 56.138-58.263-58.273-56.126 78.525 19.485z"/>
+    <path d="m0,257.7h603v249.7H0z"/>
+  </g>
+  <use xlink:href="#s" fill="url(#a)" stroke="#000" stroke-width="3"/>
+</svg>

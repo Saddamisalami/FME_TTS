@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" width="603px" height="763px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <path id="s" d="m1.5 1.5v458.87c0 166.31 134.31 301.13 300 301.13 165.69 0 300-134.82 300-301.13v-458.87h-600z"/>
+    <radialGradient id="a" cx="205" cy="240" r="355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".31373" offset="0"/>
+      <stop stop-color="#fff" stop-opacity=".25" offset=".2"/>
+      <stop stop-color="#6b6b6b" stop-opacity=".125" offset=".6"/>
+      <stop stop-opacity=".125" offset="1"/>
+    </radialGradient>
+  </defs>
+  <use xlink:href="#s" fill="#fff"/>
+  <rect fill="#e20909" stroke="#000" stroke-width="3" x="1.5" y="243.5" width="600" height="219"/>
+  <circle cx="301.5" cy="353" r="75"/>
+  <circle cx="115.5" cy="353" r="75"/>
+  <circle cx="487.5" cy="353" r="75"/>
+  <use xlink:href="#s" fill="url(#a)" stroke="#000" stroke-width="3"/>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="700"
+width="600" fill="#FDDD04" stroke="#000" stroke-width="3">
+<path fill="#1C63B7" stroke-width="8" d="m4
+4v396a296,296 0 0,0 592,0V4z"/>
+<path transform="translate(27,64)scale(.58)"
+d="m225,4 61,151 162-25-103,129 103,129-162-25-61
+151-61-151-162,25 103-129-103-129 162,25z"/>
+<path transform="translate(314,64)scale(.58)"
+d="m225,4 61,151 162-25-103,129 103,129-162-25-61
+151-61-151-162,25 103-129-103-129 162,25z"/>
+<path transform="translate(169,310)scale(.58)"
+d="m225,4 61,151 162-25-103,129 103,129-162-25-61
+151-61-151-162,25 103-129-103-129 162,25z"/>
+</svg>

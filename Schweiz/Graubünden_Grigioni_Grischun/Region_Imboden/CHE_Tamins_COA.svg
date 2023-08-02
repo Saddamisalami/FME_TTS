@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+width="600" height="700" stroke="#000">
+<path fill="#0FAB4B" stroke-width="6"
+d="m3,3v397a297,297 0 0,0 594,0V3z"/>
+<path fill="#FDDD04" stroke-width="4"
+d="m300,88 61,151 162-25-103,129
+103,129-162-25-61,151-61-151-162,25
+103-129-103-129 162,25z"/>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" width="603px" height="763px" viewBox="0 0 603 763" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <clipPath id="m">
+    <path id="s" d="m1.5,1.5v460c0,165.686 134.314,300 300,300c165.685,0 300-134.314 300-300v-460z"/>
+  </clipPath>
+  <radialGradient id="a" cx="0" cy="0" r="300" gradientTransform="matrix(1.215 0 0 1.2667 203.3286 244.107331)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" stop-opacity=".31373" offset="0"/>
+    <stop stop-color="#fff" stop-opacity=".251" offset=".19"/>
+    <stop stop-color="#6b6b6b" stop-opacity=".1255" offset=".6"/>
+    <stop stop-opacity=".1255" offset="1"/>
+  </radialGradient>
+  <use xlink:href="#s" fill="#2b5df2"/>
+  <path clip-path="url(#m)" fill="#5ab532" d="m0,533h603v230H0z"/>
+  <path fill="#e20909" stroke="#000" stroke-width="2.75" d="m518.5 490.88c-51.5 0-57.5 29.125-108.5 29.125s-57-29.125-108.5-29.125-57.5 29.125-108.5 29.125-57-29.125-108.5-29.125c-38.955 0-51.881 16.661-77.936 24.779 3.386 18.314 8.423 36.044 14.95 53.033 17.632-8.377 32.158-18.813 62.986-18.813 51.5 0 57.5 29.125 108.5 29.125s57-29.125 108.5-29.125 57.5 29.125 108.5 29.125 57-29.125 108.5-29.125c30.828 0 45.354 10.436 62.985 18.813 6.528-16.989 11.564-34.719 14.951-53.033-26.055-8.118-38.981-24.779-77.936-24.779z"/>
+  <g transform="translate(301.5 255)">
+    <circle r="74" fill="#fcef3c" stroke="#000" stroke-width="3"/>
+    <g id="ry" stroke-linecap="round">
+      <path d="m0-201v108"/>
+      <path d="m0-201v108" transform="rotate(40)"/>
+      <path d="m0-201v108" transform="rotate(80)"/>
+      <path d="m0-201v108" transform="rotate(120)"/>
+      <path d="m0-201v108" transform="rotate(160)"/>
+      <path d="m0-201v108" transform="rotate(200)"/>
+      <path d="m0-201v108" transform="rotate(240)"/>
+      <path d="m0-201v108" transform="rotate(280)"/>
+      <path d="m0-201v108" transform="rotate(320)"/>
+    </g>
+    <use xlink:href="#ry" stroke="#000" stroke-width="19"/>
+    <use xlink:href="#ry" stroke="#fcef3c" stroke-width="13"/>
+  </g>
+  <use xlink:href="#s" fill="url(#a)" stroke="#000" stroke-width="3"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" width="603" height="763" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <path id="s" d="M1.5,1.5v460c0,165.686,134.314,300,300,300c165.685,0,300-134.314,300-300v-460z"/>
+    <radialGradient id="a" cx="858.04" cy="579.93" r="300" gradientTransform="matrix(1.215 0 0 1.2667 -839.19 -490.49)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".314" offset="0"/>
+      <stop stop-color="#fff" stop-opacity=".25" offset=".2"/>
+      <stop stop-color="#6b6b6b" stop-opacity=".125" offset=".6"/>
+      <stop stop-opacity=".125" offset="1"/>
+    </radialGradient>
+  </defs>
+  <use xlink:href="#s" fill="#2b5df2"/>
+  <g fill="#fff" stroke="#000" stroke-width="3">
+    <circle cx="150" cy="223" r="123.5"/>
+    <circle cx="450" cy="223" r="123.5"/>
+    <circle cx="300" cy="540" r="123.5"/>
+  </g>
+  <use xlink:href="#s" fill="url(#a)" stroke="#000" stroke-width="3"/>
+</svg>

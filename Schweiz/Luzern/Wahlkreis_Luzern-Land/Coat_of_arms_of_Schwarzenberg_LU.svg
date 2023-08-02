@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="520" height="585" viewBox="0,0 100,112.5">
+  <title>Wappen von Schwarzenberg</title>
+  <desc>Wappen der Schweizer Gemeinde Schwarzenberg, Kanton Luzern</desc>
+  <g stroke="black">
+    <path d="M 1,1 V 62.5 a 49,49 0 0,0 98,0 V 1 z" stroke-width="2" fill="white" />
+    <path d="M 10.9,91.2 L 24,66 37,91 50,66 63,91 76,66 89.1,91.2 A 48.5,48.5 0 0,1 10.9,91.2 z" stroke-width="1" fill="#0093dd" />
+    <path d="M 24,12 V 66 m 26,0 V 12 m 26,0 V 66" stroke-width="6" />
+    <path d="M 10,24 H 90 m 0,29 H 10" stroke-width="5" />
+    <path d="M 21,64 H 26.15 L 73.85,14 H 76" stroke-width="4" />
+  </g>
+</svg>

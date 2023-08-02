@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="438" height="480" viewBox="21 15 438 480">
+  <defs>
+    <clipPath id="clippath">
+      <path d="M360 4140a3240 3240 0 0 0 6480 0V270H360v3870Z"/>
+    </clipPath>
+    <style>
+      .Rand3{stroke:#202020;stroke-width:45}.Silber{fill:#fff}
+    </style>
+  </defs>
+  <g fill="none" fill-rule="evenodd" stroke-miterlimit="10" stroke-width="10" transform="scale(.06667)">
+    <g clip-path="url(#clippath)">
+      <path id="feld-1" fill="red" d="M-225-225v7650h7650V-225H-225Z"/>
+      <path id="kreuz-1" d="M-225 2970v1260h7650V2970H-225Z" class="Silber"/>
+      <path id="kreuz-2" d="M2970-225v7650h1260V-225H2970Z" class="Silber"/>
+      <path id="linie-1" d="M2970-225v3195H-225" class="Rand3"/>
+      <path id="linie-2" d="M4230-225v3195h3195" class="Rand3"/>
+      <path id="linie-3" d="M-225 4230h3195v3195" class="Rand3"/>
+      <path id="linie-4" d="M7425 4230H4230v3195" class="Rand3"/>
+    </g>
+    <path id="clip-boundary" stroke="#202020" stroke-width="90" d="M360 4140a3240 3240 0 0 0 6480 0V270H360v3870Z"/>
+  </g>
+</svg>

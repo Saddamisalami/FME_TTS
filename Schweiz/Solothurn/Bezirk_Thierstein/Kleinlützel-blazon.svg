@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="208.86046"
+   height="244.65999"
+   id="svg2780"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Kleinlützel-blazon.svg">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3259"
+     inkscape:window-height="1417"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="100.04838"
+     inkscape:cy="154.41895"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2780"
+     inkscape:measure-start="104.255,149.787"
+     inkscape:measure-end="104.255,126.383"
+     showguides="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs2782" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#feeb00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4212"
+     d="m 1,1 3.761095,158.00304 c 2.686489,112.85918 196.651755,112.85918 199.338255,0 L 207.86045,1 Z" />
+  <path
+     id="path9987-9-9-4-6"
+     style="opacity:1;fill:#1b63c6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:4.57999992;stroke-opacity:1"
+     d="m 4.5926171,152.64967 c 3.8154488,-0.91309 7.6806569,-1.5309 11.6500319,-1.5309 15.207046,0 28.885171,9.06773 44.093795,9.06773 15.208623,0 28.886763,-9.06773 44.093796,-9.06773 15.20705,0 28.88517,9.06773 44.0938,9.06773 15.20862,0 28.88676,-9.06773 44.09379,-9.06773 3.93944,0 7.77628,0.60852 11.5637,1.51029 l 1.17529,-47.03643 c -4.16902,-1.05847 -8.39153,-1.79958 -12.73899,-1.79958 -15.20703,0 -28.88517,9.06773 -44.09379,9.06773 -15.20863,0 -28.88675,-9.06773 -44.0938,-9.06773 -15.207033,0 -28.885173,9.06773 -44.093796,9.06773 -15.208624,0 -28.886749,-9.06773 -44.093795,-9.06773 -4.405518,0 -8.6827205,0.76103 -12.9059923,1.84215 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csssssccssssscc" />
+  <path
+     style="opacity:1;fill:#cc2918;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:4.57999992;stroke-opacity:1"
+     d="M 150.09336,44.704372 113.43247,47.438269 104.43024,11.531276 95.428002,47.438264 58.767115,44.704363 89.864326,64.55993 76.208882,98.37953 104.43024,75.141685 132.65159,98.37953 118.99616,64.55993 Z"
+     id="path12002"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4212-3"
+     d="M 1,0.99999834 4.761095,159.00304 c 2.686489,112.85918 196.651755,112.85918 199.338255,0 l 3.7611,-158.00304166 z" />
+</svg>

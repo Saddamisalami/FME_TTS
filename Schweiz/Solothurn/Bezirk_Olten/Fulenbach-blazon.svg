@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="208.86046"
+   height="244.65999"
+   id="svg2780"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Fulenbach-blazon.svg">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3259"
+     inkscape:window-height="1417"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="200.68766"
+     inkscape:cy="118.70097"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2780"
+     inkscape:measure-start="104.255,149.787"
+     inkscape:measure-end="104.255,126.383"
+     showguides="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-object-midpoints="true" />
+  <defs
+     id="defs2782" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#009645;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4212"
+     d="m 1,1 3.761095,158.00304 c 2.686489,112.85918 196.651755,112.85918 199.338255,0 L 207.86045,1 Z" />
+  <path
+     style="opacity:1;fill:#1b63c6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.57999992;stroke-opacity:1"
+     d="M 1.0000014,1 3.2045978,93.614826 205.66701,92.413566 207.86045,1 Z"
+     id="path898"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path850-6-6"
+     style="opacity:1;fill:#feeb00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.57999992;stroke-opacity:1"
+     d="m 130.12188,24.884125 -12.66319,14.907793 12.66321,14.90778 -19.17744,-3.567991 -6.51422,18.475798 -6.514224,-18.475798 -19.177434,3.567991 12.66321,-14.90778 -12.66321,-14.907806 19.177434,3.568005 6.514224,-18.475785 6.51422,18.475785 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccc" />
+  <path
+     id="path9987-9-9-4-6"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:4.57999992;stroke-opacity:1"
+     d="m 4.9578309,148.45367 c 2.6832403,-0.54842 5.3981201,-0.88101 8.1617691,-0.88101 15.745585,0 29.908104,10.79582 45.655322,10.79582 15.747218,0 29.909753,-10.79582 45.655318,-10.79582 15.74559,0 29.90811,10.79582 45.65532,10.79582 15.74722,0 29.90976,-10.79582 45.65533,-10.79582 2.95637,0 5.85694,0.38059 8.72266,0.99885 l 1.47059,-68.623456 c -3.34364,-0.81475 -6.73015,-1.336986 -10.19325,-1.336986 -15.74557,0 -29.90811,10.79581 -45.65533,10.79581 -15.74721,0 -29.90973,-10.79581 -45.65532,-10.79581 -15.745565,0 -29.9081,10.79581 -45.655318,10.79581 -15.747218,0 -29.909737,-10.79581 -45.655322,-10.79581 -3.517464,0 -6.9559269,0.538763 -10.3507039,1.375576 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csssssccssssscc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4212-0"
+     d="M 1,0.99999834 4.761095,159.00304 c 2.686489,112.85918 196.651755,112.85918 199.338255,0 l 3.7611,-158.00304166 z" />
+</svg>
