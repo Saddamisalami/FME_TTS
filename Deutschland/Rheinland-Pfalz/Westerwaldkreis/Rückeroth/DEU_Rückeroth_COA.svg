@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="388" height="496" stroke-width="4">
+<clipPath id="x"><path d="m4,4v276a190,210 0 1,0 380,0V4"/></clipPath>
+<g clip-path="url(#x)"><path d="m4,4v488h380V4"/>
+<path stroke="#FCDD09" stroke-width="70" d="m194,0v496m194-253H0"/></g>
+<path fill="#EEE" stroke="#EEE" stroke-linejoin="round"
+d="m50,163 35-108 35,108-92-67h114zM268,163l35-108 35,108-92-67h114zM59
+410l35-108 35,108-92-67h114zM259,410l35-108 35,108-92-67h114z"/>
+<path fill="none" stroke="#000" d="m4,4v276a190,210 0 1,0 380,0V4z"/>
+</svg>

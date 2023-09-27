@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192.21164mm"
+   height="209.34361mm"
+   viewBox="0 0 681.06486 741.7687"
+   id="svg9972"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="DEU Wissen COA.svg">
+  <defs
+     id="defs9974" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.72798974"
+     inkscape:cx="340.53244"
+     inkscape:cy="370.88436"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true" />
+  <metadata
+     id="metadata9977">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-10.002859,-11.671925)">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:11;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="M 685.5227,17.171932 682.1247,433.7964 C 674.7097,609.04621 528.2048,747.84253 350.5353,747.94061 173.0256,747.72572 26.4659,608.87941 18.9459,433.7964 l -3.398,-416.624468 334.9794,0 z"
+       id="path10563-0-6-3"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 5.5449219 5.5 L 280.51758 361.10547 L 83.716797 615.61719 C 104.02517 640.10895 127.83239 661.64287 154.36328 679.48242 L 340.53125 438.7207 L 526.7832 679.58789 C 553.32125 661.75616 577.13113 640.22635 597.43555 615.73047 L 400.54883 361.10547 L 675.51953 5.5 L 555.48828 5.5 L 340.5332 283.49023 L 125.57812 5.5 L 5.5449219 5.5 z "
+       transform="translate(10.002859,11.671925)"
+       id="rect12740" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:11;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="M 685.5227,17.171925 682.1247,433.7964 C 674.7097,609.04622 528.2048,747.84252 350.5353,747.94062 173.0256,747.72572 26.4659,608.87942 18.9459,433.7964 l -3.398,-416.624475 334.9794,0 z"
+       id="path10563-0-6"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+</svg>
